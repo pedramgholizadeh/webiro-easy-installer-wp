@@ -1,1 +1,5 @@
-# webiro-easy-installer-wp
+# Installation
+git clone https://github.com/pedramgholizadeh/webiro/
+
+# Usage
+run 'installer.php' and install with duplicator! enjoy ...

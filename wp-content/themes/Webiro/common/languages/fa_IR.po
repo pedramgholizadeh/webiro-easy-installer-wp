@@ -1,0 +1,5684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zephyr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-20 10:55+0430\n"
+"PO-Revision-Date: 2020-05-10 11:12+0430\n"
+"Last-Translator: demoha <info@abzarwp.com>\n"
+"Language-Team: persianscript <persianscript@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:23 us-core/templates/404.php:66
+msgid "The link you followed may be broken, or the page may have been removed."
+msgstr "لینکی که آن را دنبال می کنید خراب یا برگه حذف شده است."
+
+#: common/admin/functions/about.php:68
+#, php-format
+msgid "Welcome to %s"
+msgstr "به %s خوش آمدید"
+
+#: common/admin/functions/about.php:72
+msgid "Online Documentation"
+msgstr "آموزش آنلاین"
+
+#: common/admin/functions/about.php:75
+msgid "Support Portal"
+msgstr "پشتیبانی"
+
+#: common/admin/functions/about.php:78
+msgid "Theme Changelog"
+msgstr "تغییرات پوسته"
+
+#: common/admin/functions/about.php:87
+#, php-format
+msgid "%s is activated"
+msgstr "%s فعال شده است"
+
+#: common/admin/functions/about.php:88
+#, php-format
+msgid "You can deactivate it on your %sLicenses%s page."
+msgstr "شما می توانید این مورد را در برگه %s لایسنس %s غیرفعال کنید."
+
+#: common/admin/functions/about.php:104
+#, php-format
+msgid "%s is not activated"
+msgstr "%s فعال نشده است"
+
+# این ترجمه رو هم تغییر ندادم
+#: common/admin/functions/about.php:108
+msgid "By activating theme license you will unlock premium options:"
+msgstr "این پوسته نیازی به فعال سازی ندارد."
+
+#: common/admin/functions/about.php:110
+msgid ""
+"Theme update notifications and ability to update the theme via one click"
+msgstr "اطلاع رسانی به روز رسانی پوسته و توانایی به روز رسانی پوسته با یک کلیک"
+
+#: common/admin/functions/about.php:111
+msgid "Ability to install and update premium addons via one click"
+msgstr "توانایی بروزرسانی و نصب افزونه های پرمیوم تنها با یک کلیک"
+
+#: common/admin/functions/about.php:112
+msgid "Ability to import any of theme demos"
+msgstr "توانایی وارد کردن هر یک از پوسته های دمو"
+
+#: common/admin/functions/about.php:114
+msgid "Don't have valid license yet?"
+msgstr "هنوز لایسنی معتبر ندارید؟"
+
+#: common/admin/functions/about.php:114
+#, php-format
+msgid "Purchase %s license"
+msgstr "خرید %s لایسنس"
+
+#: common/admin/functions/about.php:129
+msgid "Install Addons"
+msgstr "نصب افزونه ها"
+
+#: common/admin/functions/about.php:131
+#, php-format
+msgid ""
+"%s comes with popular plugins which increase theme abilities, install them "
+"via one click."
+msgstr ""
+"%s همراه با پلاگین های محبوب که توانایی های پوسته را افزایش می دهند، آن ها "
+"را با یک کلیک نصب کنید."
+
+#: common/admin/functions/about.php:132
+msgid "Go to Addons page"
+msgstr "برو به صفحه افزونه"
+
+#: common/admin/functions/about.php:135
+msgid "Import Demo Content"
+msgstr "درونریزی محتوای دمو"
+
+#: common/admin/functions/about.php:137
+msgid ""
+"Installed this theme for the first time? Import demo content to build your "
+"site not from scratch."
+msgstr ""
+"این پوسته را برای اولین بار نصب کرده اید؟ محتوای دمو را درون ریزی کنید تا "
+"نیاز به ساخت سایت از صفر نباشد."
+
+#: common/admin/functions/about.php:139
+msgid "Go to Demo Import"
+msgstr "درون ریزی اطلاعات"
+
+#: common/admin/functions/about.php:142
+msgid "Customize Appearance"
+msgstr "شخصی سازی ظاهر"
+
+#: common/admin/functions/about.php:144
+msgid ""
+"To customize the look of your site (colors, layouts, fonts) go to the Theme "
+"Options panel."
+msgstr ""
+"برای سفارشی سازی ظاهر سایت خود (رنگ ها، پوسته ها، فونت ها) به پنل تنظیمات "
+"پوسته بروید."
+
+#: common/admin/functions/about.php:145
+msgid "Go to Theme Options"
+msgstr "برو به تنظیمات پوسته"
+
+#: common/admin/functions/about.php:157 common/admin/functions/addons.php:25
+#, php-format
+msgid ""
+"To enable all features used by %s theme, install and activate %s plugin."
+msgstr ""
+"برای فعال نمودن همه ویژگی های استفاده شده در پوسته %s ، پلاگین %s را نصب و "
+"فعال کنید."
+
+#: common/admin/functions/addons.php:30
+msgid "Read more about it"
+msgstr "اطلاعات بیشتر"
+
+#: common/admin/functions/addons.php:43
+#, php-format
+msgid "This theme recommends to use %s plugin."
+msgstr "این پوسته به افزونه %s برای نصب نیاز دارد."
+
+#: common/admin/functions/addons.php:81
+msgid "Addons"
+msgstr "افزونه ها"
+
+#: common/admin/functions/addons.php:120
+msgid "Recommended Plugins"
+msgstr "افزونه هایی که توصیه می شوند"
+
+#: common/admin/functions/addons.php:121
+#, php-format
+msgid "Premium and free plugins, compatible with %s"
+msgstr "افزونه های رایگان و پولی ، سازگار با %s"
+
+#: common/admin/functions/addons.php:188
+#, php-format
+msgid "<a href=\"%s\">Activate the theme</a> to install premium addons"
+msgstr "<a href=\"%s\">فعال سازی پوسته</a> برای نصب افزونه های پریمیوم"
+
+#: common/admin/functions/addons.php:234
+msgid "Activating..."
+msgstr "در حال فعالسازی..."
+
+#: common/admin/functions/addons.php:402
+msgid "Please adjust file permissions to allow plugins installation"
+msgstr "لطفا مجوز فایل را برای نصب افزونه ها تنظیم کنید"
+
+#: common/functions/menu.php:133 us-core/functions/header.php:359
+msgid "Custom Menu"
+msgstr "منوی سفارشی"
+
+#: config/addons.php:13
+msgid "Adds plenty of features for Impreza and Zephyr themes."
+msgstr "اضافه نمودن تعداد زیادی ویژگی به پوسته های زفایر و ایمپرزا."
+
+#: config/addons.php:23
+msgid "Save time working on your website content."
+msgstr "صرفه جویی در زمان کار بر روی محتوای وب سایت شما."
+
+#: config/addons.php:32
+msgid "Create interactive sliders and presentations."
+msgstr "ایجاد اسلایدرهای خلاقانه و جذاب."
+
+#: config/addons.php:40
+msgid "Most popular eCommerce plugin that allows you to sell anything."
+msgstr ""
+"محبوب ترین افزونه تجارت الکترونیک که به شما اجازه می دهد هرچیزی بفروشید."
+
+#: config/addons.php:45
+msgid "Create and manage custom post types and taxonomies."
+msgstr "ایجاد و مدیریت انواع نوشته ها و دسته بندی های دلخواه."
+
+#: config/addons.php:50
+msgid "Add fields to edit screens and display their values on website pages."
+msgstr ""
+"ایجاد فیلدهایی برای ویرایش صفحات نمایش و نمایش مقادیر آنها در برگه های سایت."
+
+#: config/addons.php:55
+msgid "Create and manage tables."
+msgstr "ایجاد و مدیریت جداول."
+
+#: config/addons.php:60
+msgid "Create customizable contact forms and edit the mail contents."
+msgstr "ایجاد فرم های تماس قابل سفارشی سازی و ویرایش محتوای ایمیل ها."
+
+#: config/addons.php:65
+msgid "Improve your website search engine optimization."
+msgstr "عملکرد موتور جستجوی سایت را بهبود می بخشد."
+
+#: config/addons.php:70
+msgid "Resize, optimize and compress all of your images."
+msgstr "تغییر سایز، بهینه سازی و فشرده سازی همه تصاویر."
+
+#: config/addons.php:76
+msgid "Improve your website pages loading speed."
+msgstr "سرعت بارگذاری صفحات سایت را افزایش می دهد."
+
+#: config/addons.php:81
+msgid "Backup your website files and database."
+msgstr "از فایل ها و دیتابیس سایت پشتیبان بگیرید."
+
+#: us-core/admin/functions/demo-import.php:16
+msgid "Demo Import"
+msgstr "درون ریزی دمو"
+
+#: us-core/admin/functions/demo-import.php:35
+#, php-format
+msgid ""
+"Some of demo data may be imported incorrectly, because you are using "
+"outdated %s version. %sUpdate the theme%s to import demos without possible "
+"issues."
+msgstr ""
+"بخش هایی از اطلاعات دمو ممکن است ناقص درون ریزی شود. زیرا شما از ورژن قدیمی "
+"%s استفاده می کنید.  %s بروزرسانی پوسته را  دریافت نموده %s و دمو را درون "
+"ریزی کنید."
+
+#: us-core/admin/functions/demo-import.php:41
+msgid "Choose the demo for import"
+msgstr "لطفا دمویی را برای درونریزی وارد کنید"
+
+#: us-core/admin/functions/demo-import.php:42
+msgid ""
+"The images used in live demos will be replaced by placeholders due to "
+"copyright/license reasons."
+msgstr ""
+"تصاویر استفاده شده در دموهای زنده به دلیل قانون کپی رایت درونریزی نمی شوند."
+
+#: us-core/admin/functions/demo-import.php:51
+msgid "Click to choose"
+msgstr "برای انتخاب کلیک کنید"
+
+#: us-core/admin/functions/demo-import.php:53
+msgid "View this demo in a new tab"
+msgstr "مشاهده این دمو در تب جدید"
+
+#: us-core/admin/functions/demo-import.php:91
+#: us-core/admin/functions/demo-import.php:94
+#: us-core/admin/functions/demo-import.php:717
+#: us-core/config/grid-templates.php:1396
+#: us-core/config/grid-templates.php:1476
+#: us-core/config/grid-templates.php:1538
+#: us-core/config/grid-templates.php:1604
+#: us-core/config/grid-templates.php:1668
+#: us-core/config/grid-templates.php:1735
+#: us-core/config/grid-templates.php:1797
+#: us-core/config/grid-templates.php:1883
+#: us-core/config/grid-templates.php:1951
+#: us-core/config/grid-templates.php:2015
+#: us-core/config/grid-templates.php:2082
+#: us-core/config/grid-templates.php:2155
+#: us-core/config/grid-templates.php:2225
+#: us-core/config/grid-templates.php:2306
+#: us-core/config/grid-templates.php:2373
+#: us-core/config/grid-templates.php:2437
+#: us-core/config/grid-templates.php:2504
+#: us-core/config/grid-templates.php:2576
+#: us-core/config/grid-templates.php:2649 us-core/config/theme-options.php:2004
+#: us-core/config/theme-options.php:2354 us-core/config/widgets.php:151
+#: us-core/config/widgets.php:152 us-core/functions/post-types.php:23
+msgid "Portfolio"
+msgstr "نمونه کارها"
+
+#: us-core/admin/functions/demo-import.php:94
+#: us-core/admin/functions/demo-import.php:111
+#, php-format
+msgid "Enable %s module"
+msgstr "فعال کردن ماژول %s"
+
+#: us-core/admin/functions/demo-import.php:108
+#: us-core/admin/functions/demo-import.php:111
+#: us-core/admin/functions/demo-import.php:784
+#: us-core/config/theme-options.php:2360 us-core/functions/post-types.php:96
+msgid "Testimonials"
+msgstr "نظرات مشتریان"
+
+#: us-core/admin/functions/demo-import.php:121
+#: us-core/admin/functions/demo-import.php:851
+#: us-core/config/elements_misc.php:81 us-core/functions/post-types.php:156
+msgid "Headers"
+msgstr "سربرگ ها"
+
+#: us-core/admin/functions/demo-import.php:129
+#: us-core/admin/functions/demo-import.php:918
+#: us-core/admin/functions/grid-builder.php:15 us-core/config/widgets.php:14
+#: us-core/plugins-support/js_composer/js_composer.php:912
+#: us-core/usof/templates/fields/grid_layout_select.php:24
+msgid "Grid Layouts"
+msgstr "طرح های شبکه ای"
+
+#: us-core/admin/functions/demo-import.php:137
+#: us-core/admin/functions/demo-import.php:985
+#: us-core/config/elements_misc.php:84 us-core/config/elements_misc.php:87
+#: us-core/functions/post-types.php:258
+msgid "Page Blocks"
+msgstr "صفحات جدید ( فوتر و ... )"
+
+#: us-core/admin/functions/demo-import.php:144
+#: us-core/admin/functions/demo-import.php:1320
+#: us-core/admin/functions/demo-import.php:1341
+#: us-core/functions/header.php:485 us-core/usof/functions/interface.php:8
+#: us-core/usof/functions/interface.php:10
+#: us-core/usof/functions/interface.php:53
+msgid "Theme Options"
+msgstr "تنظیمات پوسته"
+
+#: us-core/admin/functions/demo-import.php:154
+#: us-core/admin/functions/demo-import.php:1375
+#: us-core/admin/functions/demo-import.php:1426
+msgid "Revolution Sliders"
+msgstr "اسلایدر روولوشن"
+
+#: us-core/admin/functions/demo-import.php:171
+#: us-core/admin/functions/demo-import.php:1201
+msgid "Shop Products"
+msgstr "محصولات فروشگاه"
+
+#: us-core/admin/functions/demo-import.php:189
+msgid "Importing Demo Content..."
+msgstr "در حال درون ریزی محتوا ..."
+
+#: us-core/admin/functions/demo-import.php:190
+msgid "Don't close or refresh this page to not interrupt the import."
+msgstr "این برگه را نبندید و رفرش نکنید تا مانع درون ریزی نشوید."
+
+#: us-core/admin/functions/demo-import.php:194
+msgid "Import completed"
+msgstr "درونریزی کامل شد"
+
+#: us-core/admin/functions/demo-import.php:195
+#, php-format
+msgid ""
+"Just check the result on %syour site%s or start customize via %sTheme Options"
+"%s."
+msgstr ""
+"Just check the result on %syour site%s or start customize via %sTheme Options"
+"%s."
+
+# به نظرم این عبارت مخصوصا اینجوری ترجمه شده، برای همین تغییرش ندادم
+#: us-core/admin/functions/demo-import.php:206
+#, php-format
+msgid "<a href=\"%s\">Activate the theme</a> to unlock Demo Import"
+msgstr ""
+"<a href=\"%s\">پوسته فعال می باشد</a>شما می توانید از آن به راحتی استفاده "
+"نمایید"
+
+#: us-core/admin/functions/demo-import.php:513
+#: us-core/admin/functions/demo-import.php:581
+#: us-core/admin/functions/demo-import.php:650
+#: us-core/admin/functions/demo-import.php:717
+#: us-core/admin/functions/demo-import.php:784
+#: us-core/admin/functions/demo-import.php:851
+#: us-core/admin/functions/demo-import.php:918
+#: us-core/admin/functions/demo-import.php:985
+#: us-core/admin/functions/demo-import.php:1201
+#: us-core/admin/functions/demo-import.php:1231
+#: us-core/admin/functions/demo-import.php:1244
+#: us-core/admin/functions/demo-import.php:1320
+#: us-core/admin/functions/demo-import.php:1341
+#: us-core/admin/functions/demo-import.php:1375
+#: us-core/admin/functions/demo-import.php:1426
+#, php-format
+msgid "Failed to import %s"
+msgstr "درون ریزی با شکست روبه رو شد %s"
+
+#: us-core/admin/functions/demo-import.php:514
+#: us-core/admin/functions/demo-import.php:582
+#: us-core/admin/functions/demo-import.php:651
+#: us-core/admin/functions/demo-import.php:718
+#: us-core/admin/functions/demo-import.php:785
+#: us-core/admin/functions/demo-import.php:852
+#: us-core/admin/functions/demo-import.php:919
+#: us-core/admin/functions/demo-import.php:986
+#: us-core/admin/functions/demo-import.php:1202
+#: us-core/admin/functions/demo-import.php:1232
+#: us-core/admin/functions/demo-import.php:1245
+#: us-core/admin/functions/demo-import.php:1321
+#: us-core/admin/functions/demo-import.php:1342
+#: us-core/admin/functions/demo-import.php:1376
+#: us-core/admin/functions/demo-import.php:1427
+msgid "Wrong path to the file or it is missing."
+msgstr "مسیر اشتباه را به فایل XML داده اید یا فایل گم شده است."
+
+#: us-core/admin/functions/grid-builder.php:16
+#: us-core/admin/functions/grid-builder.php:137
+#: us-core/config/elements/grid.php:358 us-core/config/widgets.php:161
+#: us-core/config/widgets.php:211
+msgid "Grid Layout"
+msgstr "طرح بندی شبکه ای"
+
+#: us-core/admin/functions/grid-builder.php:17
+#: us-core/admin/functions/grid-builder.php:18
+#: us-core/plugins-support/js_composer/js_composer.php:943
+#: us-core/usof/templates/fields/grid_layout_select.php:51
+msgid "Add Grid Layout"
+msgstr "افزودن طرح شبکه ای"
+
+#: us-core/admin/functions/grid-builder.php:41
+#: us-core/config/meta-boxes.php:277 us-core/functions/post-types.php:227
+#: us-core/functions/post-types.php:284
+msgid "Used in"
+msgstr "استفاده شده در"
+
+#: us-core/admin/functions/grid-builder.php:73
+#: us-core/config/elements/person.php:56
+#: us-core/config/elements/post_navigation.php:16
+#: us-core/config/elements/search.php:17 us-core/config/theme-options.php:2265
+#: us-core/plugins-support/js_composer/map/vc_wp_custommenu.php:25
+msgid "Layout"
+msgstr "طرح"
+
+#: us-core/admin/functions/grid-builder.php:145
+msgid "Grid Layout Name"
+msgstr "نام طرح شبکه ای"
+
+#: us-core/admin/functions/grid-builder.php:155
+#: us-core/admin/functions/header-builder.php:198
+#: us-core/usof/templates/fields/grid_builder.php:244
+msgid "Export / Import"
+msgstr "درون‌ریزی / برون‌ریزی"
+
+#: us-core/admin/functions/grid-builder.php:157
+msgid "Choose Grid Layout Template to start with"
+msgstr "قالب بندی طرح شبکه ای را برای شروع انتخاب کنید"
+
+#: us-core/admin/functions/header-builder.php:180
+#: us-core/admin/functions/header-builder.php:255
+#: us-core/functions/post-types.php:160
+msgid "Edit Header"
+msgstr "ویرایش سربرگ"
+
+#: us-core/admin/functions/header-builder.php:188
+msgid "Header Name"
+msgstr "نام سربرگ"
+
+#: us-core/admin/functions/header-builder.php:200
+msgid "Choose Header template to start with"
+msgstr "قالب بندی سربرگ را برای شروع انتخاب کنید"
+
+#: us-core/admin/functions/nav-menu-edit.php:203
+#: us-core/config/elements/post_content.php:28
+msgid "Exclude Rows and Columns"
+msgstr "ردیف ها و ستون ها را حذف کنید"
+
+#: us-core/admin/functions/theme-updater.php:161
+#: us-core/admin/functions/theme-updater.php:176
+#: us-core/admin/functions/theme-updater.php:191
+#, php-format
+msgid "%sActivate the theme%s to update it"
+msgstr "%sفعال کردن پوسته %s برای بروزرسانی خودکار"
+
+#: us-core/config/assets.php:26 us-core/config/elements/image.php:109
+#: us-core/config/elements/itext.php:63
+#: us-core/plugins-support/js_composer/map/vc_column.php:85
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:77
+msgid "Animation"
+msgstr "انیمیشن"
+
+#: us-core/config/assets.php:29
+msgid "Base Components"
+msgstr "اجزاء پایه"
+
+#: us-core/config/assets.php:32 us-core/config/elements/carousel.php:23
+#: us-core/config/elements/carousel.php:33
+#: us-core/config/elements/carousel.php:45
+#: us-core/config/elements/carousel.php:57
+#: us-core/config/elements/carousel.php:66
+#: us-core/config/elements/carousel.php:75
+#: us-core/config/elements/carousel.php:81
+#: us-core/config/elements/carousel.php:88
+#: us-core/config/elements/carousel.php:94
+#: us-core/config/elements/carousel.php:100
+#: us-core/config/elements/carousel.php:106
+#: us-core/config/elements/carousel.php:113
+#: us-core/config/elements/carousel.php:121
+#: us-core/config/elements/carousel.php:127
+#: us-core/config/elements/carousel.php:134
+msgid "Carousel"
+msgstr "پیمایشگر"
+
+#: us-core/config/assets.php:49
+msgid "Forms"
+msgstr "فرم ها"
+
+#: us-core/config/assets.php:54 us-core/config/menu-dropdown.php:57
+#: us-core/config/meta-boxes.php:31 us-core/config/theme-options.php:111
+#: us-core/config/theme-options.php:205 us-core/config/theme-options.php:300
+#: us-core/config/theme-options.php:952 us-core/config/theme-options.php:1036
+#: us-core/config/theme-options.php:1112 us-core/config/theme-options.php:2085
+#: us-core/config/theme-options.php:2163 us-core/functions/post-types.php:157
+#: us-core/functions/post-types.php:538
+msgid "Header"
+msgstr "سربرگ"
+
+#: us-core/config/assets.php:59
+#: us-core/plugins-support/js_composer/map/vc_row.php:219
+msgid "Horizontal Parallax"
+msgstr "پارالاکس افقی"
+
+#: us-core/config/assets.php:67
+msgid "Preloader"
+msgstr "پیش بارگیری"
+
+#: us-core/config/assets.php:72
+msgid "Print styles"
+msgstr "استایل های چاپ"
+
+#: us-core/config/assets.php:76
+msgid "Popups"
+msgstr "پنجره های بازشو"
+
+#: us-core/config/assets.php:80
+msgid "Scroll events"
+msgstr "رویدادهای پیمایشی"
+
+#: us-core/config/assets.php:85
+#: us-core/plugins-support/js_composer/map/vc_row.php:218
+msgid "Vertical Parallax"
+msgstr "پارالاکس عمودی"
+
+#: us-core/config/assets.php:89 us-core/config/assets.php:93
+#, php-format
+msgid "\"%s\" icons"
+msgstr "\"%s\" آیکن ها"
+
+#: us-core/config/assets.php:99 us-core/config/elements/cta.php:9
+msgid "ActionBox"
+msgstr "جعبه عملیات"
+
+#: us-core/config/assets.php:101
+msgid "Content Elements"
+msgstr "المان های محتوا"
+
+#: us-core/config/assets.php:104 us-core/config/elements/btn.php:8
+#: us-core/config/elements/cform.php:125 us-core/config/elements/cform.php:133
+#: us-core/config/elements/cform.php:141 us-core/config/elements/cform.php:149
+#: us-core/config/elements/cform.php:155 us-core/config/elements/cform.php:166
+#: us-core/config/elements/cform.php:172 us-core/config/elements/cform.php:182
+#: us-core/config/elements/cta.php:81 us-core/config/elements/cta.php:87
+#: us-core/config/elements/cta.php:95 us-core/config/elements/cta.php:102
+#: us-core/config/elements/cta.php:108 us-core/config/elements/cta.php:118
+#: us-core/config/elements/cta.php:126 us-core/config/elements/cta.php:133
+#: us-core/config/elements/cta.php:140 us-core/config/elements/cta.php:149
+#: us-core/config/elements/cta.php:157 us-core/config/elements/cta.php:164
+#: us-core/config/elements/cta.php:175
+#: us-core/config/elements/post_taxonomy.php:28
+#: us-core/config/theme-options.php:1976
+#: us-core/usof/templates/fields/grid_builder.php:96
+#: us-core/usof/templates/fields/header_builder.php:146
+#: us-core/usof/templates/fields/header_builder.php:276
+msgid "Button"
+msgstr "دکمه"
+
+#: us-core/config/assets.php:108
+msgid "Charts"
+msgstr "نمودارها"
+
+#: us-core/config/assets.php:116 us-core/config/elements/counter.php:7
+msgid "Counter"
+msgstr "شمارنده"
+
+#: us-core/config/assets.php:121 us-core/config/elements/cform.php:47
+#: us-core/config/elements/dropdown.php:18 us-core/config/elements/menu.php:162
+#: us-core/usof/templates/fields/header_builder.php:127
+#: us-core/usof/templates/fields/header_builder.php:274
+msgid "Dropdown"
+msgstr "بازشو"
+
+#: us-core/config/assets.php:126 us-core/config/elements/flipbox.php:7
+msgid "FlipBox"
+msgstr "باکس چرخشی"
+
+#: us-core/config/assets.php:131 us-core/config/assets.php:136
+#, php-format
+msgid "%s Maps"
+msgstr "%s نقشه"
+
+#: us-core/config/assets.php:141 us-core/config/elements/grid.php:133
+msgid "Grid"
+msgstr "شبکه ای"
+
+#: us-core/config/assets.php:146 us-core/config/grid-templates.php:1223
+msgid "Image Gallery"
+msgstr "گالری تصویر"
+
+#: us-core/config/assets.php:151 us-core/config/elements/image_slider.php:7
+msgid "Image Slider"
+msgstr "اسلایدر تصویر"
+
+#: us-core/config/assets.php:156 us-core/config/elements/iconbox.php:7
+msgid "IconBox"
+msgstr "باکس آیکون"
+
+#: us-core/config/assets.php:168 us-core/config/elements/itext.php:8
+msgid "Interactive Text"
+msgstr "متن تعاملی"
+
+#: us-core/config/assets.php:178 us-core/config/elements/message.php:6
+msgid "Message Box"
+msgstr "جعبه پیام"
+
+#: us-core/config/assets.php:183 us-core/config/elements/scroller.php:7
+msgid "Page Scroller"
+msgstr "اسکرول کننده برگه"
+
+#: us-core/config/assets.php:188 us-core/config/elements/person.php:7
+msgid "Person"
+msgstr "شخص"
+
+#: us-core/config/assets.php:192 us-core/config/elements/popup.php:7
+msgid "Popup"
+msgstr "باز شونده (پاپ آپ)"
+
+#: us-core/config/assets.php:197 us-core/config/elements/pricing.php:57
+msgid "Pricing Table"
+msgstr "جدول قیمت"
+
+#: us-core/config/assets.php:201 us-core/config/elements/progbar.php:7
+msgid "Progress Bar"
+msgstr "نوار پیشرفت"
+
+#: us-core/config/assets.php:211 us-core/config/elements/separator.php:7
+msgid "Separator"
+msgstr "جداکننده"
+
+#: us-core/config/assets.php:215 us-core/config/elements/sharing.php:7
+msgid "Sharing Buttons"
+msgstr "دکمه های اشتراک گذاری"
+
+#: us-core/config/assets.php:220 us-core/config/elements/socials.php:9
+#: us-core/config/widgets.php:247 us-core/config/widgets.php:248
+#: us-core/usof/templates/fields/header_builder.php:138
+#: us-core/usof/templates/fields/header_builder.php:275
+msgid "Social Links"
+msgstr "لینک های اجتماعی"
+
+# از اینجا به پایین اسم افکت های رنگیه. به نظر من بهتره که اسم شون در حالت انگیسی نوشته بشه ولی ترجمه هم انجام دادم
+# انتخاب با شما
+#: us-core/config/color-schemes.php:11
+msgid "White Pink"
+msgstr "سفید صورتی"
+
+#: us-core/config/color-schemes.php:79
+msgid "White Azure"
+msgstr "سفید لاجوردی"
+
+#: us-core/config/color-schemes.php:147
+msgid "Fresh Mint"
+msgstr "نعنای تازه"
+
+#: us-core/config/color-schemes.php:215
+msgid "White Purple"
+msgstr "سفید بنفش"
+
+#: us-core/config/color-schemes.php:283
+msgid "White Alizarin"
+msgstr "آلزارین سفید"
+
+#: us-core/config/color-schemes.php:351
+msgid "White Sand"
+msgstr "شن سفید"
+
+#: us-core/config/color-schemes.php:419
+msgid "White Royal"
+msgstr "سفید سلطنتی"
+
+#: us-core/config/color-schemes.php:487
+msgid "Light Tangerine"
+msgstr "نارنجی روشن"
+
+#: us-core/config/color-schemes.php:554
+msgid "White Yellow"
+msgstr "سفید زرد"
+
+#: us-core/config/color-schemes.php:622
+msgid "White Blue"
+msgstr "سفید آبی"
+
+#: us-core/config/color-schemes.php:690 us-core/config/elements/person.php:77
+msgid "Black & White"
+msgstr "سیاه و سفید"
+
+#: us-core/config/color-schemes.php:758
+msgid "Material Design"
+msgstr "متریال دیزاین"
+
+#: us-core/config/color-schemes.php:826
+msgid "Sunny Cocktail"
+msgstr "کوکتل آفتابی"
+
+#: us-core/config/color-schemes.php:894
+msgid "Mild Ocean"
+msgstr "اقیانوس معتدل"
+
+#: us-core/config/color-schemes.php:962
+msgid "Light Ocean"
+msgstr "اقیانوس روشن"
+
+#: us-core/config/color-schemes.php:1030
+msgid "Nautical Knot"
+msgstr "گره دریایی"
+
+#: us-core/config/color-schemes.php:1098
+msgid "Red Modern"
+msgstr "قرمز مدرن"
+
+#: us-core/config/color-schemes.php:1166
+msgid "Midnight Red"
+msgstr "نیمه شب قرمز"
+
+#: us-core/config/color-schemes.php:1234
+msgid "Stylish Cyan"
+msgstr "آبی شیک"
+
+#: us-core/config/color-schemes.php:1302
+msgid "Coffee Shop"
+msgstr "کافی شاپ"
+
+#: us-core/config/color-schemes.php:1370
+msgid "Retro Package"
+msgstr "بسته یکپارچه"
+
+#: us-core/config/color-schemes.php:1438
+msgid "Twilight"
+msgstr "گرگ و میش"
+
+#: us-core/config/color-schemes.php:1506
+msgid "Grey Turquoise"
+msgstr "فیروزه خاکستری"
+
+#: us-core/config/color-schemes.php:1574
+msgid "City Hunter"
+msgstr "شکارچی شهر"
+
+#: us-core/config/color-schemes.php:1642
+msgid "Black Gold"
+msgstr "طلای سیاه"
+
+#: us-core/config/color-schemes.php:1710
+msgid "Green Darkness"
+msgstr "تاریکی سبز"
+
+#: us-core/config/color-schemes.php:1778
+msgid "Wet Stone"
+msgstr "سنگ مرطوب"
+
+#: us-core/config/elements/add_to_cart.php:8
+#, php-format
+msgid "Product \"%s\" block"
+msgstr "بلوک \"%s\" محصول"
+
+#: us-core/config/elements/add_to_cart.php:9
+#: us-core/config/elements/post_author.php:10
+#: us-core/config/elements/post_comments.php:10
+#: us-core/config/elements/post_content.php:10
+#: us-core/config/elements/post_custom_field.php:50
+#: us-core/config/elements/post_date.php:15
+#: us-core/config/elements/post_image.php:9
+#: us-core/config/elements/post_navigation.php:11
+#: us-core/config/elements/post_taxonomy.php:12
+#: us-core/config/elements/post_title.php:10
+#: us-core/config/elements/product_field.php:23
+#: us-core/config/elements/product_gallery.php:7
+#: us-core/config/elements/product_ordering.php:7
+#: us-core/config/elements/vwrapper.php:8
+msgid "Post Elements"
+msgstr "المان های نوشته"
+
+#: us-core/config/elements/add_to_cart.php:21
+#: us-core/config/elements/btn.php:69 us-core/config/elements/cform.php:144
+#: us-core/config/elements/dropdown.php:107
+#: us-core/config/elements/socials.php:146
+msgid "Size on Mobiles"
+msgstr "اندازه در موبایل ها"
+
+#: us-core/config/elements/add_to_cart.php:30
+msgid "Show link to cart when adding products"
+msgstr "نمایش لینک به هنگام اضافه کردن محصولات به سبد"
+
+#: us-core/config/elements/additional_menu.php:7
+#: us-core/usof/templates/fields/header_builder.php:111
+#: us-core/usof/templates/fields/header_builder.php:273
+msgid "Links Menu"
+msgstr "منوی لینک ها"
+
+#: us-core/config/elements/additional_menu.php:19
+#: us-core/config/elements/breadcrumbs.php:24
+#: us-core/config/elements/ibanner.php:56
+#: us-core/config/elements/separator.php:130
+#: us-core/config/elements_typography_options.php:64
+#: us-core/config/theme-options.php:443 us-core/config/theme-options.php:1560
+#: us-core/config/theme-options.php:1836
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:145
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:180
+#: us-core/plugins-support/js_composer/map/vc_wp_custommenu.php:52
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+#: us-core/config/elements/additional_menu.php:24
+#: us-core/config/elements/additional_menu.php:32
+#: us-core/config/elements/additional_menu.php:40
+#: us-core/config/elements/additional_menu.php:67
+#: us-core/config/elements/additional_menu.php:95
+#: us-core/config/elements/additional_menu.php:123
+#: us-core/config/elements/image.php:140 us-core/config/elements/image.php:157
+#: us-core/config/elements/image.php:175 us-core/config/elements/image.php:193
+#: us-core/config/elements/image.php:199 us-core/config/elements/image.php:215
+#: us-core/config/elements/image.php:233 us-core/config/elements/image.php:251
+msgid "Sizes"
+msgstr "اندزه ها"
+
+#: us-core/config/elements/additional_menu.php:27
+msgid "Font Size on Tablets"
+msgstr "اندازه فونت در تبلت ها"
+
+#: us-core/config/elements/additional_menu.php:35
+#: us-core/config/elements_typography_options.php:82
+#: us-core/config/theme-options.php:515 us-core/config/theme-options.php:1591
+msgid "Font Size on Mobiles"
+msgstr "اندازه فونت در موبایل ها"
+
+#: us-core/config/elements/additional_menu.php:43
+msgid "Items Indents"
+msgstr "تو رفتگی آیتم ها"
+
+#: us-core/config/elements/additional_menu.php:70
+msgid "Items Indents on Tablets"
+msgstr "تو رفتگی آیتم ها در تبلت ها"
+
+#: us-core/config/elements/additional_menu.php:98
+msgid "Items Indents on Mobiles"
+msgstr "تو رفتگی آیتم ها در موبایل"
+
+#: us-core/config/elements/breadcrumbs.php:7
+msgid "Breadcrumbs"
+msgstr "مسیر راهنما"
+
+#: us-core/config/elements/breadcrumbs.php:8
+msgid "Shows current page location"
+msgstr "محل صفحه فعلی را نشان می دهد"
+
+#: us-core/config/elements/breadcrumbs.php:13
+msgid "Homepage Label"
+msgstr "عنوان صفحه اصلی"
+
+#: us-core/config/elements/breadcrumbs.php:14
+msgid "Leave blank to hide the homepage link"
+msgstr "برای پنهان سازی لینک صفحه اصلی، خالی بگذارید"
+
+#: us-core/config/elements/breadcrumbs.php:20
+msgid "Show current page"
+msgstr "نمایش صفحه کنونی"
+
+#: us-core/config/elements/breadcrumbs.php:44
+#: us-core/config/elements/post_taxonomy.php:46
+msgid "Separator between items"
+msgstr "جداسازی میان آیتم ها"
+
+#: us-core/config/elements/breadcrumbs.php:47
+#: us-core/config/elements/btn.php:110 us-core/config/elements/btn.php:113
+#: us-core/config/elements/btn.php:123 us-core/config/elements/cart.php:16
+#: us-core/config/elements/cform.php:107 us-core/config/elements/cform.php:169
+#: us-core/config/elements/cta.php:105 us-core/config/elements/cta.php:160
+#: us-core/config/elements/dropdown.php:65
+#: us-core/config/elements/flipbox.php:74
+#: us-core/config/elements/iconbox.php:15
+#: us-core/config/elements/message.php:45 us-core/config/elements/popup.php:96
+#: us-core/config/elements/post_author.php:82
+#: us-core/config/elements/post_comments.php:65
+#: us-core/config/elements/post_custom_field.php:125
+#: us-core/config/elements/post_date.php:52
+#: us-core/config/elements/post_taxonomy.php:80
+#: us-core/config/elements/search.php:76 us-core/config/elements/search.php:79
+#: us-core/config/elements/search.php:87 us-core/config/elements/search.php:95
+#: us-core/config/elements/search.php:103
+#: us-core/config/elements/separator.php:100
+#: us-core/config/elements/text.php:45
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:93
+#: us-core/plugins-support/js_composer/map/vc_tta_section.php:66
+msgid "Icon"
+msgstr "ایکون"
+
+#: us-core/config/elements/breadcrumbs.php:48
+msgid "Custom symbol"
+msgstr "نماد سفارشی"
+
+#: us-core/config/elements/btn.php:16 us-core/config/elements/cform.php:122
+#: us-core/config/elements/cta.php:78 us-core/config/elements/cta.php:129
+#: us-core/config/elements/flipbox.php:234 us-core/config/elements/grid.php:324
+#: us-core/config/elements/popup.php:40 us-core/config/elements/pricing.php:109
+msgid "Button Label"
+msgstr "لیبل دکمه"
+
+#: us-core/config/elements/btn.php:18 us-core/config/elements/cta.php:80
+#: us-core/config/elements/cta.php:131 us-core/config/elements/dropdown.php:31
+#: us-core/config/elements/flipbox.php:236 us-core/config/elements/popup.php:42
+msgid "Click Me"
+msgstr "کلیک کنید"
+
+#: us-core/config/elements/btn.php:27 us-core/config/elements/grid.php:473
+#: us-core/config/elements/post_author.php:20
+#: us-core/config/elements/post_custom_field.php:92
+#: us-core/config/elements/post_image.php:19
+#: us-core/config/elements/post_taxonomy.php:56
+#: us-core/config/elements/post_title.php:20
+msgid "To a Post"
+msgstr "به یک نوشته"
+
+#: us-core/config/elements/btn.php:28
+#: us-core/config/elements/post_custom_field.php:93
+#: us-core/config/elements/text.php:28
+msgid "Use the element value as link"
+msgstr "استفاده از مقدار المان به عنوان لینک"
+
+#: us-core/config/elements/btn.php:31 us-core/config/elements/counter.php:33
+#: us-core/config/elements/cta.php:50 us-core/config/elements/flipbox.php:79
+#: us-core/config/elements/grid.php:444 us-core/config/elements/image.php:88
+#: us-core/config/elements/message.php:20
+#: us-core/config/elements/post_author.php:21
+#: us-core/config/elements/post_comments.php:42
+#: us-core/config/elements/post_custom_field.php:96
+#: us-core/config/elements/post_date.php:39
+#: us-core/config/elements/post_image.php:22
+#: us-core/config/elements/post_taxonomy.php:58
+#: us-core/config/elements/post_title.php:23
+#: us-core/config/elements/separator.php:21 us-core/config/elements/text.php:31
+#: us-core/config/grid-settings.php:49 us-core/config/menu-dropdown.php:16
+#: us-core/plugins-support/js_composer/map/vc_row.php:165
+msgid "Custom"
+msgstr "سفارشی"
+
+#: us-core/config/elements/btn.php:61 us-core/config/elements/dropdown.php:99
+#: us-core/config/elements/socials.php:137
+#: us-core/config/elements_typography_options.php:73
+msgid "Size on Tablets"
+msgstr "اندازه در تبلت ها"
+
+#: us-core/config/elements/btn.php:81 us-core/config/elements/cform.php:153
+#: us-core/config/elements/grid.php:348
+msgid "Stretch to the full width"
+msgstr "کشیده شدن تا عرض کامل موجود"
+
+#: us-core/config/elements/btn.php:82
+msgid "Set a width"
+msgstr "تعیین عرض"
+
+#: us-core/config/elements/btn.php:83
+msgid "Set a maximum width"
+msgstr "تعیین عرض حداکثری"
+
+#: us-core/config/elements/btn.php:96 us-core/config/theme-options.php:712
+msgid "Button Position"
+msgstr "مکان دکمه"
+
+#: us-core/config/elements/btn.php:116 us-core/config/elements/cform.php:175
+#: us-core/config/elements/cta.php:111 us-core/config/elements/cta.php:167
+#: us-core/config/elements/flipbox.php:141
+#: us-core/config/elements/iconbox.php:63 us-core/config/elements/popup.php:103
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:108
+#: us-core/plugins-support/js_composer/map/vc_tta_section.php:73
+msgid "Icon Position"
+msgstr "مکان آیکون"
+
+#: us-core/config/elements/carousel.php:24 us-core/config/elements/grid.php:134
+msgid "List of images, posts, pages or any custom post types"
+msgstr "فهرستی از نوشته ها، برگه ها و پست تایپ های دلخواه"
+
+#: us-core/config/elements/carousel.php:31 us-core/config/elements/grid.php:489
+#: us-core/config/elements/image_slider.php:18
+msgid "Prev/Next arrows"
+msgstr "پیکان های بعدی/قبلی"
+
+#: us-core/config/elements/carousel.php:36
+msgid "Arrows Style"
+msgstr "استایل پیکان ها"
+
+#: us-core/config/elements/carousel.php:39
+msgid "Circles"
+msgstr "دایره"
+
+#: us-core/config/elements/carousel.php:40
+msgid "Full height blocks"
+msgstr "بلوک تمام عرض"
+
+#: us-core/config/elements/carousel.php:48
+msgid "Arrows Position"
+msgstr "مکان پیکان ها"
+
+#: us-core/config/elements/carousel.php:51
+msgid "Outside"
+msgstr "بیرون"
+
+#: us-core/config/elements/carousel.php:52
+msgid "Inside"
+msgstr "داخل"
+
+#: us-core/config/elements/carousel.php:60
+msgid "Arrows Size"
+msgstr "اندازه پیکان ها"
+
+#: us-core/config/elements/carousel.php:61
+#: us-core/config/elements/carousel.php:70
+#: us-core/config/elements/carousel.php:131
+#: us-core/config/elements/counter.php:14
+#: us-core/config/elements/counter.php:20 us-core/config/elements/grid.php:407
+#: us-core/config/elements/grid.php:450 us-core/config/elements/grid.php:459
+#: us-core/config/elements/popup.php:115
+#: us-core/config/elements/separator.php:27
+#: us-core/config/elements/separator.php:162
+#: us-core/config/elements/separator.php:177
+#: us-core/config/elements/socials.php:156 us-core/config/elements_misc.php:48
+#: us-core/config/elements_misc.php:51 us-core/config/elements_misc.php:54
+#: us-core/config/elements_misc.php:57 us-core/config/elements_misc.php:60
+#: us-core/config/elements_misc.php:63 us-core/config/elements_misc.php:66
+#: us-core/config/elements_misc.php:78
+#: us-core/plugins-support/js_composer/js_composer.php:813
+#: us-core/plugins-support/js_composer/map/vc_column.php:123
+#: us-core/plugins-support/js_composer/map/vc_row.php:30
+#: us-core/plugins-support/js_composer/map/vc_row.php:322
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:16
+#: us-core/usof/templates/fields/icon.php:55
+msgid "Examples:"
+msgstr "مثال ها:"
+
+#: us-core/config/elements/carousel.php:69
+msgid "Arrows Offset"
+msgstr "انحراف پیکان ها"
+
+#: us-core/config/elements/carousel.php:79
+msgid "Navigation Dots"
+msgstr "نمایش نقطه های ناوبری"
+
+#: us-core/config/elements/carousel.php:85
+msgid "First item in the center"
+msgstr "اولین عنصر در مرکز"
+
+#: us-core/config/elements/carousel.php:92
+msgid "Slide by several items instead of one"
+msgstr "اسلاید با آیتم های بیشتر از یک"
+
+#: us-core/config/elements/carousel.php:98
+msgid "Auto height (for 1 column only)"
+msgstr "ارتفاع خودکار (فقط برای یک ستون)"
+
+#: us-core/config/elements/carousel.php:104
+#: us-core/config/elements/carousel.php:155
+#: us-core/config/elements/carousel.php:177
+#: us-core/config/elements/carousel.php:199
+#: us-core/config/elements/image_slider.php:72
+msgid "Auto Rotation"
+msgstr "چرخش خودکار"
+
+#: us-core/config/elements/carousel.php:109
+#: us-core/config/elements/image_slider.php:82
+msgid "Auto Rotation Interval (in seconds)"
+msgstr "فاصله بین چرخش خودکار (به ثانیه)"
+
+#: us-core/config/elements/carousel.php:117
+msgid "Continual Rotation"
+msgstr "چرخش مداوم"
+
+#: us-core/config/elements/carousel.php:124
+#: us-core/config/elements/image_slider.php:50
+msgid "Slide Speed (in milliseconds)"
+msgstr "سرعت اسلاید (به میلی ثانیه)"
+
+#: us-core/config/elements/carousel.php:130
+#: us-core/config/elements/image_slider.php:40
+msgid "Transition Effect"
+msgstr "افکت انتقال (Transition)"
+
+#: us-core/config/elements/carousel.php:131
+msgid "Use timing function"
+msgstr "استفاده از تابع زمان بندی"
+
+#: us-core/config/elements/carousel.php:139
+#: us-core/config/elements/carousel.php:161
+#: us-core/config/elements/carousel.php:183
+#: us-core/config/elements/grid.php:539 us-core/config/elements/grid.php:556
+#: us-core/config/elements/grid.php:573
+#: us-core/config/elements/separator.php:154
+#: us-core/config/elements/separator.php:169
+msgid "Below screen width"
+msgstr "پهنای صفحه زیر"
+
+#: us-core/config/elements/carousel.php:146
+#: us-core/config/elements/carousel.php:168
+#: us-core/config/elements/carousel.php:190
+#: us-core/config/elements/grid.php:547 us-core/config/elements/grid.php:564
+#: us-core/config/elements/grid.php:581
+msgid "show"
+msgstr "نمایش"
+
+#: us-core/config/elements/cart.php:10 us-core/templates/elements/cart.php:34
+#: us-core/usof/templates/fields/header_builder.php:156
+#: us-core/usof/templates/fields/header_builder.php:277
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: us-core/config/elements/cart.php:21 us-core/config/elements/flipbox.php:90
+#: us-core/config/elements/iconbox.php:56 us-core/config/elements/menu.php:229
+#: us-core/config/elements/search.php:82
+msgid "Icon Size"
+msgstr "اندازه آیکون"
+
+#: us-core/config/elements/cart.php:28 us-core/config/elements/menu.php:237
+#: us-core/config/elements/search.php:90
+msgid "Icon Size on Tablets"
+msgstr "سایز آیکون در تبلت"
+
+#: us-core/config/elements/cart.php:35 us-core/config/elements/menu.php:245
+#: us-core/config/elements/search.php:98
+msgid "Icon Size on Mobiles"
+msgstr "سایز آیکون در موبایل"
+
+# نمیدونم Badge اینجا چه معنایی میتونه داشته باشه؟
+#: us-core/config/elements/cart.php:42
+msgid "Quantity Badge Background"
+msgstr "مقدار نشانواره پیش زمینه"
+
+#: us-core/config/elements/cart.php:48
+msgid "Quantity Badge Text"
+msgstr "مقدار نشان متن"
+
+#: us-core/config/elements/cart.php:56 us-core/config/elements/menu.php:105
+msgid "Stretch to the full available height"
+msgstr "کشیده شدن تا ارتفاع کامل موجود"
+
+#: us-core/config/elements/cart.php:60 us-core/config/elements/dropdown.php:137
+#: us-core/config/elements/menu.php:125
+msgid "Dropdown Effect"
+msgstr "افکت باز شو"
+
+#: us-core/config/elements/cform.php:29
+msgid "Contact Form"
+msgstr "فرم تماس"
+
+#: us-core/config/elements/cform.php:37
+msgid "Fields"
+msgstr "فیلدها"
+
+#: us-core/config/elements/cform.php:44
+msgid "(single line)"
+msgstr "(خط تک)"
+
+#: us-core/config/elements/cform.php:45
+msgid "(multiple lines)"
+msgstr "(خط چندگانه)"
+
+#: us-core/config/elements/cform.php:48
+msgid "Checkboxes"
+msgstr "چک باکس"
+
+#: us-core/config/elements/cform.php:49
+msgid "Radio buttons"
+msgstr "دکمه های رادیویی"
+
+#: us-core/config/elements/cform.php:51
+msgid "Agreement checkbox"
+msgstr "چک باکس توافقنامه"
+
+#: us-core/config/elements/cform.php:52
+msgid "Captcha"
+msgstr "کپچا"
+
+#: us-core/config/elements/cform.php:59
+msgid "Shown above the field"
+msgstr "نمایش در بالای فیلد"
+
+#: us-core/config/elements/cform.php:68
+msgid "Shown below the field"
+msgstr "نمایش در پایین فیلد"
+
+#: us-core/config/elements/cform.php:75 us-core/config/elements/search.php:12
+msgid "Placeholder"
+msgstr "متن راهنما"
+
+#: us-core/config/elements/cform.php:76
+msgid "Shown inside the field"
+msgstr "نمایش داخل فیلد"
+
+#: us-core/config/elements/cform.php:83
+msgid "Values"
+msgstr "مقدارها"
+
+#: us-core/config/elements/cform.php:84 us-core/config/elements/itext.php:16
+msgid "Each value on a new line"
+msgstr "هر مقدار در یک خط جدید"
+
+#: us-core/config/elements/cform.php:97
+msgid "Required field"
+msgstr "فیلدهای ضروری"
+
+#: us-core/config/elements/cform.php:158
+msgid "Button Alignment"
+msgstr "تراز دکمه"
+
+#: us-core/config/elements/cform.php:187
+msgid "Receiver Email"
+msgstr "ایمیل دریافت کننده"
+
+#: us-core/config/elements/cform.php:188
+msgid ""
+"Requests will be sent to this email. You can insert multiple comma-separated "
+"emails as well."
+msgstr ""
+"درخواست ها به این آدرس ایمیل فرستاده خواهد شد. می توانید چند آدرس ایمیل وارد "
+"کنید (با کاما \"،\" از هم جدا کنید)"
+
+#: us-core/config/elements/cform.php:192 us-core/config/elements/cform.php:198
+#: us-core/config/elements/counter.php:105
+#: us-core/config/elements/counter.php:113
+#: us-core/config/elements/counter.php:121
+#: us-core/config/elements/counter.php:127
+#: us-core/config/elements/counter.php:138
+#: us-core/config/elements/counter.php:144
+#: us-core/config/elements/iconbox.php:110
+#: us-core/config/elements/iconbox.php:121
+#: us-core/config/elements/iconbox.php:129
+#: us-core/config/elements/person.php:69 us-core/config/elements/person.php:83
+#: us-core/config/elements/person.php:92 us-core/config/elements/person.php:99
+#: us-core/config/elements/person.php:106
+#: us-core/config/elements/person.php:113
+#: us-core/config/elements/person.php:120
+#: us-core/config/elements/person.php:127
+#: us-core/config/elements/person.php:134
+#: us-core/config/elements/person.php:141
+#: us-core/config/elements/person.php:148 us-core/config/meta-boxes.php:232
+msgid "More Options"
+msgstr "گزینه های بیشتر"
+
+#: us-core/config/elements/cform.php:195
+msgid "Message after sending"
+msgstr "پیام پس از ارسال"
+
+#: us-core/config/elements/cform.php:197
+msgid "Thank you! Your message was sent."
+msgstr "متشکریم! پیام شما ارسال شد."
+
+#: us-core/config/elements/contacts.php:11 us-core/config/elements/gmaps.php:11
+#: us-core/config/elements/gmaps.php:58 us-core/config/widgets.php:93
+msgid "Address"
+msgstr "آدرس"
+
+#: us-core/config/elements/contacts.php:16 us-core/config/widgets.php:98
+msgid "Phone"
+msgstr "تلفن"
+
+#: us-core/config/elements/contacts.php:21 us-core/config/widgets.php:103
+msgid "Fax"
+msgstr "فکس"
+
+#: us-core/config/elements/counter.php:8
+msgid "Animated number with text"
+msgstr "عدد متحرک با متن"
+
+#: us-core/config/elements/counter.php:13
+msgid "Initial counting value"
+msgstr "مقدار شمارشی ابتدایی"
+
+#: us-core/config/elements/counter.php:14
+msgid "With all the prefixes, suffixes and decimal marks if needed."
+msgstr "با تمام پیشوند، پسوند و اعشارها در صورت نیاز."
+
+#: us-core/config/elements/counter.php:19
+msgid "Final counting value"
+msgstr "مقدار شمارشی پایانی"
+
+#: us-core/config/elements/counter.php:20
+msgid "The way it should look like, when the animation ends."
+msgstr "هنگامی که انیمیشن به پایان می رسد، اینطور دیده می شود."
+
+#: us-core/config/elements/counter.php:29
+#: us-core/config/elements/iconbox.php:23
+#: us-core/config/elements/progbar.php:62
+#: us-core/config/elements/separator.php:71
+#: us-core/config/elements/sharing.php:55
+msgid "Primary (theme color)"
+msgstr "رنگ اصلی پوسته"
+
+#: us-core/config/elements/counter.php:30
+#: us-core/config/elements/iconbox.php:24
+#: us-core/config/elements/progbar.php:63
+#: us-core/config/elements/separator.php:72
+#: us-core/config/elements/sharing.php:56
+msgid "Secondary (theme color)"
+msgstr "رنگ دوم پوسته"
+
+#: us-core/config/elements/counter.php:31
+#: us-core/config/elements/progbar.php:64
+msgid "Heading (theme color)"
+msgstr "عنوان (رنگ پوسته)"
+
+#: us-core/config/elements/counter.php:32
+#: us-core/config/elements/iconbox.php:26
+#: us-core/config/elements/progbar.php:65
+#: us-core/config/elements/separator.php:70
+#: us-core/config/elements/socials.php:107 us-core/config/widgets.php:277
+msgid "Text (theme color)"
+msgstr "متن (رنگ پوسته)"
+
+#: us-core/config/elements/counter.php:51 us-core/config/elements/menu.php:18
+#: us-core/config/elements_typography_options.php:11
+#: us-core/config/theme-options.php:1816
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:99
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:134
+msgid "Font"
+msgstr "فونت"
+
+#: us-core/config/elements/counter.php:57 us-core/config/elements/menu.php:24
+#: us-core/config/elements_typography_options.php:19
+#: us-core/config/theme-options.php:482 us-core/config/theme-options.php:1678
+#: us-core/config/theme-options.php:1901
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:108
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:143
+msgid "Font Weight"
+msgstr "وزن قلم"
+
+#: us-core/config/elements/counter.php:61 us-core/config/elements/menu.php:28
+#: us-core/config/elements_typography_options.php:23
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:112
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:147
+#: us-core/usof/templates/fields/font.php:133
+#: us-core/usof/templates/fields/font.php:134
+msgid "thin"
+msgstr "نازک"
+
+#: us-core/config/elements/counter.php:62 us-core/config/elements/menu.php:29
+#: us-core/config/elements_typography_options.php:24
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:113
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:148
+#: us-core/usof/templates/fields/font.php:135
+#: us-core/usof/templates/fields/font.php:136
+msgid "extra-light"
+msgstr "خیلی روشن"
+
+#: us-core/config/elements/counter.php:63 us-core/config/elements/menu.php:30
+#: us-core/config/elements_typography_options.php:25
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:114
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:149
+#: us-core/usof/templates/fields/font.php:137
+#: us-core/usof/templates/fields/font.php:138
+msgid "light"
+msgstr "روشن"
+
+#: us-core/config/elements/counter.php:64
+#: us-core/config/elements/counter.php:92 us-core/config/elements/menu.php:31
+#: us-core/config/elements/menu.php:59
+#: us-core/config/elements_typography_options.php:26
+#: us-core/config/elements_typography_options.php:56
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:115
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:150
+#: us-core/usof/templates/fields/font.php:139
+#: us-core/usof/templates/fields/font.php:140
+msgid "normal"
+msgstr "عادی"
+
+#: us-core/config/elements/counter.php:65 us-core/config/elements/menu.php:32
+#: us-core/config/elements_typography_options.php:27
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:116
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:151
+#: us-core/usof/templates/fields/font.php:141
+#: us-core/usof/templates/fields/font.php:142
+msgid "medium"
+msgstr "متوسط"
+
+#: us-core/config/elements/counter.php:66 us-core/config/elements/menu.php:33
+#: us-core/config/elements_typography_options.php:28
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:117
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:152
+#: us-core/usof/templates/fields/font.php:143
+#: us-core/usof/templates/fields/font.php:144
+msgid "semi-bold"
+msgstr "نیمه پر"
+
+#: us-core/config/elements/counter.php:67 us-core/config/elements/menu.php:34
+#: us-core/config/elements_typography_options.php:29
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:118
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:153
+#: us-core/usof/templates/fields/font.php:145
+#: us-core/usof/templates/fields/font.php:146
+msgid "bold"
+msgstr "پررنگ"
+
+#: us-core/config/elements/counter.php:68 us-core/config/elements/menu.php:35
+#: us-core/config/elements_typography_options.php:30
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:119
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:154
+#: us-core/usof/templates/fields/font.php:147
+#: us-core/usof/templates/fields/font.php:148
+msgid "extra-bold"
+msgstr "خیلی پررنگ"
+
+#: us-core/config/elements/counter.php:69 us-core/config/elements/menu.php:36
+#: us-core/config/elements_typography_options.php:31
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:120
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:155
+#: us-core/usof/templates/fields/font.php:149
+#: us-core/usof/templates/fields/font.php:150
+msgid "ultra-bold"
+msgstr "فوق العاده پررنگ"
+
+#: us-core/config/elements/counter.php:75 us-core/config/elements/menu.php:42
+#: us-core/config/elements_typography_options.php:38
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:129
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:164
+msgid "Text Transform"
+msgstr "تغییر شکل متن"
+
+#: us-core/config/elements/counter.php:88 us-core/config/elements/menu.php:55
+#: us-core/config/elements_typography_options.php:52
+msgid "Font Style"
+msgstr "استایل فونت"
+
+#: us-core/config/elements/counter.php:93 us-core/config/elements/menu.php:60
+#: us-core/config/elements_typography_options.php:57
+#: us-core/usof/templates/fields/font.php:134
+#: us-core/usof/templates/fields/font.php:136
+#: us-core/usof/templates/fields/font.php:138
+#: us-core/usof/templates/fields/font.php:140
+#: us-core/usof/templates/fields/font.php:142
+#: us-core/usof/templates/fields/font.php:144
+#: us-core/usof/templates/fields/font.php:146
+#: us-core/usof/templates/fields/font.php:148
+#: us-core/usof/templates/fields/font.php:150
+msgid "italic"
+msgstr "ایتالیک"
+
+#: us-core/config/elements/counter.php:103
+msgid "Projects completed"
+msgstr "پروژه کامل شد"
+
+#: us-core/config/elements/counter.php:108 us-core/config/elements/cta.php:22
+#: us-core/config/elements/flipbox.php:21
+#: us-core/config/elements/flipbox.php:162
+#: us-core/config/elements/ibanner.php:35
+#: us-core/config/elements/iconbox.php:82
+#: us-core/config/elements/progbar.php:18
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:85
+msgid "Title Size"
+msgstr "اندازه عنوان"
+
+#: us-core/config/elements/counter.php:116 us-core/config/elements/cta.php:30
+#: us-core/config/elements/flipbox.php:30
+#: us-core/config/elements/flipbox.php:171
+#: us-core/config/elements/ibanner.php:43
+#: us-core/config/elements/iconbox.php:90
+#: us-core/config/elements/progbar.php:26
+#: us-core/config/elements/separator.php:122
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:77
+msgid "Title HTML tag"
+msgstr "عنوان تگ HTML"
+
+#: us-core/config/elements/counter.php:124
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+#: us-core/config/elements/counter.php:141
+#: us-core/config/elements/flipbox.php:292 us-core/config/elements/itext.php:76
+msgid "Animation Duration (in seconds)"
+msgstr "مدت زمان انیمیشن (به ثانیه)"
+
+#: us-core/config/elements/cta.php:10
+msgid "Content box with call to action button"
+msgstr "باکس محتوا با دکمه"
+
+#: us-core/config/elements/cta.php:47
+#: us-core/plugins-support/js_composer/map/vc_row.php:132
+msgid "Primary bg & White text"
+msgstr "بک گراند اصلی و متن سفید"
+
+#: us-core/config/elements/cta.php:48
+#: us-core/plugins-support/js_composer/map/vc_row.php:133
+msgid "Secondary bg & White text"
+msgstr "بک گراند دوم و متن سفید"
+
+#: us-core/config/elements/cta.php:49
+msgid "Alternate bg & Content text"
+msgstr "بک گراند جایگزین و متن محتوا"
+
+#: us-core/config/elements/cta.php:55 us-core/config/elements/flipbox.php:46
+#: us-core/config/elements/flipbox.php:186
+#: us-core/config/elements/gmaps.php:163
+#: us-core/config/elements/ibanner.php:136
+#: us-core/config/elements/message.php:25 us-core/config/grid-settings.php:82
+#: us-core/config/menu-dropdown.php:123 us-core/config/meta-boxes.php:195
+#: us-core/plugins-support/js_composer/map/vc_row.php:143
+#: us-core/plugins-support/js_composer/map/vc_tta_section.php:84
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: us-core/config/elements/cta.php:61 us-core/config/elements/flipbox.php:52
+#: us-core/config/elements/flipbox.php:192
+#: us-core/config/elements/ibanner.php:142 us-core/config/elements/itext.php:51
+#: us-core/config/elements/message.php:32
+#: us-core/config/elements_design_options.php:80
+#: us-core/config/grid-settings.php:88 us-core/config/menu-dropdown.php:130
+#: us-core/config/meta-boxes.php:200
+#: us-core/plugins-support/js_composer/map/vc_column.php:78
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:70
+#: us-core/plugins-support/js_composer/map/vc_row.php:152
+#: us-core/plugins-support/js_composer/map/vc_tta_section.php:93
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: us-core/config/elements/cta.php:67
+msgid "Buttons Location"
+msgstr "موقعیت دکمه ها"
+
+#: us-core/config/elements/cta.php:124
+msgid "Display second button"
+msgstr "نمایش دکمه دوم"
+
+#: us-core/config/elements/dropdown.php:8
+msgid "Sidebar with Widgets"
+msgstr "سایدبار با ابزارک"
+
+#: us-core/config/elements/dropdown.php:29
+msgid "Dropdown Title"
+msgstr "عنوان کشویی"
+
+#: us-core/config/elements/dropdown.php:35
+msgid "Dropdown Icon"
+msgstr "آیکون کشویی"
+
+#: us-core/config/elements/dropdown.php:41
+msgid "Dropdown Links"
+msgstr "لینک های کشویی"
+
+#: us-core/config/elements/dropdown.php:72 us-core/config/meta-boxes.php:142
+#: us-core/config/theme-options.php:151 us-core/config/theme-options.php:244
+#: us-core/config/theme-options.php:339 us-core/config/theme-options.php:986
+#: us-core/config/theme-options.php:1070 us-core/config/theme-options.php:1148
+#: us-core/config/theme-options.php:2121 us-core/config/theme-options.php:2221
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: us-core/config/elements/dropdown.php:73
+#, php-format
+msgid "Add or edit Sidebar on the %s page"
+msgstr "سایدبار را در صفحه %s اضافه یا ویرایش کنید"
+
+#: us-core/config/elements/dropdown.php:115
+msgid "Open Dropdown"
+msgstr "باز کردن منوی کشویی"
+
+#: us-core/config/elements/dropdown.php:118
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:60
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:61
+msgid "On click"
+msgstr "با کلیک"
+
+#: us-core/config/elements/dropdown.php:119
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:61
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:62
+msgid "On hover"
+msgstr "در حالت شناور (Hover)"
+
+#: us-core/config/elements/dropdown.php:126
+msgid "Dropdown Direction"
+msgstr "جهت کشویی"
+
+#: us-core/config/elements/flipbox.php:8
+msgid "Two-sided content element, flipping on hover"
+msgstr "المان با محتوایی در دو طرف، چرخش در حالت شناور (Hover)"
+
+#: us-core/config/elements/flipbox.php:16
+#: us-core/config/elements/flipbox.php:18
+#: us-core/config/elements/flipbox.php:27
+#: us-core/config/elements/flipbox.php:36
+#: us-core/config/elements/flipbox.php:43
+#: us-core/config/elements/flipbox.php:49
+#: us-core/config/elements/flipbox.php:55
+#: us-core/config/elements/flipbox.php:61
+#: us-core/config/elements/flipbox.php:71
+#: us-core/config/elements/flipbox.php:82
+#: us-core/config/elements/flipbox.php:87
+#: us-core/config/elements/flipbox.php:96
+#: us-core/config/elements/flipbox.php:108
+#: us-core/config/elements/flipbox.php:115
+#: us-core/config/elements/flipbox.php:122
+#: us-core/config/elements/flipbox.php:129
+#: us-core/config/elements/flipbox.php:138
+#: us-core/config/elements/flipbox.php:150
+msgid "Front Side"
+msgstr "طرف جلو"
+
+#: us-core/config/elements/flipbox.php:58
+#: us-core/config/elements/flipbox.php:198
+#: us-core/config/header-settings.php:264 us-core/config/menu-dropdown.php:136
+#: us-core/plugins-support/js_composer/map/vc_row.php:161
+msgid "Background Image"
+msgstr "تصویر پس زمینه"
+
+#: us-core/config/elements/flipbox.php:64
+#: us-core/config/elements/flipbox.php:204
+#: us-core/config/header-settings.php:273 us-core/config/menu-dropdown.php:141
+#: us-core/config/theme-options.php:798
+#: us-core/plugins-support/js_composer/map/vc_row.php:180
+msgid "Background Image Size"
+msgstr "اندازه عکس پس زمینه"
+
+#: us-core/config/elements/flipbox.php:78
+msgid "Font icon"
+msgstr "فونت آیکون"
+
+#: us-core/config/elements/flipbox.php:99
+#: us-core/config/elements/iconbox.php:33
+msgid "Icon Style"
+msgstr "استایل آیکون"
+
+#: us-core/config/elements/flipbox.php:102
+#: us-core/config/elements/iconbox.php:36 us-core/config/elements/menu.php:112
+#: us-core/config/elements/person.php:59 us-core/config/elements/pricing.php:67
+#: us-core/config/elements/search.php:20 us-core/config/elements/sharing.php:30
+#: us-core/config/elements/socials.php:80 us-core/config/widgets.php:265
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:79
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:80
+msgid "Simple"
+msgstr "ساده"
+
+#: us-core/config/elements/flipbox.php:103
+#: us-core/config/elements/iconbox.php:37
+msgid "Inside the Solid circle"
+msgstr "داخل دایره توپُر"
+
+#: us-core/config/elements/flipbox.php:111
+#: us-core/config/elements/iconbox.php:20
+#: us-core/config/elements/iconbox.php:44
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: us-core/config/elements/flipbox.php:118
+#: us-core/config/elements/iconbox.php:50
+msgid "Icon Circle Color"
+msgstr "رنگ دایره آیکون"
+
+#: us-core/config/elements/flipbox.php:144
+msgid "Above Title"
+msgstr "عنوان بالا"
+
+#: us-core/config/elements/flipbox.php:145
+msgid "Below Title"
+msgstr "عنوان پایین"
+
+#: us-core/config/elements/flipbox.php:146
+msgid "Below Description"
+msgstr "توضیحات پایین"
+
+#: us-core/config/elements/flipbox.php:157
+#: us-core/config/elements/flipbox.php:159
+#: us-core/config/elements/flipbox.php:168
+#: us-core/config/elements/flipbox.php:177
+#: us-core/config/elements/flipbox.php:183
+#: us-core/config/elements/flipbox.php:189
+#: us-core/config/elements/flipbox.php:195
+#: us-core/config/elements/flipbox.php:201
+#: us-core/config/elements/flipbox.php:211
+msgid "Back Side"
+msgstr "طرف پشت"
+
+#: us-core/config/elements/flipbox.php:221
+msgid "The whole element"
+msgstr "المان کامل"
+
+#: us-core/config/elements/flipbox.php:222
+msgid "Button on the Back Side"
+msgstr "دکمه در طرف پشت"
+
+#: us-core/config/elements/flipbox.php:242 us-core/config/elements/grid.php:331
+#: us-core/config/elements/popup.php:49 us-core/config/elements/pricing.php:126
+msgid "Button Size"
+msgstr "اندازه دکمه"
+
+#: us-core/config/elements/flipbox.php:251 us-core/config/elements/grid.php:339
+#: us-core/config/elements/popup.php:58
+#: us-core/config/elements/post_taxonomy.php:34
+#: us-core/config/elements/pricing.php:119
+msgid "Button Style"
+msgstr "استایل  دکمه"
+
+#: us-core/config/elements/flipbox.php:262
+#: us-core/config/elements/ibanner.php:107
+#: us-core/config/elements/popup.php:184
+msgid "Animation Type"
+msgstr "نوع انیمیشن"
+
+#: us-core/config/elements/flipbox.php:265
+msgid "Card Flip"
+msgstr "کارت چرخشی"
+
+#: us-core/config/elements/flipbox.php:266
+msgid "Cube Tilt"
+msgstr "Cube Tilt"
+
+#: us-core/config/elements/flipbox.php:267
+msgid "Cube Flip"
+msgstr "Cube Flip"
+
+#: us-core/config/elements/flipbox.php:268
+msgid "Cover Open"
+msgstr "پوشش باز"
+
+#: us-core/config/elements/flipbox.php:275
+msgid "Animation Direction"
+msgstr "جهت انیمیشن"
+
+#: us-core/config/elements/flipbox.php:299
+#: us-core/config/elements/ibanner.php:124
+msgid "Animation Easing"
+msgstr "کاهش سرعت انیمیشن (Easing)"
+
+#: us-core/config/elements/gmaps.php:6
+msgid "Map"
+msgstr "نقشه"
+
+#: us-core/config/elements/gmaps.php:12 us-core/config/elements/gmaps.php:59
+msgid ""
+"Specify address in accordance with the format used by the national postal "
+"service of the country concerned."
+msgstr "آدرس دقیق پستی را وارد کنید."
+
+#: us-core/config/elements/gmaps.php:12 us-core/config/elements/gmaps.php:59
+#, php-format
+msgid "Or use geo coordinates, for example: %s"
+msgstr "یا از مختصات جغرافیایی استفاده کنید، به عنوان مثال: %s"
+
+#: us-core/config/elements/gmaps.php:18 us-core/config/elements/gmaps.php:65
+msgid "Marker Text"
+msgstr "متن نشانگذار"
+
+#: us-core/config/elements/gmaps.php:19 us-core/config/elements/gmaps.php:66
+msgid "HTML tags are allowed."
+msgstr "محتوای مورد نظرتان را وارد کنید. HTML مجاز است."
+
+#: us-core/config/elements/gmaps.php:27
+msgid "Show Marker Text when map is loaded"
+msgstr "نمایش متن نشانگذار هنگامی که نقشه بارگذاری شد"
+
+#: us-core/config/elements/gmaps.php:31 us-core/config/elements/gmaps.php:72
+msgid "Custom Marker Image"
+msgstr "تصویر نشانگذار سفارشی"
+
+#: us-core/config/elements/gmaps.php:37 us-core/config/elements/gmaps.php:78
+msgid "Marker Image Size"
+msgstr "اندازه تصویر نشانگذار"
+
+#: us-core/config/elements/gmaps.php:94
+msgid "Additional Markers"
+msgstr "نشانگذارهای اضافی"
+
+#: us-core/config/elements/gmaps.php:99
+msgid "Map Provider"
+msgstr "ارائه دهنده نقشه"
+
+#: us-core/config/elements/gmaps.php:102
+msgid "Google Maps"
+msgstr "نقشه های گوگل"
+
+#: us-core/config/elements/gmaps.php:109
+msgid "Map Height (pixels)"
+msgstr "ارتفاع نقشه (پیکسل)"
+
+#: us-core/config/elements/gmaps.php:116
+msgid "Map Zoom"
+msgstr "بزرگنمایی نقشه"
+
+#: us-core/config/elements/gmaps.php:146
+msgid "Hide all map controls"
+msgstr "پنهان کردن همه دکمه های کنترل نقشه"
+
+#: us-core/config/elements/gmaps.php:152
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr "غیرفعال کردن زوم نقشه هنگام اسکرول ماوس"
+
+#: us-core/config/elements/gmaps.php:158
+msgid "Disable dragging on touch screens"
+msgstr "لغو کشیدن (dragging) در صفحات لمسی"
+
+#: us-core/config/elements/gmaps.php:164
+msgid "This color will be visible when map layer has not yet loaded."
+msgstr "این رنگ قابل نمایش خواهد شد وقتی که لایه نقشه هنوز بارگذاری نشده است."
+
+#: us-core/config/elements/gmaps.php:170
+msgid "Map Type"
+msgstr "نوع نقشه"
+
+#: us-core/config/elements/gmaps.php:173
+msgid "Roadmap"
+msgstr "نقشه راه ها"
+
+#: us-core/config/elements/gmaps.php:174
+msgid "Roadmap + Terrain"
+msgstr "نقشه راه ها + زمینه"
+
+#: us-core/config/elements/gmaps.php:175
+msgid "Satellite"
+msgstr "نقشه ماهواره ای"
+
+#: us-core/config/elements/gmaps.php:176
+msgid "Satellite + Roadmap"
+msgstr "نقشه ماهواره ای + راه ها"
+
+#: us-core/config/elements/gmaps.php:183 us-core/config/elements/gmaps.php:191
+msgid "Map Style"
+msgstr "استایل نقشه"
+
+#: us-core/config/elements/gmaps.php:184 us-core/config/elements/gmaps.php:192
+#, php-format
+msgid "Check available styles on %s."
+msgstr "بررسی استایل های در دسترس در %s."
+
+#: us-core/config/elements/gmaps.php:192
+#, php-format
+msgid "Example: %s"
+msgstr "مثال ها: %s"
+
+#: us-core/config/elements/grid.php:34
+msgid "Filter by"
+msgstr "فیلتر کردن بر اساس %s"
+
+#: us-core/config/elements/grid.php:88
+#, php-format
+msgid "Show Items of selected %s"
+msgstr "نمایش آیتم های انتخاب شده‌ی %s"
+
+#: us-core/config/elements/grid.php:148
+msgid "Manually selected items"
+msgstr "آیتم های انتخاب شده دستی"
+
+#: us-core/config/elements/grid.php:149
+msgid "Items with the same taxonomy of current post"
+msgstr "آیتم ها با طبقه بندی مشابه با نوشته جاری"
+
+#: us-core/config/elements/grid.php:150
+msgid "Items of the current query (used for archives and search results)"
+msgstr "آیتم های جستجو (کوئری) جاری (استفاده برای بایگانی و نتایج جستجو)"
+
+#: us-core/config/elements/grid.php:151
+msgid "Terms of selected taxonomy"
+msgstr "شرایط طبقه بندی انتخابی"
+
+#: us-core/config/elements/grid.php:152
+msgid "Child terms of current taxonomy"
+msgstr "شرایط زیرمجموعه (Child) طبقه بندی انتخابی"
+
+#: us-core/config/elements/grid.php:153
+msgid "Manually selected terms"
+msgstr "شرایط انتخاب شده دستی"
+
+#: us-core/config/elements/grid.php:197 us-core/config/widgets.php:237
+msgid "Ignore sticky posts"
+msgstr "نادیده گرفتن نوشته های چسبان"
+
+#: us-core/config/elements/grid.php:215
+msgid "Show child terms"
+msgstr "نمایش شرایط زیرمجموعه"
+
+#: us-core/config/elements/grid.php:216
+msgid "Show empty"
+msgstr "نمایش خالی"
+
+#: us-core/config/elements/grid.php:228 us-core/config/widgets.php:169
+#: us-core/config/widgets.php:219
+msgid "By date of creation (newer first)"
+msgstr "به وسیله تاریخ ایجاد (اول جدیدترها)"
+
+#: us-core/config/elements/grid.php:229 us-core/config/widgets.php:171
+#: us-core/config/widgets.php:221
+msgid "By date of update (newer first)"
+msgstr "به وسیله تاریخ به روزرسانی (اول جدیدترها)"
+
+#: us-core/config/elements/grid.php:230 us-core/config/elements/grid.php:266
+#: us-core/config/widgets.php:173 us-core/config/widgets.php:223
+msgid "By title"
+msgstr "براساس عنوان"
+
+#: us-core/config/elements/grid.php:233
+#, php-format
+msgid "By \"%s\" values from \"%s\" box"
+msgstr "به وسیله \"%s\" مقدار از جعبه \"%s\""
+
+#: us-core/config/elements/grid.php:234
+msgid "Manually for selected images and items"
+msgstr "به صورت دستی برای آیتم ها و تصاویر منتخب"
+
+#: us-core/config/elements/grid.php:235
+msgid "By custom field"
+msgstr "با زمینه سفارشی"
+
+#: us-core/config/elements/grid.php:242
+msgid "Enter custom field name to order items by its value"
+msgstr "نام فیلد سفارشی را برای سفارش اقلام توسط مقدار آن وارد کنید"
+
+#: us-core/config/elements/grid.php:250
+msgid "Order by numeric values"
+msgstr "مرتب کردن با مقادیر عددی"
+
+#: us-core/config/elements/grid.php:257
+msgid "Invert order"
+msgstr "ترتیب برعکس"
+
+#: us-core/config/elements/grid.php:268 us-core/config/elements/grid.php:276
+#: us-core/config/widgets.php:192
+msgid "Items Quantity"
+msgstr "تعداد آیتم ها"
+
+#: us-core/config/elements/grid.php:269
+msgid "Manually, if available"
+msgstr "به صورت دستی، اگر موجود است"
+
+#: us-core/config/elements/grid.php:283
+msgid "Exclude Items"
+msgstr "مستثنی کردن آیتم ها"
+
+#: us-core/config/elements/grid.php:288
+msgid "of previous Grids on this page"
+msgstr "از شبکه بندی قبلی در این صفحه"
+
+#: us-core/config/elements/grid.php:289
+msgid "by the given quantity from the beginning of output"
+msgstr "به وسیله تعداد داده شده از ابتدای خروجی"
+
+#: us-core/config/elements/grid.php:297
+msgid "Items Quantity to skip"
+msgstr "مقدار آیتم ها برای رد کردن"
+
+#: us-core/config/elements/grid.php:303
+msgid "Message when no items"
+msgstr "متن پیام هنگامی که آیتمی وجود ندارد"
+
+#: us-core/config/elements/grid.php:312
+msgid "Numbered pagination"
+msgstr "صفحه بندی شماره ای"
+
+#: us-core/config/elements/grid.php:313
+msgid "Load items on button click"
+msgstr "بارگذاری آیتم ها با کلیک ماوس"
+
+#: us-core/config/elements/grid.php:314
+msgid "Load items on page scroll"
+msgstr "بازگزاری آیتم ها هنگام اسکرول صفحه"
+
+#: us-core/config/elements/grid.php:326
+msgid "Load More"
+msgstr "بارگذاری موارد بیشتر"
+
+#: us-core/config/elements/grid.php:365
+#: us-core/config/elements/post_taxonomy.php:24
+#: us-core/functions/shortcodes.php:258
+msgid "Display as"
+msgstr "نمایش به عنوان"
+
+#: us-core/config/elements/grid.php:368
+msgid "Regular Grid"
+msgstr "شبکه منظم"
+
+#: us-core/config/elements/grid.php:369 us-core/functions/shortcodes.php:258
+msgid "Masonry"
+msgstr "شبکه بی نظم"
+
+#: us-core/config/elements/grid.php:370
+msgid "METRO (works with square items only)"
+msgstr "طرح METRO (فقط با آیتم های چهارگوش کار می کند)"
+
+#: us-core/config/elements/grid.php:377
+msgid "Center items vertically"
+msgstr "آیتم ها در وسط"
+
+#: us-core/config/elements/grid.php:406
+msgid "Gap between Items"
+msgstr "فاصله بین آیتم ها"
+
+#: us-core/config/elements/grid.php:415
+msgid "Post Image Size"
+msgstr "اندازه تصویر نوشته"
+
+#: us-core/config/elements/grid.php:419 us-core/config/elements/grid.php:437
+msgid "As in Grid Layout"
+msgstr "مانند طرح شبکه ای"
+
+#: us-core/config/elements/grid.php:426
+msgid "Post Title Size"
+msgstr "اندازه عنوان پست"
+
+#: us-core/config/elements/grid.php:434
+msgid "Items Aspect Ratio"
+msgstr "نسبت ابعاد آیتم"
+
+#: us-core/config/elements/grid.php:438 us-core/config/elements/ibanner.php:94
+#: us-core/config/grid-settings.php:43
+msgid "square"
+msgstr "مربع"
+
+#: us-core/config/elements/grid.php:439 us-core/config/elements/grid.php:440
+#: us-core/config/elements/grid.php:441 us-core/config/elements/ibanner.php:95
+#: us-core/config/elements/ibanner.php:96
+#: us-core/config/elements/ibanner.php:97 us-core/config/grid-settings.php:44
+#: us-core/config/grid-settings.php:45 us-core/config/grid-settings.php:46
+msgid "landscape"
+msgstr "4:3 به حالت افقی"
+
+#: us-core/config/elements/grid.php:442 us-core/config/elements/grid.php:443
+#: us-core/config/elements/ibanner.php:98
+#: us-core/config/elements/ibanner.php:99
+#: us-core/config/elements/ibanner.php:100 us-core/config/grid-settings.php:47
+#: us-core/config/grid-settings.php:48
+msgid "portrait"
+msgstr "2:3 به حالت عمودی"
+
+#: us-core/config/elements/grid.php:468
+msgid "Overriding Link"
+msgstr "لینک برجسته و مهم"
+
+#: us-core/config/elements/grid.php:469
+msgid ""
+"Applies to every item of this Grid. All Grid Layout elements become not "
+"clickable."
+msgstr ""
+"به تمام آیتم های این شبکه اعمال می شود! تمام عناصر طرح غیرقابل کلیک می شوند."
+
+#: us-core/config/elements/grid.php:474
+msgid "Opens a Post in a popup"
+msgstr "بازکردن نوشته در پاپ آپ"
+
+#: us-core/config/elements/grid.php:475
+msgid "Opens a Post Image in a popup"
+msgstr "نمایش تصویر یک نوشته در پاپ آپ"
+
+#: us-core/config/elements/grid.php:481 us-core/config/elements/popup.php:131
+msgid "Popup Width"
+msgstr "پهنای پاپ آپ"
+
+#: us-core/config/elements/grid.php:501
+msgid "Filter Bar Style"
+msgstr "استایل نوار فیلتر"
+
+#: us-core/config/elements/grid.php:514
+msgid "Filter Bar Alignment"
+msgstr "چیدمان نوار فیلتر"
+
+#: us-core/config/elements/grid.php:527
+msgid "Show \"All\" item in filter bar"
+msgstr "نمایش گزینه «همه» در نوار فیلتر"
+
+#: us-core/config/elements/html.php:7
+msgid "Custom HTML"
+msgstr "HTML دلخواه"
+
+#: us-core/config/elements/html.php:12
+#, php-format
+msgid "Added content will be displayed inside the %s block"
+msgstr "محتوای اضافه شده در داخل بلاک %s نشان داده خواهد شد"
+
+#: us-core/config/elements/hwrapper.php:7
+msgid "Horizontal Wrapper"
+msgstr "دربرگیرنده افقی"
+
+#: us-core/config/elements/hwrapper.php:17
+#: us-core/config/elements/vwrapper.php:13
+msgid "Content Horizontal Alignment"
+msgstr "ترازبندی افقی محتوا"
+
+#: us-core/config/elements/hwrapper.php:29
+#: us-core/config/elements/vwrapper.php:24
+msgid "Content Vertical Alignment"
+msgstr "ترازبندی عمودی محتوا"
+
+#: us-core/config/elements/hwrapper.php:40 us-core/config/elements/text.php:18
+msgid "Allow move content to the next line"
+msgstr "اجازه دادن به انتقال محتوا به خط بعدی"
+
+#: us-core/config/elements/ibanner.php:7
+msgid "Interactive Banner"
+msgstr "بنر تعاملی"
+
+#: us-core/config/elements/ibanner.php:8
+msgid "Image and text with hover effect"
+msgstr "تصویر و متن با افکت شناور (Hover)"
+
+#: us-core/config/elements/ibanner.php:21 us-core/config/elements/image.php:24
+#: us-core/config/elements/person.php:86 us-core/config/elements/popup.php:74
+#: us-core/config/elements/post_custom_field.php:73
+#: us-core/config/elements/post_image.php:57
+msgid "Image Size"
+msgstr "سایز تصویر"
+
+#: us-core/config/elements/ibanner.php:64
+#: us-core/config/elements_typography_options.php:92
+#: us-core/config/theme-options.php:465 us-core/config/theme-options.php:1572
+#: us-core/config/theme-options.php:1871
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:155
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:190
+msgid "Line height"
+msgstr "ارتفاع خط"
+
+#: us-core/config/elements/ibanner.php:91
+#: us-core/plugins-support/js_composer/map/vc_video.php:64
+msgid "Aspect Ratio"
+msgstr "نسبت ابعاد"
+
+#: us-core/config/elements/iconbox.php:8
+msgid "Icon, title, description"
+msgstr "عنوان، تصویر و توضیحات"
+
+#: us-core/config/elements/iconbox.php:25
+#: us-core/config/elements/separator.php:69
+msgid "Border (theme color)"
+msgstr "کادر (رنگ پوسته)"
+
+#: us-core/config/elements/iconbox.php:27
+#: us-core/plugins-support/js_composer/map/vc_row.php:136
+msgid "Custom colors"
+msgstr "رنگ بندی دلخواه"
+
+#: us-core/config/elements/iconbox.php:38
+msgid "Inside the Outlined circle"
+msgstr "داخل دایره توخالی"
+
+#: us-core/config/elements/iconbox.php:107
+msgid "Will be applied to the icon and title"
+msgstr "به آیکون و عنوان اعمال می شود"
+
+#: us-core/config/elements/iconbox.php:125
+msgid "Will be shown instead of the icon"
+msgstr "به جای آیکون نمایش داده می شود"
+
+#: us-core/config/elements/image.php:46
+msgid "Image Style"
+msgstr "استایل تصویر"
+
+#: us-core/config/elements/image.php:50 us-core/config/elements/socials.php:96
+#: us-core/config/widgets.php:288
+msgid "Circle"
+msgstr "دایره"
+
+# بهترین ترجمه ای که به نظرم رسید که گویای ویژگی باشه!
+#: us-core/config/elements/image.php:51 us-core/config/elements/sharing.php:32
+msgid "Outlined"
+msgstr "Outlined"
+
+#: us-core/config/elements/image.php:52
+msgid "Simple Shadow"
+msgstr "سایه ساده"
+
+#: us-core/config/elements/image.php:53
+msgid "Colored Shadow"
+msgstr "سایه رنگی"
+
+#: us-core/config/elements/image.php:54
+#: us-core/config/elements/image_slider.php:113
+msgid "Phone 6 Black Realistic"
+msgstr "مدل Phone 6 مشکی و واقع گرا"
+
+#: us-core/config/elements/image.php:55
+#: us-core/config/elements/image_slider.php:114
+msgid "Phone 6 White Realistic"
+msgstr "مدل Phone 6 سفید و واقع گرا"
+
+#: us-core/config/elements/image.php:56
+#: us-core/config/elements/image_slider.php:115
+msgid "Phone 6 Black Flat"
+msgstr "مدل Phone 6 مشکی و تخت"
+
+#: us-core/config/elements/image.php:57
+#: us-core/config/elements/image_slider.php:116
+msgid "Phone 6 White Flat"
+msgstr "مدل Phone 6 سفید و تخت"
+
+#: us-core/config/elements/image.php:64
+#: us-core/config/elements/image_slider.php:57
+#: us-core/functions/shortcodes.php:262
+msgid "Show image title and description"
+msgstr "نمایش عنوان تصویر و توضیحات"
+
+#: us-core/config/elements/image.php:69
+msgid "Title and Description Style"
+msgstr "استایل عنوان و توضیحات"
+
+#: us-core/config/elements/image.php:72
+msgid "Below the image"
+msgstr "زیر تصویر"
+
+#: us-core/config/elements/image.php:73
+msgid "Over the image"
+msgstr "روی تصویر"
+
+#: us-core/config/elements/image.php:85
+msgid "Open original image in a popup"
+msgstr "باز کردن تصاویر شاخص در پاپ آپ"
+
+#: us-core/config/elements/image.php:103
+msgid "Different Image for Transparent Header"
+msgstr "تصویر مختلف برای سربرگ شفاف"
+
+#: us-core/config/elements/image.php:110
+#: us-core/plugins-support/js_composer/map/vc_column.php:86
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:78
+msgid ""
+"Selected animation will be applied to this element, when it enters into the "
+"browsers viewport."
+msgstr "انیمیشن انتخاب شده روی این المان در هنگام ورود به صفحه اعمال می شود."
+
+#: us-core/config/elements/image.php:114
+#: us-core/config/elements/image_slider.php:44
+#: us-core/config/elements/popup.php:187
+#: us-core/config/elements/socials.php:118 us-core/config/elements_misc.php:26
+#: us-core/config/widgets.php:296
+#: us-core/plugins-support/js_composer/map/vc_column.php:90
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:82
+msgid "Fade"
+msgstr "محو شدن"
+
+#: us-core/config/elements/image.php:115 us-core/config/elements/menu.php:183
+#: us-core/plugins-support/js_composer/map/vc_column.php:91
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:83
+msgid "Appear From Center"
+msgstr "ظاهر شدن از وسط"
+
+#: us-core/config/elements/image.php:116 us-core/config/elements/menu.php:172
+#: us-core/plugins-support/js_composer/map/vc_column.php:92
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:84
+msgid "Appear From Left"
+msgstr "ظاهر شدن از چپ"
+
+#: us-core/config/elements/image.php:117 us-core/config/elements/menu.php:173
+#: us-core/plugins-support/js_composer/map/vc_column.php:93
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:85
+msgid "Appear From Right"
+msgstr "ظاهر شدن از راست"
+
+#: us-core/config/elements/image.php:118 us-core/config/elements/menu.php:184
+#: us-core/config/elements_misc.php:29
+#: us-core/plugins-support/js_composer/map/vc_column.php:94
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:86
+msgid "Appear From Bottom"
+msgstr "ظاهر شدن از پایین"
+
+#: us-core/config/elements/image.php:119 us-core/config/elements/menu.php:182
+#: us-core/plugins-support/js_composer/map/vc_column.php:95
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:87
+msgid "Appear From Top"
+msgstr "ظاهر شدن از بالا"
+
+#: us-core/config/elements/image.php:120
+#: us-core/plugins-support/js_composer/map/vc_column.php:96
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:88
+msgid "Height From Center"
+msgstr "ارتفاع از وسط"
+
+#: us-core/config/elements/image.php:121
+#: us-core/plugins-support/js_composer/map/vc_column.php:97
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:89
+msgid "Width From Center"
+msgstr "عرض از وسط"
+
+#: us-core/config/elements/image.php:128 us-core/config/elements/itext.php:83
+#: us-core/plugins-support/js_composer/map/vc_column.php:105
+#: us-core/plugins-support/js_composer/map/vc_column_inner.php:97
+msgid "Animation Delay (in seconds)"
+msgstr "تاخیر در انیمیشن (به ثانیه)"
+
+#: us-core/config/elements/image.php:138
+msgid "Default Sizes"
+msgstr "اندازه های پیش فرض"
+
+#: us-core/config/elements/image.php:161 us-core/config/elements/image.php:219
+msgid "Height on Tablets"
+msgstr "ارتفاع در تبلت"
+
+#: us-core/config/elements/image.php:179 us-core/config/elements/image.php:237
+msgid "Height on Mobiles"
+msgstr "ارتفاع در موبایل"
+
+#: us-core/config/elements/image.php:197
+msgid "Sizes in the Sticky Header"
+msgstr "اندازه ها در سربرگ چسبان"
+
+#: us-core/config/elements/image_slider.php:21
+msgid "Show always"
+msgstr "همیشه نمایش بده"
+
+#: us-core/config/elements/image_slider.php:22
+msgid "Show on hover"
+msgstr "در زمان شناوری (هاور) نمایش بده"
+
+#: us-core/config/elements/image_slider.php:29
+msgid "Additional Navigation"
+msgstr "ناوبری اضافی"
+
+#: us-core/config/elements/image_slider.php:33
+msgid "Dots"
+msgstr "نقطه ای"
+
+#: us-core/config/elements/image_slider.php:34
+msgid "Thumbnails"
+msgstr "بندانگشتی"
+
+#: us-core/config/elements/image_slider.php:43
+#: us-core/config/elements/socials.php:119 us-core/config/widgets.php:297
+msgid "Slide"
+msgstr "اسلايد"
+
+#: us-core/config/elements/image_slider.php:62
+msgid "Display items in random order"
+msgstr "نمایش به صورت تصادفی"
+
+#: us-core/config/elements/image_slider.php:67
+#: us-core/config/theme-options.php:2072
+msgid "Allow Full Screen view"
+msgstr "اجازه نمایش تمام صفحه"
+
+#: us-core/config/elements/image_slider.php:77
+msgid "Pause on hover"
+msgstr "توقف با آمدن ماوس روی اسلاید"
+
+#: us-core/config/elements/image_slider.php:88
+msgid "Images Size"
+msgstr "سایز تصاویر"
+
+#: us-core/config/elements/image_slider.php:97
+msgid "Images Fit"
+msgstr "تناسب تصویر"
+
+#: us-core/config/elements/image_slider.php:100
+#: us-core/config/header-settings.php:278 us-core/config/menu-dropdown.php:146
+#: us-core/config/theme-options.php:803
+#: us-core/plugins-support/js_composer/map/vc_row.php:185
+msgid "Initial"
+msgstr "آغازین"
+
+#: us-core/config/elements/image_slider.php:101
+#: us-core/config/header-settings.php:277 us-core/config/menu-dropdown.php:145
+#: us-core/config/theme-options.php:802
+#: us-core/plugins-support/js_composer/map/vc_row.php:184
+msgid "Fit to Area"
+msgstr "متناسب با ناحیه"
+
+#: us-core/config/elements/image_slider.php:102
+#: us-core/config/header-settings.php:276 us-core/config/menu-dropdown.php:144
+#: us-core/config/theme-options.php:801
+#: us-core/plugins-support/js_composer/map/vc_row.php:183
+msgid "Fill Area"
+msgstr "پر کردن ناحیه"
+
+#: us-core/config/elements/image_slider.php:109
+msgid "Images Style"
+msgstr "استایل تصاویر"
+
+#: us-core/config/elements/itext.php:9
+msgid "Text with dynamically changing part"
+msgstr "متن با قسمتی که تغییر می کند"
+
+#: us-core/config/elements/itext.php:15
+msgid "Text States"
+msgstr "حالت های متن"
+
+#: us-core/config/elements/itext.php:23
+msgid "Make the dynamic part bold"
+msgstr "ضخیم کردن قسمت متغیر"
+
+#: us-core/config/elements/itext.php:43
+#: us-core/config/elements/page_title.php:13
+#: us-core/config/elements/post_custom_field.php:118
+#: us-core/config/elements/post_title.php:57
+msgid "HTML tag"
+msgstr "تگ HTML"
+
+#: us-core/config/elements/itext.php:57
+msgid "Dynamic Part Color"
+msgstr "رنگ قسمت متغیر"
+
+#: us-core/config/elements/itext.php:66
+msgid "Fade in the whole part"
+msgstr "محو شدن کل"
+
+#: us-core/config/elements/itext.php:67
+msgid "Flip the whole part"
+msgstr "چرخش کل"
+
+#: us-core/config/elements/itext.php:68
+msgid "Flip character by character"
+msgstr "چرخش حرف به حرف"
+
+#: us-core/config/elements/itext.php:69
+msgid "Zoom in the whole part"
+msgstr "بزرگنمایی کل"
+
+#: us-core/config/elements/itext.php:70
+msgid "Zoom in character by character"
+msgstr "بزرگنمایی حرف به حرف"
+
+#: us-core/config/elements/menu.php:66 us-core/config/elements/menu.php:191
+msgid "Main Items Font Size"
+msgstr "اندازه فونت آیتم های اصلی"
+
+#: us-core/config/elements/menu.php:73
+msgid "Distance Between Main Items"
+msgstr "فاصله بین آیتم های اصلی"
+
+#: us-core/config/elements/menu.php:103
+msgid "Main Items Height"
+msgstr "ارتفاع آیتم های اصلی"
+
+#: us-core/config/elements/menu.php:109
+msgid "Main Items Hover Effect"
+msgstr "افکت شناوری آیتم های اصلی"
+
+#: us-core/config/elements/menu.php:118
+msgid "Dropdown Indication"
+msgstr "نشانگر لیست باز شونده"
+
+#: us-core/config/elements/menu.php:120
+msgid "Show arrows for main items with dropdown"
+msgstr "نمایش آیکن ها برای موارد اصلی با کشویی"
+
+#: us-core/config/elements/menu.php:122 us-core/config/elements/menu.php:129
+#: us-core/config/elements/menu.php:136 us-core/config/elements/menu.php:143
+msgid "Dropdowns"
+msgstr "لیست های باز شونده (dropdown)"
+
+#: us-core/config/elements/menu.php:132 us-core/config/elements/menu.php:199
+msgid "Dropdown Font Size"
+msgstr "اندازه فونت لیست بازشونده"
+
+#: us-core/config/elements/menu.php:139
+msgid "Dropdown Width"
+msgstr "عرض لیست بازشونده"
+
+#: us-core/config/elements/menu.php:141
+msgid "Limit full-width dropdowns by a menu width"
+msgstr "محدود کردن منوی کشویی تمام عرض با عرض منو"
+
+#: us-core/config/elements/menu.php:146
+msgid "Show mobile menu when screen width is less than"
+msgstr "نمایش منوی موبایل زمانی که عرض صفحه نمایش کمتر است از"
+
+#: us-core/config/elements/menu.php:156 us-core/config/elements/menu.php:167
+#: us-core/config/elements/menu.php:177 us-core/config/elements/menu.php:188
+#: us-core/config/elements/menu.php:196 us-core/config/elements/menu.php:204
+#: us-core/config/elements/menu.php:215 us-core/config/elements/menu.php:226
+#: us-core/config/elements/menu.php:234 us-core/config/elements/menu.php:242
+#: us-core/config/elements/menu.php:250 us-core/config/elements/menu.php:263
+#: us-core/config/elements/menu.php:274 us-core/config/menu-dropdown.php:184
+msgid "Mobile Menu"
+msgstr "منوی موبایل"
+
+#: us-core/config/elements/menu.php:159
+msgid "Mobile Menu Layout"
+msgstr "طرح بندی منو در موبایل"
+
+#: us-core/config/elements/menu.php:163
+msgid "Vertical Panel"
+msgstr "پنل عمودی"
+
+#: us-core/config/elements/menu.php:164 us-core/config/elements/search.php:23
+#: us-core/config/theme-options.php:899
+#: us-core/plugins-support/js_composer/map/vc_row.php:99
+msgid "Full Screen"
+msgstr "تمام عرض"
+
+#: us-core/config/elements/menu.php:207
+msgid "Menu Items Alignment"
+msgstr "تراز کردن آیتم های منو"
+
+#: us-core/config/elements/menu.php:218 us-core/config/menu-dropdown.php:191
+msgid "Show dropdown by click on"
+msgstr "با کلیک بر روی نمایش کشویی نمایش دهید"
+
+#: us-core/config/elements/menu.php:219
+#, php-format
+msgid ""
+"You can change this behavior separately for every menu item on the %s page"
+msgstr ""
+"شما می توانید این رفتار را به طور جداگانه برای هر مورد منو در صفحه%s  تغییر "
+"دهید"
+
+#: us-core/config/elements/menu.php:222 us-core/config/menu-dropdown.php:194
+msgid "Arrow"
+msgstr "پیکان"
+
+#: us-core/config/elements/menu.php:223 us-core/config/menu-dropdown.php:195
+msgid "Label and Arrow"
+msgstr "برچسب و فلش"
+
+#: us-core/config/elements/menu.php:253
+msgid "Icon Thickness"
+msgstr "ضخامت آیکون"
+
+#: us-core/config/elements/menu.php:266
+#, php-format
+msgid "Position of \"%s\" word"
+msgstr "موقعیت \"%s\" کلمه "
+
+#: us-core/config/elements/message.php:7
+msgid "Colored notification box"
+msgstr "باکس اطلاع رسانی (notification) رنگی"
+
+#: us-core/config/elements/message.php:16
+msgid "Blue"
+msgstr "آبی"
+
+#: us-core/config/elements/message.php:17
+msgid "Yellow"
+msgstr "زرد"
+
+#: us-core/config/elements/message.php:18
+msgid "Green"
+msgstr "سبز"
+
+#: us-core/config/elements/message.php:19
+msgid "Red"
+msgstr "قرمز"
+
+#: us-core/config/elements/message.php:39
+msgid "Message Text"
+msgstr "متن پیام"
+
+#: us-core/config/elements/message.php:51
+msgid "Enable closing"
+msgstr "فعال‌کردن بستن"
+
+#: us-core/config/elements/page_block.php:13
+#: us-core/config/elements/page_block.php:18
+#: us-core/functions/post-types.php:259 us-core/functions/post-types.php:342
+msgid "Page Block"
+msgstr "صفحه بلوک"
+
+#: us-core/config/elements/page_block.php:25
+msgid "Exclude Rows and Columns in selected Page Block"
+msgstr "ردیف ها و ستون ها را در بلوک صفحه انتخاب شده، حذف کنید"
+
+#: us-core/config/elements/page_block.php:30
+#: us-core/config/elements/post_content.php:34
+msgid "Stretch content of Rows to the full width"
+msgstr "کشیدن محتوای این ردیف، به پهنای صفحه نمایش"
+
+#: us-core/config/elements/page_title.php:8
+msgid "Page Title"
+msgstr "عنوان صفحه"
+
+#: us-core/config/elements/page_title.php:36
+msgid "Show the next text in the same line"
+msgstr "نمایش متن بعدی در همان خط"
+
+#: us-core/config/elements/page_title.php:42
+msgid "Show archive pages description"
+msgstr "نمایش توضیحات صفحات بایگانی"
+
+#: us-core/config/elements/person.php:8
+msgid "Photo, name, description and social links"
+msgstr "تصویر، نام، توضیحات و لینک های اجتماعی"
+
+#: us-core/config/elements/person.php:14
+msgid "Photo"
+msgstr "عکس"
+
+#: us-core/config/elements/person.php:21
+msgid "Photo on hover (optional)"
+msgstr "تصویر هنگام شناوری (hover) - اختیاری"
+
+#: us-core/config/elements/person.php:35
+msgid "Role"
+msgstr "نقش"
+
+#: us-core/config/elements/person.php:49
+msgid "Applies to the Name and to the Photo"
+msgstr "اعمال به نام و تصویر"
+
+#: us-core/config/elements/person.php:60
+msgid "Simple (rounded photo)"
+msgstr "ساده (تصویر گرد شده)"
+
+#: us-core/config/elements/person.php:61 us-core/config/grid-templates.php:2649
+#: us-core/config/theme-options.php:2269
+msgid "Compact"
+msgstr "فشرده"
+
+#: us-core/config/elements/person.php:62
+msgid "Compact (rounded photo)"
+msgstr "فشرده (تصویر گرد شده)"
+
+#: us-core/config/elements/person.php:63 us-core/config/elements/search.php:21
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:80
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:81
+msgid "Modern"
+msgstr "مدرن"
+
+#: us-core/config/elements/person.php:64
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:81
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:82
+msgid "Trendy"
+msgstr "مرسوم"
+
+#: us-core/config/elements/person.php:65 us-core/config/elements/pricing.php:68
+msgid "Cards"
+msgstr "کارت ها"
+
+#: us-core/config/elements/person.php:72
+msgid "Photo Effect"
+msgstr "افکت تصویر"
+
+#: us-core/config/elements/person.php:76
+msgid "Sepia"
+msgstr "قهوه ای (sepia)"
+
+#: us-core/config/elements/person.php:78
+msgid "Faded"
+msgstr "محو شده"
+
+#: us-core/config/elements/person.php:79
+msgid "Colored"
+msgstr "رنگی"
+
+#: us-core/config/elements/person.php:137 us-core/config/meta-boxes.php:216
+#: us-core/config/widgets.php:305 us-core/functions/helpers.php:2011
+#: us-core/functions/shortcodes.php:288
+msgid "Custom Link"
+msgstr "لینک دلخواه"
+
+#: us-core/config/elements/person.php:144 us-core/config/widgets.php:315
+msgid "Custom Link Icon"
+msgstr "آیکون لینک دلخواه"
+
+#: us-core/config/elements/popup.php:8
+msgid "Window appears in the foreground of the page content"
+msgstr "پنجره جلوی محتوای صفحه ظاهر می شود"
+
+#: us-core/config/elements/popup.php:22
+msgid "This content will appear inside a popup..."
+msgstr "این محتوا داخل یک پاپ آپ ظاهر می شود..."
+
+#: us-core/config/elements/popup.php:28
+msgid "Show Popup on"
+msgstr "نمایش پاپ آپ روی"
+
+#: us-core/config/elements/popup.php:31
+msgid "Button click"
+msgstr "کلیک روی دکمه"
+
+#: us-core/config/elements/popup.php:32
+msgid "Image click"
+msgstr "کلیک روی تصویر"
+
+#: us-core/config/elements/popup.php:33
+msgid "Custom element click"
+msgstr "کلیک روی المان دلخواه"
+
+#: us-core/config/elements/popup.php:34
+msgid "Page load"
+msgstr "بارگذاری صفحه"
+
+#: us-core/config/elements/popup.php:37 us-core/config/elements/popup.php:46
+#: us-core/config/elements/popup.php:55 us-core/config/elements/popup.php:64
+#: us-core/config/elements/popup.php:71 us-core/config/elements/popup.php:81
+#: us-core/config/elements/popup.php:93 us-core/config/elements/popup.php:100
+#: us-core/config/elements/popup.php:111 us-core/config/elements/popup.php:119
+#: us-core/config/elements/popup.php:126
+msgid "Trigger"
+msgstr "فعال ساز"
+
+#: us-core/config/elements/popup.php:114
+msgid "Custom element CSS selector"
+msgstr "انتخابگر دلخواه CSS برای المان"
+
+#: us-core/config/elements/popup.php:115
+msgid "Use class or ID."
+msgstr "استفاده از کلاس یا ID."
+
+#: us-core/config/elements/popup.php:122
+msgid "Delay after page load (in seconds)"
+msgstr "تاخیر بعد از بارگذاری تصویر (به ثانیه)"
+
+#: us-core/config/elements/popup.php:138
+msgid "Popup Padding"
+msgstr "فاصله داخلی پاپ آپ"
+
+#: us-core/config/elements/popup.php:146
+msgid "Popup Corners Radius"
+msgstr "گرد کردن گوشه های پاپ آپ"
+
+#: us-core/config/elements/popup.php:154
+msgid "Title Background Color"
+msgstr "رنگ پس زمینه عنوان"
+
+#: us-core/config/elements/popup.php:160
+msgid "Title Text Color"
+msgstr "رنگ متن عنوان"
+
+#: us-core/config/elements/popup.php:166
+msgid "Popup Background Color"
+msgstr "رنگ پس زمینه پاپ آپ"
+
+#: us-core/config/elements/popup.php:172
+msgid "Popup Text Color"
+msgstr "رنگ متن پاپ آپ"
+
+#: us-core/config/elements/popup.php:178
+#: us-core/plugins-support/js_composer/map/vc_row.php:275
+msgid "Background Overlay"
+msgstr "روکش پس زمینه"
+
+#: us-core/config/elements/popup.php:188
+msgid "Scale Up"
+msgstr "بزرگ شدن"
+
+#: us-core/config/elements/popup.php:189
+msgid "Scale Down"
+msgstr "کوچک شدن"
+
+#: us-core/config/elements/popup.php:190
+msgid "Slide from the Top"
+msgstr "اسلاید از بالا"
+
+#: us-core/config/elements/popup.php:191
+msgid "Slide from the Bottom"
+msgstr "اسلاید از پایین"
+
+#: us-core/config/elements/popup.php:192 us-core/config/elements/popup.php:193
+msgid "3D Flip"
+msgstr "چرخش 3D"
+
+#: us-core/config/elements/popup.php:192 us-core/config/header-settings.php:54
+#: us-core/plugins-support/js_composer/map/vc_wp_custommenu.php:30
+msgid "Horizontal"
+msgstr "افقی"
+
+#: us-core/config/elements/popup.php:193 us-core/config/header-settings.php:55
+#: us-core/plugins-support/js_composer/map/vc_wp_custommenu.php:29
+msgid "Vertical"
+msgstr "عمودی"
+
+#: us-core/config/elements/post_author.php:9
+msgid "Post Author"
+msgstr "نویسنده نوشته"
+
+#: us-core/config/elements/post_author.php:18
+msgid "To the page with the Author's posts"
+msgstr "به برگه ی نوشته های نویسنده"
+
+#: us-core/config/elements/post_author.php:19
+msgid "To the Author's website (if specified on his profile)"
+msgstr "به وبسایت نویسنده (اگر در پروفایل خود مشخص کرده باشد)"
+
+#: us-core/config/elements/post_author.php:36
+#: us-core/config/elements/post_comments.php:58
+#: us-core/config/elements/post_custom_field.php:111
+#: us-core/config/elements/post_taxonomy.php:73
+#: us-core/config/elements/post_title.php:38
+msgid "Link Color"
+msgstr "رنگ لينک"
+
+#: us-core/config/elements/post_author.php:38
+#: us-core/config/elements/post_comments.php:60
+#: us-core/config/elements/post_custom_field.php:113
+#: us-core/config/elements/post_taxonomy.php:75
+#: us-core/config/elements/post_title.php:40
+msgid "Inherit from text color"
+msgstr "ارث بری از رنگ متن"
+
+#: us-core/config/elements/post_author.php:48
+msgid "Picture Width"
+msgstr "عرض تصویر"
+
+#: us-core/config/elements/post_author.php:56
+msgid "Picture Position"
+msgstr "جایگاه تصویر"
+
+#: us-core/config/elements/post_author.php:68
+msgid "Posts count"
+msgstr "تعداد نوشته"
+
+#: us-core/config/elements/post_comments.php:9
+msgid "Post Comments"
+msgstr "دیدگاه های نوشته"
+
+#: us-core/config/elements/post_comments.php:18
+msgid "List of comments with response form"
+msgstr "لیست موارد با حالت واکنش گرا"
+
+#: us-core/config/elements/post_comments.php:19
+msgid "Comments amount"
+msgstr "تعداد دیدگاه ها"
+
+#: us-core/config/elements/post_comments.php:27
+msgid "Hide this element if no comments"
+msgstr "اگر دیدگاهی وجود ندارد، این المان را پنهان کن"
+
+#: us-core/config/elements/post_comments.php:33
+msgid "Show only number"
+msgstr "فقط شماره را نشان بده"
+
+#: us-core/config/elements/post_comments.php:41
+msgid "To a Post comments"
+msgstr "به دیدگاه های یک پست"
+
+#: us-core/config/elements/post_content.php:9
+msgid "Post Content"
+msgstr "محتوای نوشته"
+
+#: us-core/config/elements/post_content.php:19
+msgid "Excerpt, if it's empty, show part of a content"
+msgstr "چکیده، اگر این بخش خالی بود ، مقداری از نوشته را نمایش بده"
+
+#: us-core/config/elements/post_content.php:20
+msgid "Excerpt, if it's empty, show nothing"
+msgstr "چکیده ، اگر خالی بود چیزی نمایش نده"
+
+#: us-core/config/elements/post_content.php:21
+msgid "Part of a content"
+msgstr "بخشی از محتوا"
+
+#: us-core/config/elements/post_content.php:22
+msgid "Full content"
+msgstr "محتوای کامل"
+
+#: us-core/config/elements/post_content.php:40
+msgid "Amount of words in Excerpt"
+msgstr "تعداد کلمات در چکیده"
+
+#: us-core/config/elements/post_content.php:41
+#: us-core/config/elements/post_content.php:54
+msgid "HTML tags, line-breaks and shortcodes will be stripped."
+msgstr "تمام تگ های HTML محتوا از بین می روند."
+
+#: us-core/config/elements/post_content.php:41
+msgid "Set \"0\" to show full Excerpt."
+msgstr "برای نمایش کامل چکیده، مقدار \"0\" را وارد کنید."
+
+#: us-core/config/elements/post_content.php:53
+msgid "Amount of words in Content"
+msgstr "تعداد کلمات در نوشته"
+
+#: us-core/config/elements/post_custom_field.php:11
+#: us-core/config/meta-boxes.php:186 us-core/functions/helpers.php:2011
+msgid "Custom appearance in Grid"
+msgstr "ظاهر دلخواه در طرح شبکه ای"
+
+#: us-core/config/elements/post_custom_field.php:11
+#: us-core/config/meta-boxes.php:222
+msgid "Additional Image"
+msgstr "تصویر اضافی"
+
+#: us-core/config/elements/post_custom_field.php:17
+#: us-core/config/elements/post_custom_field.php:18
+#: us-core/config/elements/post_custom_field.php:19
+#: us-core/config/elements/post_custom_field.php:20
+#: us-core/config/grid-templates.php:2708
+#: us-core/config/grid-templates.php:2795
+#: us-core/config/grid-templates.php:2879
+#: us-core/config/grid-templates.php:2961
+#: us-core/config/grid-templates.php:3016
+#: us-core/config/grid-templates.php:3071 us-core/functions/helpers.php:2016
+#: us-core/functions/post-types.php:97
+#: us-core/migrations/Zephyr/us_migration_3_9.php:84
+#: us-core/migrations/Zephyr/us_migration_3_9.php:88
+msgid "Testimonial"
+msgstr "نظر مشتری"
+
+#: us-core/config/elements/post_custom_field.php:17
+#: us-core/config/meta-boxes.php:238
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: us-core/config/elements/post_custom_field.php:18
+#: us-core/config/meta-boxes.php:243
+msgid "Author Role"
+msgstr "نقش نویسنده"
+
+#: us-core/config/elements/post_custom_field.php:19
+#: us-core/config/meta-boxes.php:248
+msgid "Author Company"
+msgstr "شرکت نویسنده"
+
+#: us-core/config/elements/post_custom_field.php:20
+#: us-core/config/meta-boxes.php:259
+msgid "Rating"
+msgstr "رتبه بندی"
+
+#: us-core/config/elements/post_custom_field.php:49
+msgid "Post Custom Field"
+msgstr "فیلد دلخواه نوشته"
+
+#: us-core/config/elements/post_custom_field.php:59
+msgid "Custom Field"
+msgstr "فیلد دلخواه"
+
+#: us-core/config/elements/post_custom_field.php:65
+msgid "Enter custom field name to retrieve its value."
+msgstr "برای بازیابی مقدار فیلد، یک نام کلیدی برای آن وارد کنید."
+
+#: us-core/config/elements/post_custom_field.php:82
+msgid "Hide this element if its value is empty"
+msgstr "پنهان سازی این المان، اگر مقدار آن خالی است"
+
+#: us-core/config/elements/post_custom_field.php:131
+#: us-core/config/elements/post_date.php:57
+#: us-core/config/elements/post_taxonomy.php:85
+msgid "Text before value"
+msgstr "متن پیش از مقدار"
+
+#: us-core/config/elements/post_date.php:10 us-core/functions/helpers.php:2088
+msgid "Yesterday"
+msgstr "دیروز"
+
+#: us-core/config/elements/post_date.php:14
+msgid "Post Date"
+msgstr "تاریخ پست"
+
+#: us-core/config/elements/post_date.php:23
+msgid "Date of creation"
+msgstr "تاریخ ایجاد"
+
+#: us-core/config/elements/post_date.php:24
+msgid "Date of update"
+msgstr "تاریخ بروزرسانی"
+
+#: us-core/config/elements/post_date.php:30
+msgid "Format"
+msgstr "فرمت"
+
+#: us-core/config/elements/post_date.php:33
+msgid "Human friendly"
+msgstr "دوستانه"
+
+#: us-core/config/elements/post_date.php:45
+msgid "Documentation on date and time formatting."
+msgstr "اسناد مرتبط با الگوی زمان و تاریخ."
+
+#: us-core/config/elements/post_image.php:8
+msgid "Post Image"
+msgstr "عکس نوشته"
+
+#: us-core/config/elements/post_image.php:38
+msgid "Show placeholder when post image is absent"
+msgstr "نمایش placeholder هنگامی که نوشته، تصویر ندارد"
+
+#: us-core/config/elements/post_image.php:43
+msgid "Show media preview for posts with video, audio and gallery format"
+msgstr ""
+"برای نوشته ها، پیش نمایش مدیاها اعم از تصاویر ، ویدئوها و صداها را نشان بده"
+
+#: us-core/config/elements/post_image.php:48
+msgid "Stretch the image to the container width"
+msgstr "کشیدن تصویر به اندازه عرض المان دربرگیرنده"
+
+#: us-core/config/elements/post_image.php:53
+msgid "Enable rounded image"
+msgstr "فعالسازی تصویر گرد شده"
+
+#: us-core/config/elements/post_navigation.php:10
+msgid "Post Prev/Next Navigation"
+msgstr "دکمه های بعدی/قبلی نوشته ها"
+
+#: us-core/config/elements/post_navigation.php:19
+msgid "Simple links"
+msgstr "لینک های ساده"
+
+#: us-core/config/elements/post_navigation.php:20
+msgid "On sides of the screen"
+msgstr "در کناره های صفحه"
+
+#: us-core/config/elements/post_navigation.php:27
+msgid "Invert position of previous and next"
+msgstr "جابجا کردن مکان دکمه قبلی و بعدی باهم"
+
+#: us-core/config/elements/post_navigation.php:32
+msgid "Navigate within the specified taxonomy"
+msgstr "ناوبری درون یک دسته بندی خاص"
+
+#: us-core/config/elements/post_taxonomy.php:11
+msgid "Post Taxonomy"
+msgstr "طبقه بندی نوشته"
+
+#: us-core/config/elements/post_taxonomy.php:38
+msgid "Badge by default"
+msgstr "نشان گذاری پیش فرض"
+
+#: us-core/config/elements/post_taxonomy.php:57
+msgid "To a Post Archive"
+msgstr "به بایگانی نوشته ها"
+
+#: us-core/config/elements/post_title.php:9
+msgid "Post Title"
+msgstr "عنوان نوشته"
+
+#: us-core/config/elements/pricing.php:69
+msgid "Flat"
+msgstr "فلت"
+
+#: us-core/config/elements/pricing.php:87
+msgid "Mark this item as featured"
+msgstr "ویژه کردن این آیتم"
+
+#: us-core/config/elements/pricing.php:91
+msgid "Price"
+msgstr "قيمت"
+
+#: us-core/config/elements/pricing.php:98
+msgid "Price Substring"
+msgstr "زیرنوشته قیمت"
+
+#: us-core/config/elements/pricing.php:104
+msgid "Features List"
+msgstr "لیست ویژگی ها"
+
+#: us-core/config/elements/pricing.php:114
+msgid "Button Link"
+msgstr "لینک دکمه"
+
+#: us-core/config/elements/pricing.php:132
+msgid "Button Icon"
+msgstr "آیکن دکمه"
+
+#: us-core/config/elements/pricing.php:137
+msgid "Button Icon Position"
+msgstr "موقعیت آیکون دکمه"
+
+# Sale به معنی فروشه
+# ولی فکر میکنم اینجا منظور حراج باشه
+#: us-core/config/elements/product_field.php:33
+msgid "Sale Badge"
+msgstr "نشان فروش"
+
+#: us-core/config/elements/product_field.php:37
+#, fuzzy
+#| msgid "Premium and free plugins, compatible with %s"
+msgid "Actions for plugins compatibility"
+msgstr "افزونه های رایگان و پولی ، سازگار با %s"
+
+#: us-core/config/elements/product_field.php:44
+msgid "Sale Badge Text"
+msgstr "متن نشان حراج"
+
+#: us-core/config/elements/product_gallery.php:11
+#, php-format
+msgid "Edit Product gallery appearance on %sTheme Options%s."
+msgstr "ویرایش ظاهر گالری محصولات در %sتنظیمات پوسته%s."
+
+#: us-core/config/elements/product_ordering.php:6
+msgid "Product ordering"
+msgstr "سفارش دهی محصول"
+
+#: us-core/config/elements/progbar.php:34
+msgid "Progress Value"
+msgstr "مقدار پیشرفت"
+
+#: us-core/config/elements/progbar.php:41
+msgid "Hide progress value counter"
+msgstr "مخفی سازی مقدار شمارنده نوار پیشرفت"
+
+#: us-core/config/elements/progbar.php:59
+msgid "Progress Bar Color"
+msgstr "رنگ نوار پیشرفت"
+
+#: us-core/config/elements/progbar.php:72
+msgid "Progress Bar Height"
+msgstr "ارتفاع نوار پیشرفت"
+
+#: us-core/config/elements/scroller.php:8
+msgid "Accurate scroll to page sections"
+msgstr "اسکرول به بخش های مختلف صفحه"
+
+#: us-core/config/elements/scroller.php:13
+msgid "Disable scrolling at width"
+msgstr "غیرفعال کردن اسکرول در عرض"
+
+#: us-core/config/elements/scroller.php:14
+msgid ""
+"When screen width is less than this value, scrolling by rows will be "
+"disabled."
+msgstr ""
+"هنگامی که عرض نمایشگر کمتر از این مقدار باشد، اسکرول در ردیف ها غیرفعال می "
+"شود."
+
+#: us-core/config/elements/scroller.php:20
+msgid "Scroll Speed (milliseconds)"
+msgstr "سرعت اسکرول (به میلی ثانیه)"
+
+#: us-core/config/elements/scroller.php:26
+msgid "Show Navigation Dots"
+msgstr "نمایش دات های ناوبری"
+
+#: us-core/config/elements/scroller.php:30
+msgid "Dots Style"
+msgstr "استایل دات ها"
+
+#: us-core/config/elements/scroller.php:43
+msgid "Dots Position"
+msgstr "موقعیت دات ها"
+
+#: us-core/config/elements/scroller.php:54
+msgid "Dots Size"
+msgstr "اندازه دات ها"
+
+#: us-core/config/elements/scroller.php:62
+msgid "Dots Color"
+msgstr "رنگ دات ها"
+
+#: us-core/config/elements/search.php:28
+msgid "Field Width"
+msgstr "عرض فیلد"
+
+#: us-core/config/elements/search.php:49
+msgid "Field Width on Tablets"
+msgstr "عرض فیلد در تبلت"
+
+#: us-core/config/elements/search.php:71
+msgid "Search Shop Products only"
+msgstr "فقط جستجوی محصولات فروشگاه"
+
+#: us-core/config/elements/separator.php:8
+msgid "Gap between elements"
+msgstr "فاصله بین المان ها"
+
+#: us-core/config/elements/separator.php:17
+#: us-core/config/theme-options.php:895
+#: us-core/plugins-support/js_composer/map/vc_row.php:95
+msgid "Small"
+msgstr "کوچک"
+
+#: us-core/config/elements/separator.php:18
+#: us-core/config/theme-options.php:896
+#: us-core/plugins-support/js_composer/map/vc_row.php:96
+msgid "Medium"
+msgstr "متوسط"
+
+#: us-core/config/elements/separator.php:19
+#: us-core/config/theme-options.php:897
+#: us-core/plugins-support/js_composer/map/vc_row.php:97
+msgid "Large"
+msgstr "بزرگ"
+
+#: us-core/config/elements/separator.php:20
+#: us-core/config/theme-options.php:898
+#: us-core/plugins-support/js_composer/map/vc_row.php:98
+msgid "Huge"
+msgstr "خیلی بزرگ"
+
+#: us-core/config/elements/separator.php:35
+msgid "Show horizontal line in the middle"
+msgstr "نمایش خط افقی در میانه"
+
+#: us-core/config/elements/separator.php:39
+msgid "Line Width"
+msgstr "عرض خط"
+
+#: us-core/config/elements/separator.php:42
+msgid "Container width"
+msgstr "عرض نگهدارنده"
+
+#: us-core/config/elements/separator.php:43
+msgid "Screen width"
+msgstr "عرض صفحه نمایش"
+
+#: us-core/config/elements/separator.php:44
+#: us-core/config/elements/separator.php:45
+#, php-format
+msgid "%s of container width"
+msgstr "%s از عرض نگهدارنده"
+
+#: us-core/config/elements/separator.php:52
+msgid "Line Thickness"
+msgstr "ضخامت خط"
+
+#: us-core/config/elements/separator.php:66
+msgid "Line Color"
+msgstr "رنگ خط"
+
+#: us-core/config/elements/separator.php:80
+msgid "Line Style"
+msgstr "استایل خط"
+
+#: us-core/config/elements/separator.php:83
+#: us-core/config/elements/sharing.php:31
+msgid "Solid"
+msgstr "ساده"
+
+#: us-core/config/elements/separator.php:84
+msgid "Dashed"
+msgstr "خط چین"
+
+#: us-core/config/elements/separator.php:85
+msgid "Dotted"
+msgstr "نقطه دار"
+
+#: us-core/config/elements/separator.php:86
+msgid "Double"
+msgstr "دوتایی"
+
+#: us-core/config/elements/separator.php:104
+#: us-core/config/elements/separator.php:112
+#: us-core/config/elements/separator.php:119
+#: us-core/config/elements/separator.php:127
+#: us-core/config/elements/separator.php:136
+#: us-core/config/elements/separator.php:149
+msgid "Icon and Title"
+msgstr "آیکون و عنوان"
+
+#: us-core/config/elements/sharing.php:33
+#: us-core/plugins-support/js_composer/map/vc_row.php:220
+msgid "Fixed"
+msgstr "ثابت"
+
+#: us-core/config/elements/sharing.php:54
+#: us-core/config/elements/socials.php:106 us-core/config/widgets.php:276
+msgid "Default brands colors"
+msgstr "رنگ های برند پیشفرض"
+
+#: us-core/config/elements/sharing.php:63
+msgid "Share Counters"
+msgstr "اشتراک شمارنده ها"
+
+#: us-core/config/elements/sharing.php:79
+msgid "Allow to share selected text"
+msgstr "اجازه دادن به اشتراک متن منتخب"
+
+#: us-core/config/elements/sharing.php:80
+msgid ""
+"When you select text on a page, a panel with buttons appears, and you can "
+"quickly share the selected text."
+msgstr ""
+"هنگامی که در صفحه متنی را انتخاب می کنید، یک پنل ظاهر می شود که به کمک آن می "
+"توانید به سرعت متن منتخب را به اشتراک گذارید."
+
+#: us-core/config/elements/sharing.php:85
+msgid "Text selection inside post content only"
+msgstr "انتخاب پس فقط در محتوای نوشته ها"
+
+#: us-core/config/elements/sharing.php:93
+msgid "Sharing URL (optional)"
+msgstr "لینک اشتراک (اختیاری)"
+
+#: us-core/config/elements/sharing.php:94
+msgid "If not specified, the opened page URL will be used by default"
+msgstr ""
+"اگه مقدار مشخص نشود .آدرس اینترنتی برگه باز به عنوان پیشفرض استفاده خواهد شد"
+
+#: us-core/config/elements/socials.php:3
+msgid "Custom Icon"
+msgstr "آیکون دلخواه"
+
+#: us-core/config/elements/socials.php:77 us-core/config/widgets.php:263
+msgid "Icons Style"
+msgstr "استایل آیکون"
+
+#: us-core/config/elements/socials.php:81 us-core/config/widgets.php:266
+msgid "With outline"
+msgstr "با خط دور"
+
+#: us-core/config/elements/socials.php:82 us-core/config/widgets.php:267
+msgid "With light background"
+msgstr "با پس زمینه روشن"
+
+#: us-core/config/elements/socials.php:83 us-core/config/widgets.php:268
+msgid "With colored background"
+msgstr "با پس زمینه رنگی"
+
+#: us-core/config/elements/socials.php:91 us-core/config/widgets.php:284
+msgid "Icons Shape"
+msgstr "شکل آیکون"
+
+#: us-core/config/elements/socials.php:94 us-core/config/widgets.php:286
+msgid "Square"
+msgstr "مربع"
+
+#: us-core/config/elements/socials.php:95 us-core/config/widgets.php:287
+msgid "Rounded Square"
+msgstr "گوشه های گرد"
+
+#: us-core/config/elements/socials.php:103 us-core/config/widgets.php:274
+msgid "Icons Color"
+msgstr "رنگ آیکون ها"
+
+#: us-core/config/elements/socials.php:108 us-core/config/widgets.php:278
+msgid "Link (theme color)"
+msgstr "لینک (رنگ پوسته)"
+
+#: us-core/config/elements/socials.php:115
+#: us-core/config/theme-options.php:1737 us-core/config/widgets.php:294
+msgid "Hover Style"
+msgstr "استایل شناور"
+
+#: us-core/config/elements/socials.php:155
+msgid "Gap between Icons"
+msgstr "فاصله میان آیکون ها"
+
+#: us-core/config/elements/vwrapper.php:7
+msgid "Vertical Wrapper"
+msgstr "دربرگیرنده عمودی"
+
+#: us-core/config/elements/vwrapper.php:36
+msgid "Add a transparent gradient to the background"
+msgstr "اضافه کردن گرادیینت (gradient) شفاف به پس زمینه"
+
+#: us-core/config/elements_design_options.php:14
+msgid "Hide this element when the header is sticky"
+msgstr "این المان را زمانی که سربرگ چسبان است مخفی کن"
+
+#: us-core/config/elements_design_options.php:16
+#: us-core/config/elements_design_options.php:23
+#: us-core/config/elements_design_options.php:33
+#: us-core/config/elements_design_options.php:42
+#: us-core/config/elements_design_options.php:49
+#: us-core/config/elements_design_options.php:58
+#: us-core/config/elements_design_options.php:68
+#: us-core/config/elements_design_options.php:76
+#: us-core/config/elements_design_options.php:84
+#: us-core/config/elements_design_options.php:98
+#: us-core/config/elements_design_options.php:107
+#: us-core/config/elements_design_options.php:116
+msgid "Design Options"
+msgstr "گزینه های طراحی"
+
+#: us-core/config/elements_design_options.php:21
+msgid "Hide this element when the header is NOT sticky"
+msgstr "این المان را زمانی که سربرگ چسبان نیست مخفی کن"
+
+#: us-core/config/elements_design_options.php:29
+msgid "Extra class"
+msgstr "کلاس اضافی"
+
+#: us-core/config/elements_design_options.php:38
+msgid "Element ID"
+msgstr "آی دی عنصر"
+
+#: us-core/config/elements_design_options.php:64
+msgid "Background Сolor"
+msgstr "رنگ پس زمینه"
+
+#: us-core/config/elements_design_options.php:72
+msgid "Border Сolor"
+msgstr "رنگ کادر"
+
+#: us-core/config/elements_design_options.php:88
+msgid "Hide the element when the screen width is less than"
+msgstr "پنهان کردن عنصر زمانی که عرض صفحه نمایش کمتر است از"
+
+#: us-core/config/elements_design_options.php:102
+msgid "Custom Width"
+msgstr "عرض دلخواه"
+
+#: us-core/config/elements_design_options.php:111
+#: us-core/config/grid-settings.php:94 us-core/config/theme-options.php:1888
+msgid "Corners Radius"
+msgstr "گرد کردن گوشه ها"
+
+#: us-core/config/elements_hover_options.php:10
+msgid "Enable hover effect"
+msgstr "فعالسازی افکت شناوری (hover)"
+
+#: us-core/config/elements_hover_options.php:11
+msgid "Change appearance of this element when hover on the whole Grid Layout"
+msgstr ""
+"ظاهر این عنصر را تغییر دهید زمانی که ماوس روی کل حالت شبکه ای شناور است"
+
+#: us-core/config/elements_hover_options.php:14
+#: us-core/config/elements_hover_options.php:30
+#: us-core/config/elements_hover_options.php:46
+#: us-core/config/elements_hover_options.php:62
+#: us-core/config/elements_hover_options.php:78
+#: us-core/config/elements_hover_options.php:102
+#: us-core/config/elements_hover_options.php:126
+#: us-core/config/elements_hover_options.php:150
+#: us-core/config/elements_hover_options.php:174
+#: us-core/config/elements_hover_options.php:183
+#: us-core/config/elements_hover_options.php:192
+#: us-core/config/elements_hover_options.php:201
+#: us-core/config/elements_hover_options.php:217
+msgid "Hover Effect"
+msgstr "افکت شناوری"
+
+#: us-core/config/elements_hover_options.php:18
+msgid "Opacity"
+msgstr "شفافیت"
+
+#: us-core/config/elements_hover_options.php:34
+msgid "Opacity on Hover"
+msgstr "شفافیت در شناوری"
+
+#: us-core/config/elements_hover_options.php:50
+msgid "Scale"
+msgstr "مقیاس"
+
+#: us-core/config/elements_hover_options.php:66
+msgid "Scale on Hover"
+msgstr "مقایس در شناوری"
+
+#: us-core/config/elements_hover_options.php:82
+msgid "Horizontal Shift"
+msgstr "تغییر افقی"
+
+#: us-core/config/elements_hover_options.php:106
+msgid "Horizontal Shift on Hover"
+msgstr "تغییر افقی در شناوری"
+
+#: us-core/config/elements_hover_options.php:130
+msgid "Vertical Shift"
+msgstr "تغییر عمودی"
+
+#: us-core/config/elements_hover_options.php:154
+msgid "Vertical Shift on Hover"
+msgstr "تغییر عمودی در شناوری"
+
+#: us-core/config/elements_hover_options.php:178
+msgid "Background Сolor on Hover"
+msgstr "رنگ پس زمینه در حالت شناوری"
+
+#: us-core/config/elements_hover_options.php:187
+msgid "Border Сolor on Hover"
+msgstr "رنگ خط کادر در شناوری"
+
+#: us-core/config/elements_hover_options.php:196
+msgid "Text Сolor on Hover"
+msgstr "رنگ متن در شناوری"
+
+#: us-core/config/elements_hover_options.php:205
+msgid "Hover Transition Duration"
+msgstr "مدت زمان حرکت شناوری"
+
+#: us-core/config/elements_misc.php:27
+msgid "SlideDown"
+msgstr "اسلاید به پایین"
+
+#: us-core/config/elements_misc.php:28
+msgid "Fade + SlideDown"
+msgstr "محو + اسلاید به پایین"
+
+#: us-core/config/elements_misc.php:30
+msgid "Horizontal Slide"
+msgstr "اسلایدر افقی"
+
+#: us-core/config/elements_misc.php:31
+msgid "Material Design Effect"
+msgstr "افکت متریال دیزاین"
+
+#: us-core/config/elements_misc.php:66
+msgid "In pixels only."
+msgstr "فقط به پیکسل."
+
+#: us-core/config/elements_misc.php:69
+#, php-format
+msgid "Add or edit a menu on the %s page"
+msgstr "افزودن یا ویرایش منوی صفحه %s"
+
+#: us-core/config/elements_misc.php:72 us-core/config/theme-options.php:400
+msgid "Edit image sizes"
+msgstr "ویرایش اندازه های تصویر"
+
+#: us-core/config/elements_misc.php:75
+#, php-format
+msgid "Add or edit Button Styles on %sTheme Options%s"
+msgstr "افزودن یا ویرایش استایل دکمه ها در %sتنظیمات پوسته %s"
+
+#: us-core/config/elements_misc.php:78
+#, php-format
+msgid ""
+"To apply a URL from a custom field, use its name between the %s symbols."
+msgstr ""
+"برای گذاشتن یک URL از یک فیلد دلخواه، نام آن را بین علامت های %s بگذارید."
+
+#: us-core/config/elements_misc.php:81
+#, php-format
+msgid "Add or edit Header on the %s page"
+msgstr "افزودن یا ویرایش سربرگ (هدر) در صفحه %s"
+
+#: us-core/config/elements_misc.php:84
+#, php-format
+msgid "Add or edit content template on the %s page"
+msgstr "افزودن یا ویرایش قالب محتوا در صفحه %s"
+
+#: us-core/config/elements_misc.php:87
+#, php-format
+msgid "Add or edit Footer on the %s page"
+msgstr "افزودن یا ویرایش پاورقی (فوتر) صفحه %s"
+
+#: us-core/config/elements_typography_options.php:16
+#: us-core/config/elements_typography_options.php:35
+#: us-core/config/elements_typography_options.php:49
+#: us-core/config/elements_typography_options.php:61
+#: us-core/config/elements_typography_options.php:70
+#: us-core/config/elements_typography_options.php:78
+#: us-core/config/elements_typography_options.php:88
+#: us-core/config/elements_typography_options.php:98
+#: us-core/config/elements_typography_options.php:106
+#: us-core/config/elements_typography_options.php:116
+#: us-core/config/theme-options.php:1541
+msgid "Typography"
+msgstr "فونت ها (تایپوگرافی)"
+
+#: us-core/config/elements_typography_options.php:101
+msgid "Line height on Tablets"
+msgstr "ارتفاع خط در تبلت"
+
+#: us-core/config/elements_typography_options.php:110
+#: us-core/config/theme-options.php:1603
+msgid "Line height on Mobiles"
+msgstr "ارتفاع خط در موبایل"
+
+#: us-core/config/grid-settings.php:36
+msgid "Set Aspect Ratio"
+msgstr "تنظیمات نسبت آیتم ها"
+
+#: us-core/config/grid-settings.php:76
+msgid "Hide Overflowing Content"
+msgstr "پنهان کردن محتوای بیشتر"
+
+#: us-core/config/grid-settings.php:106 us-core/config/theme-options.php:1788
+msgid "Shadow"
+msgstr "سایه"
+
+#: us-core/config/grid-settings.php:118 us-core/config/theme-options.php:1801
+msgid "Shadow on hover"
+msgstr "سایه در حالت شناوری"
+
+#: us-core/config/grid-templates.php:13
+msgid "Blog Templates"
+msgstr "قالب های وبلاگ"
+
+#: us-core/config/grid-templates.php:1045
+msgid "Read More"
+msgstr "بیش تر بخوانید"
+
+#: us-core/config/grid-templates.php:1140
+msgid "News Templates"
+msgstr "قالب های خبر"
+
+#: us-core/config/grid-templates.php:1224
+msgid "Gallery Templates"
+msgstr "قالب های گالری"
+
+#: us-core/config/grid-templates.php:1243
+msgid "Image Gallery with titles BELOW the image"
+msgstr "گالری تصاویر با عناوین در زیر تصویر"
+
+#: us-core/config/grid-templates.php:1314
+msgid "Image Gallery with titles OVER the image"
+msgstr "گالری تصاویر با عناوین روی تصویر"
+
+#: us-core/config/grid-templates.php:1397
+msgid "Portfolio Templates"
+msgstr "قالب نمونه کارها"
+
+#: us-core/config/grid-templates.php:2709
+msgid "Testimonial Templates"
+msgstr "قالب های نظرات مشتریان"
+
+#: us-core/config/grid-templates.php:3161
+msgid "Shop Templates"
+msgstr "قالب های فروشگاه"
+
+#: us-core/config/header-settings.php:34
+msgid "Apply when the screen width is less than"
+msgstr "این گزینه فعال باشد هنگامی که عرض صفحه نمایش کمتر است از"
+
+#: us-core/config/header-settings.php:51
+msgid "Orientation"
+msgstr "گرایش (جهت)"
+
+#: us-core/config/header-settings.php:60 us-core/config/meta-boxes.php:44
+msgid "Sticky Header"
+msgstr "سربرگ چسبان"
+
+#: us-core/config/header-settings.php:62
+msgid "Fix the header at the top of a page during scroll"
+msgstr "با اسکرول کردن، سربرگ بالای برگه ثابت می ماند"
+
+#: us-core/config/header-settings.php:68
+msgid "Header Scroll Breakpoint"
+msgstr "نقطه شکست اسکرول سربرگ"
+
+#: us-core/config/header-settings.php:69
+msgid ""
+"This option sets scroll distance from the top of a page after which the "
+"sticky header will be shrunk"
+msgstr "بعد از طی شدن این فاصله نسبت به بالای صفحه، سربرگ چسبان نمایان می شود"
+
+#: us-core/config/header-settings.php:86 us-core/config/meta-boxes.php:67
+msgid "Transparent Header"
+msgstr "سربرگ شفاف"
+
+#: us-core/config/header-settings.php:88
+msgid "Make the header transparent at its initial position"
+msgstr "سربرگ شفاف در موقعیت ابتدایی آن"
+
+#: us-core/config/header-settings.php:94
+msgid "Header Width"
+msgstr "عرض سربرگ"
+
+#: us-core/config/header-settings.php:111
+msgid "Elements Alignment"
+msgstr "ترازبندی المان ها"
+
+#: us-core/config/header-settings.php:122 us-core/config/meta-boxes.php:90
+msgid "Header Shadow"
+msgstr "سایه سربرگ"
+
+#: us-core/config/header-settings.php:126
+msgid "Thin"
+msgstr "باریک"
+
+#: us-core/config/header-settings.php:127
+msgid "Wide"
+msgstr "عریض"
+
+#: us-core/config/header-settings.php:134
+#: us-core/config/header-settings.php:321
+msgid "Show Area"
+msgstr "نمایش ناحیه"
+
+#: us-core/config/header-settings.php:139
+#: us-core/config/header-settings.php:200
+#: us-core/config/header-settings.php:326
+msgid "Area Height"
+msgstr "ارتفاع ناحیه"
+
+#: us-core/config/header-settings.php:156
+#: us-core/config/header-settings.php:213
+#: us-core/config/header-settings.php:342
+msgid "Sticky Area Height"
+msgstr "ارتفاع ناحیه چسبان"
+
+#: us-core/config/header-settings.php:174
+#: us-core/config/header-settings.php:229
+#: us-core/config/header-settings.php:360
+#: us-core/plugins-support/js_composer/map/vc_row.php:119
+msgid "Full Width Content"
+msgstr "محتوای تمام عرض"
+
+#: us-core/config/header-settings.php:186
+#: us-core/config/header-settings.php:239
+#: us-core/config/header-settings.php:372
+msgid "Center the middle cell"
+msgstr "سلول میانی در وسط"
+
+#: us-core/config/header-settings.php:249
+msgid "Elements Vertical Alignment"
+msgstr "ترازبندی عمودی المان ها"
+
+#: us-core/config/header-settings.php:283 us-core/config/menu-dropdown.php:153
+#: us-core/config/theme-options.php:809
+#: us-core/plugins-support/js_composer/map/vc_row.php:229
+msgid "Background Image Repeat"
+msgstr "تکرار عکس زمینه"
+
+#: us-core/config/header-settings.php:286 us-core/config/menu-dropdown.php:156
+#: us-core/config/theme-options.php:812
+#: us-core/plugins-support/js_composer/map/vc_row.php:232
+msgid "Repeat"
+msgstr "تکرار"
+
+#: us-core/config/header-settings.php:287 us-core/config/menu-dropdown.php:157
+#: us-core/config/theme-options.php:813
+#: us-core/plugins-support/js_composer/map/vc_row.php:233
+msgid "Horizontally"
+msgstr "افقی"
+
+#: us-core/config/header-settings.php:288 us-core/config/menu-dropdown.php:158
+#: us-core/config/theme-options.php:814
+#: us-core/plugins-support/js_composer/map/vc_row.php:234
+msgid "Vertically"
+msgstr "عمودی"
+
+#: us-core/config/header-settings.php:294 us-core/config/menu-dropdown.php:166
+#: us-core/config/theme-options.php:821
+#: us-core/plugins-support/js_composer/map/vc_row.php:194
+msgid "Background Image Position"
+msgstr "موقعیت عکس زمینه"
+
+#: us-core/config/menu-dropdown.php:47
+msgid "Stretch background to the screen edges"
+msgstr "هدر را به اندازه کل عرض صفحه عریض کن"
+
+#: us-core/config/menu-dropdown.php:53
+msgid "Drop from"
+msgstr "دراپ از"
+
+#: us-core/config/menu-dropdown.php:56
+msgid "Menu item"
+msgstr "آیتم منو"
+
+#: us-core/config/menu-dropdown.php:65
+msgid "Drop to"
+msgstr "کشویی"
+
+#: us-core/config/menu-dropdown.php:78
+msgid "Columns for sub-items"
+msgstr "ستون ها برای زیر آیتم"
+
+#: us-core/config/menu-dropdown.php:92
+msgid "Inner indents"
+msgstr "عقبهای داخلی"
+
+#: us-core/config/menu-dropdown.php:186
+msgid "Override settings for this menu item"
+msgstr "تنظیمات این آیتم منو را دوباره نویسی نمایید"
+
+#: us-core/config/meta-boxes.php:20
+msgid "Page Layout"
+msgstr "طرح بندی صفحه"
+
+#: us-core/config/meta-boxes.php:36 us-core/config/meta-boxes.php:118
+#: us-core/config/meta-boxes.php:133 us-core/config/meta-boxes.php:146
+#: us-core/config/meta-boxes.php:174
+msgid "As in Theme Options"
+msgstr "همانطور که در تنظیمات پوسته است"
+
+#: us-core/config/meta-boxes.php:37 us-core/config/meta-boxes.php:119
+#: us-core/config/meta-boxes.php:147 us-core/config/meta-boxes.php:175
+#: us-core/config/theme-options.php:117 us-core/config/theme-options.php:130
+#: us-core/config/theme-options.php:156 us-core/config/theme-options.php:182
+#: us-core/config/theme-options.php:211 us-core/config/theme-options.php:224
+#: us-core/config/theme-options.php:249 us-core/config/theme-options.php:275
+#: us-core/config/theme-options.php:306 us-core/config/theme-options.php:319
+#: us-core/config/theme-options.php:344 us-core/config/theme-options.php:370
+#: us-core/config/theme-options.php:957 us-core/config/theme-options.php:968
+#: us-core/config/theme-options.php:990 us-core/config/theme-options.php:1013
+#: us-core/config/theme-options.php:1041 us-core/config/theme-options.php:1052
+#: us-core/config/theme-options.php:1074 us-core/config/theme-options.php:1097
+#: us-core/config/theme-options.php:1118 us-core/config/theme-options.php:1130
+#: us-core/config/theme-options.php:1153 us-core/config/theme-options.php:1177
+#: us-core/config/theme-options.php:2091 us-core/config/theme-options.php:2103
+#: us-core/config/theme-options.php:2126 us-core/config/theme-options.php:2150
+#: us-core/config/theme-options.php:2169 us-core/config/theme-options.php:2181
+#: us-core/config/theme-options.php:2226 us-core/config/theme-options.php:2250
+msgid "Do not display"
+msgstr "عدم نمایش"
+
+#: us-core/config/meta-boxes.php:46 us-core/config/meta-boxes.php:69
+msgid "Override this setting"
+msgstr "نادیده گرفتن این تنظیمات"
+
+#: us-core/config/meta-boxes.php:54 us-core/config/meta-boxes.php:77
+msgid "On Desktops"
+msgstr "در دسکتاپ"
+
+#: us-core/config/meta-boxes.php:55 us-core/config/meta-boxes.php:78
+msgid "On Tablets"
+msgstr "در تبلت"
+
+#: us-core/config/meta-boxes.php:56 us-core/config/meta-boxes.php:79
+msgid "On Mobiles"
+msgstr "در موبایل"
+
+#: us-core/config/meta-boxes.php:92
+msgid "Remove header shadow"
+msgstr "حذف سایه سربرگ"
+
+#: us-core/config/meta-boxes.php:98
+msgid "Sticky Header Initial Position"
+msgstr "موقعیت ابتدایی سربرگ چسبان"
+
+#: us-core/config/meta-boxes.php:101
+msgid "At the Top of this page"
+msgstr "در بالای این برگه"
+
+#: us-core/config/meta-boxes.php:102
+msgid "At the Bottom of the first content row"
+msgstr "در پایین اولین ردیف محتوا"
+
+#: us-core/config/meta-boxes.php:103
+msgid "Above the first content row"
+msgstr "بالای اولین ردیف محتوا"
+
+#: us-core/config/meta-boxes.php:104
+msgid "Below the first content row"
+msgstr "زیر اولین ردیف محتوا"
+
+#: us-core/config/meta-boxes.php:113 us-core/config/theme-options.php:124
+#: us-core/config/theme-options.php:218 us-core/config/theme-options.php:313
+#: us-core/config/theme-options.php:963 us-core/config/theme-options.php:1047
+#: us-core/config/theme-options.php:1124 us-core/config/theme-options.php:2097
+#: us-core/config/theme-options.php:2175 us-core/functions/post-types.php:539
+msgid "Titlebar"
+msgstr "نوار عنوان"
+
+#: us-core/config/meta-boxes.php:128 us-core/config/theme-options.php:138
+#: us-core/config/theme-options.php:232 us-core/config/theme-options.php:327
+#: us-core/config/theme-options.php:975 us-core/config/theme-options.php:1059
+#: us-core/config/theme-options.php:1137 us-core/config/theme-options.php:2110
+#: us-core/config/theme-options.php:2188 us-core/functions/post-types.php:540
+msgid "Content template"
+msgstr "قالب محتوا"
+
+#: us-core/config/meta-boxes.php:134 us-core/config/theme-options.php:99
+#: us-core/config/theme-options.php:980
+msgid "Show content as is"
+msgstr "نمایش محتوا همانطور که هست"
+
+#: us-core/config/meta-boxes.php:169 us-core/config/theme-options.php:176
+#: us-core/config/theme-options.php:269 us-core/config/theme-options.php:364
+#: us-core/config/theme-options.php:1008 us-core/config/theme-options.php:1092
+#: us-core/config/theme-options.php:1171 us-core/config/theme-options.php:2144
+#: us-core/config/theme-options.php:2244 us-core/functions/post-types.php:541
+msgid "Footer"
+msgstr "فوتر"
+
+#: us-core/config/meta-boxes.php:205
+msgid "Custom Size"
+msgstr "اندازه دلخواه"
+
+#: us-core/config/meta-boxes.php:253 us-core/functions/helpers.php:2016
+msgid "Author Link"
+msgstr "لینک نویسنده"
+
+#: us-core/config/theme-options.php:82 us-core/functions/post-types.php:25
+#: us-core/functions/post-types.php:555
+msgid "Portfolio Pages"
+msgstr "برگه های نمونه کارها"
+
+#: us-core/config/theme-options.php:97 us-core/config/theme-options.php:2115
+#: us-core/config/theme-options.php:2193
+msgid "Default WooCommerce template"
+msgstr "قالب پیش فرض ووکامرس"
+
+#: us-core/config/theme-options.php:116 us-core/config/theme-options.php:129
+#: us-core/config/theme-options.php:143 us-core/config/theme-options.php:155
+#: us-core/config/theme-options.php:181 us-core/config/theme-options.php:2090
+#: us-core/config/theme-options.php:2102 us-core/config/theme-options.php:2125
+#: us-core/config/theme-options.php:2149 us-core/config/theme-options.php:2168
+#: us-core/config/theme-options.php:2180 us-core/config/theme-options.php:2225
+#: us-core/config/theme-options.php:2249
+msgid "As in Pages"
+msgstr "همانطور که در صفحات است"
+
+#: us-core/config/theme-options.php:210 us-core/config/theme-options.php:223
+#: us-core/config/theme-options.php:237 us-core/config/theme-options.php:248
+#: us-core/config/theme-options.php:274 us-core/config/theme-options.php:1117
+#: us-core/config/theme-options.php:1129 us-core/config/theme-options.php:1142
+#: us-core/config/theme-options.php:1152 us-core/config/theme-options.php:1176
+msgid "As in Archives"
+msgstr "همانطور که در بایگانی است"
+
+#: us-core/config/theme-options.php:305 us-core/config/theme-options.php:318
+#: us-core/config/theme-options.php:332 us-core/config/theme-options.php:343
+#: us-core/config/theme-options.php:369
+msgid "As in Shop Page"
+msgstr "همانطور که در برگه فروشگاه است"
+
+#: us-core/config/theme-options.php:382
+#, php-format
+msgid "To change the default image sizes, go to %s."
+msgstr "برای تغییر اندازه پیش فرض تصویر بروید به %s."
+
+#: us-core/config/theme-options.php:386
+#, php-format
+msgid "To change the Product image sizes, go to %s."
+msgstr "برای تغییر اندازه تصاویر محصول بروید به %s."
+
+#: us-core/config/theme-options.php:399
+#, php-format
+msgid "Read about %simage sizes and how to use them%s."
+msgstr "درباره %s اندازه تصاویر و چگونگی استفاده از آنها %s بخوانید."
+
+#: us-core/config/theme-options.php:427
+#, php-format
+msgid "Heading %s Preview"
+msgstr "پیش نمایش %s عنوان"
+
+#: us-core/config/theme-options.php:495 us-core/config/theme-options.php:1926
+msgid "Letter Spacing"
+msgstr "فاصله بین حروف"
+
+# نمیدونم کاربردش کجاست؟
+#: us-core/config/theme-options.php:537
+msgid "Bottom indent"
+msgstr "تو رفتگی پایین"
+
+#: us-core/config/theme-options.php:561 us-core/config/theme-options.php:1942
+msgid "Uppercase"
+msgstr "حروف بزرگ"
+
+#: us-core/config/theme-options.php:562 us-core/config/theme-options.php:1693
+#: us-core/config/theme-options.php:1943
+msgid "Italic"
+msgstr "ایتالیک"
+
+#: us-core/config/theme-options.php:587 us-core/functions/post.php:220
+msgid "Maintenance Mode"
+msgstr "حالت در حال کار"
+
+#: us-core/config/theme-options.php:588
+msgid ""
+"When this option is ON, all not logged in users will see only specific page "
+"selected by you. This is useful when your site is under construction."
+msgstr ""
+"هنگامی که این گزینه فعال باشد، تمام کاربران وارد نشده، فقط برگه ای که شما "
+"انتخاب کرده اید، می بینند. برای وقتی که سایت در حال ایجاد یا تغییرات است، "
+"مناسب می باشد."
+
+#: us-core/config/theme-options.php:590
+msgid "Show for site visitors only specific page"
+msgstr "نمایش برگه ای خاص به بازدیدکنندگان"
+
+#: us-core/config/theme-options.php:603
+msgid ""
+"When this option is ON, your site will send HTTP 503 response to search "
+"engines. Use this option only for short period of time."
+msgstr ""
+"هنگامی که این گزینه روشن است، سایت شما پاسخ HTTP 503 را به موتورهای جستجو "
+"ارسال خواهد کرد. از این گزینه فقط برای مدت کوتاهی استفاده کنید."
+
+#: us-core/config/theme-options.php:605
+msgid "Enable \"503 Service Unavailable\" status"
+msgstr ""
+"فعالسازی وضعیت \"503 Service Unavailable\" (خطای 503 - سرویس در دسترس نیست)"
+
+#: us-core/config/theme-options.php:611
+#: us-core/migrations/Zephyr/us_migration_5_0.php:1385
+msgid "Search Results Page"
+msgstr "صفحه نتايج جستجو"
+
+#: us-core/config/theme-options.php:612 us-core/config/theme-options.php:624
+msgid ""
+"Selected page must contain Grid element showing items of the current query."
+msgstr ""
+"برگه منتخب باید شامل شبکه ای از المان ها باشد که آیتم های کوئری موجود را "
+"نمایش دهد."
+
+#: us-core/config/theme-options.php:615 us-core/config/theme-options.php:627
+#: us-core/config/theme-options.php:1064
+msgid "Show results via Grid element with defaults"
+msgstr "نمایش نتایج با شبکه ای از المان ها"
+
+#: us-core/config/theme-options.php:634
+msgid "Page \"404 Not Found\""
+msgstr "صفحه \"404 Not Found\" (خطای 404 - پیدا نشد!)"
+
+#: us-core/config/theme-options.php:635
+msgid "Selected page will be shown instead of the \"Page not found\" message."
+msgstr "برگه انتخاب شده به جای پیغام \"برگه پیدا نشد\" نمایش داده خواهد شد."
+
+#: us-core/config/theme-options.php:651
+msgid "Preloader Screen"
+msgstr "صفحه پیش بارگذاری"
+
+#: us-core/config/theme-options.php:655 us-core/config/theme-options.php:656
+#: us-core/config/theme-options.php:657 us-core/config/theme-options.php:658
+#: us-core/config/theme-options.php:659
+#, php-format
+msgid "Shows Preloader %d"
+msgstr "نمایش پیش بارگذاری %d"
+
+#: us-core/config/theme-options.php:660
+msgid "Shows Custom Image"
+msgstr "نمایش تصویر دلخواه"
+
+#: us-core/config/theme-options.php:671
+msgid "Images Placeholder"
+msgstr "عکس نگهدارنده"
+
+#: us-core/config/theme-options.php:677
+msgid "Ripple Effect"
+msgstr "اثر نازک"
+
+#: us-core/config/theme-options.php:679
+msgid "Show the ripple effect when clicking on theme elements"
+msgstr "نمایش اثر موج دار در هنگام کلیک بر روی عناصر تم"
+
+#: us-core/config/theme-options.php:683
+msgid "Rounded Corners"
+msgstr "گوشه های گرد"
+
+#: us-core/config/theme-options.php:685
+msgid "Enable rounded corners of theme elements"
+msgstr "فعال نمودن گوشه های گرد برای المان ها"
+
+#: us-core/config/theme-options.php:689
+msgid "Links Underline"
+msgstr "خط زیر لینک ها"
+
+#: us-core/config/theme-options.php:691
+msgid "Underline text links on hover"
+msgstr "خط کشیدن زیر لینک ها در حالت شناور"
+
+#: us-core/config/theme-options.php:695
+msgid "Keyboard Accessibility"
+msgstr "دسترسی به صفحه کلید"
+
+#: us-core/config/theme-options.php:697
+msgid "Highlight theme elements on focus"
+msgstr "هنگام فوکوس ، عناصر پوسته را برجسته نشان میدهد"
+
+#: us-core/config/theme-options.php:701 us-core/config/theme-options.php:2390
+#, fuzzy, php-format
+#| msgid "Remove \"%s\" buttons"
+msgid "\"%s\" button"
+msgstr "حدف دکمه های %s"
+
+#: us-core/config/theme-options.php:701 us-core/templates/footer.php:56
+msgid "Back to top"
+msgstr "بازگشت‌به‌بالا"
+
+#: us-core/config/theme-options.php:703
+msgid "Enable button which scrolls a page back to the top"
+msgstr "دکمه ای که برگه را به بالا برمی گرداند"
+
+#: us-core/config/theme-options.php:723
+msgid "Button Color"
+msgstr "رنگ دکمه"
+
+#: us-core/config/theme-options.php:728
+msgid "Show Button after page is scrolled to"
+msgstr "نمایش دکمه بعد از اینکه برگه اسکرول یافت"
+
+# از متن اصلی ایراد میگیره
+#: us-core/config/theme-options.php:729
+#, php-format
+msgid "1vh equals 1% of the screen height"
+msgstr "1vh مساوی 1 % o از ارتفاع صفحه"
+
+#: us-core/config/theme-options.php:745
+msgid "Smooth Scroll Duration"
+msgstr "مدت زمان اسکرول نرم"
+
+#: us-core/config/theme-options.php:757
+msgid "Google Maps API Key"
+msgstr "کلید API نقشه گوگل"
+
+#: us-core/config/theme-options.php:758
+msgid "The API key is required for the domains created after June 22, 2016."
+msgstr ""
+"کلید API برای دامنه هایی که بعد از 22 ژوئن 2016 ایجاد شده اند، ضروری است."
+
+#: us-core/config/theme-options.php:758
+msgid "Get API key"
+msgstr "دریافت کلید API"
+
+#: us-core/config/theme-options.php:766
+msgid "Site Layout"
+msgstr "طرح بندی سایت"
+
+#: us-core/config/theme-options.php:769
+msgid "Site Canvas Layout"
+msgstr "طرح بندی بوم (Canvas) سایت"
+
+#: us-core/config/theme-options.php:779
+msgid "Body Background Color"
+msgstr "رنگ پیش زمینه بدنه"
+
+#: us-core/config/theme-options.php:784
+msgid "Body Background Image"
+msgstr "تصویر پس زمینه بدنه"
+
+#: us-core/config/theme-options.php:837
+msgid "Site Canvas Width"
+msgstr "عرض بوم سایت (canvas)"
+
+#: us-core/config/theme-options.php:850
+msgid "Site Content Width"
+msgstr "عرض محتوای سایت"
+
+#: us-core/config/theme-options.php:862
+msgid "Sidebar Width"
+msgstr "عرض سایدبار"
+
+# مطمئن نیستم indent اینجا چه معنی بده
+# باید دید کجا استفاده شده
+#: us-core/config/theme-options.php:875
+msgid "Text Blocks bottom indent"
+msgstr "تو رفتگی متن در بلوک های متن"
+
+#: us-core/config/theme-options.php:891
+msgid "Row Height by default"
+msgstr "ارتفاع ردیف به صورت پیش فرض"
+
+#: us-core/config/theme-options.php:894
+#: us-core/plugins-support/js_composer/map/vc_row.php:94
+msgid "Equals the content height"
+msgstr "برابر با ارتفاع محتوا"
+
+#: us-core/config/theme-options.php:904
+msgid "Effects Disabling Width"
+msgstr "عرض غیرفعال شدن افکت"
+
+#: us-core/config/theme-options.php:905
+msgid ""
+"When screen width is less than this value, vertical parallax and animation "
+"of elements appearance will be disabled."
+msgstr ""
+"وقتی عرض صفحه از این مقدار کمتر شود، پارالاکس عمودی و انیمیشن المان ها "
+"غیرفعال میشود."
+
+#: us-core/config/theme-options.php:917
+msgid "Responsive Layout"
+msgstr "طرح بندی واکنش گرا (ریسپانسیو)"
+
+#: us-core/config/theme-options.php:919
+msgid "Enable responsive layout"
+msgstr "فعال کردن طرح واکنش گرا"
+
+#: us-core/config/theme-options.php:923
+msgid "Columns Stacking Width"
+msgstr "عرض جابجاکردن ستون ها"
+
+#: us-core/config/theme-options.php:924
+msgid ""
+"When screen width is less than this value, all columns within a row will "
+"become a single column."
+msgstr ""
+"وقتی عرض صفحه از این مقدار کمتر شود، همه ستون های یک ردیف در زیر هم قرار "
+"میگیرند."
+
+#: us-core/config/theme-options.php:941
+msgid "Pages Layout"
+msgstr "طرح بندی صفحات"
+
+#: us-core/config/theme-options.php:1025
+msgid "Archives Layout"
+msgstr "طرح بندی بایگانی ها"
+
+#: us-core/config/theme-options.php:1107 us-core/functions/post-types.php:577
+msgid "Authors"
+msgstr "نویسندگان"
+
+#: us-core/config/theme-options.php:1208
+msgid "Header colors"
+msgstr "رنگ های سربرگ (هدر)"
+
+#: us-core/config/theme-options.php:1214 us-core/config/theme-options.php:1218
+#: us-core/config/theme-options.php:1222
+#: us-core/usof/templates/fields/header_builder.php:208
+msgid "Top Area"
+msgstr "ناحیه بالا"
+
+#: us-core/config/theme-options.php:1222 us-core/config/theme-options.php:1234
+#: us-core/config/theme-options.php:1246 us-core/config/theme-options.php:1386
+#: us-core/config/theme-options.php:1440 us-core/config/theme-options.php:1490
+#: us-core/config/theme-options.php:1528
+msgid "Link on hover"
+msgstr "لینک در زمان شناوری"
+
+#: us-core/config/theme-options.php:1226 us-core/config/theme-options.php:1230
+#: us-core/config/theme-options.php:1234
+#: us-core/usof/templates/fields/header_builder.php:209
+msgid "Main Area"
+msgstr "ناحیه اصلی"
+
+#: us-core/config/theme-options.php:1238 us-core/config/theme-options.php:1242
+#: us-core/config/theme-options.php:1246
+#: us-core/usof/templates/fields/header_builder.php:210
+msgid "Bottom Area"
+msgstr "ناحیه پایین"
+
+#: us-core/config/theme-options.php:1250
+msgid "Text in transparent header"
+msgstr "متن در سربرگ شفاف"
+
+#: us-core/config/theme-options.php:1254
+msgid "Link on hover in transparent header"
+msgstr "لینک در حالت شناور در سربرگ شفاف"
+
+#: us-core/config/theme-options.php:1258
+msgid "Search Field Background"
+msgstr "پس زمینه فیلد جستجو"
+
+#: us-core/config/theme-options.php:1262
+msgid "Search Field Text"
+msgstr "متن فیلد جستجو"
+
+#: us-core/config/theme-options.php:1266
+msgid "Toolbar in Chrome for Android"
+msgstr "نوار ابزار در مرورگر کروم برای اندروید"
+
+#: us-core/config/theme-options.php:1278
+msgid "Header Menu colors"
+msgstr "رنگ های منوی سربرگ"
+
+#: us-core/config/theme-options.php:1284
+msgid "Active Menu Item Background"
+msgstr "پس زمینه آیتم فعال در منو"
+
+#: us-core/config/theme-options.php:1288
+msgid "Active Menu Item Text"
+msgstr "متن آیتم فعال در منو"
+
+#: us-core/config/theme-options.php:1292
+msgid "Active Menu Item Background in transparent header"
+msgstr "پس زمینه آیتم فعال در منو در سربرگ شفاف"
+
+#: us-core/config/theme-options.php:1296
+msgid "Active Menu Item Text in transparent header"
+msgstr "رنگ متن آیتم فعال در منو"
+
+#: us-core/config/theme-options.php:1300
+msgid "Menu Item Background on hover"
+msgstr "پس زمینه آیتم در منو در حالت شناور"
+
+#: us-core/config/theme-options.php:1304
+msgid "Menu Item Text on hover"
+msgstr "متن آیتم در منو در حالت شناور"
+
+#: us-core/config/theme-options.php:1308
+msgid "Dropdown Background"
+msgstr "پس زمینه منوی کشویی"
+
+#: us-core/config/theme-options.php:1312
+msgid "Dropdown Text"
+msgstr "متن منوی کشویی"
+
+#: us-core/config/theme-options.php:1316
+msgid "Dropdown Item Background on hover"
+msgstr "پس زمینه آیتم منوی کشویی در حالت شناور"
+
+#: us-core/config/theme-options.php:1320
+msgid "Dropdown Item Text on hover"
+msgstr "متن آیتم منوی کشویی در حالت شناور"
+
+#: us-core/config/theme-options.php:1324
+msgid "Dropdown Active Item Background"
+msgstr "پس زمینه آیتم فعال در منوی کشویی"
+
+#: us-core/config/theme-options.php:1328
+msgid "Dropdown Active Item Text"
+msgstr "متن آیتم فعال در منوی کشویی"
+
+#: us-core/config/theme-options.php:1332
+msgid "Menu Button Background"
+msgstr "پس زمینه دکمه منو"
+
+#: us-core/config/theme-options.php:1336
+msgid "Menu Button Text"
+msgstr "متن دکمه منو"
+
+#: us-core/config/theme-options.php:1340
+msgid "Menu Button Hover Background"
+msgstr "پس زمینه دکمه منو در حالت شناور"
+
+#: us-core/config/theme-options.php:1344
+msgid "Menu Button Hover Text"
+msgstr "متن دکمه منو در حالت شناور"
+
+#: us-core/config/theme-options.php:1356
+#: us-core/plugins-support/js_composer/map/vc_row.php:130
+msgid "Content colors"
+msgstr "رنگ‌های محتوا"
+
+# محل استفاده در ترجمه مهمه
+#: us-core/config/theme-options.php:1366 us-core/config/theme-options.php:1420
+#: us-core/config/theme-options.php:1474 us-core/config/theme-options.php:1512
+msgid "Alternate Background"
+msgstr "پس زمینه متناوب"
+
+#: us-core/config/theme-options.php:1374 us-core/config/theme-options.php:1428
+msgid "Headings"
+msgstr "عنوان ها"
+
+#: us-core/config/theme-options.php:1390 us-core/config/theme-options.php:1444
+msgid "Primary Color"
+msgstr "رنگ اصلی"
+
+#: us-core/config/theme-options.php:1394 us-core/config/theme-options.php:1448
+msgid "Secondary Color"
+msgstr "رنگ دوم"
+
+#: us-core/config/theme-options.php:1398 us-core/config/theme-options.php:1452
+msgid "Faded Text"
+msgstr "متن محو شده"
+
+#: us-core/config/theme-options.php:1410
+#: us-core/plugins-support/js_composer/map/vc_row.php:131
+msgid "Alternate Content colors"
+msgstr "رنگ های محتوای جایگزین"
+
+#: us-core/config/theme-options.php:1464
+#: us-core/plugins-support/js_composer/map/vc_row.php:134
+msgid "Top Footer colors"
+msgstr "رنگ های فوتر بالا"
+
+#: us-core/config/theme-options.php:1502
+#: us-core/plugins-support/js_composer/map/vc_row.php:135
+msgid "Bottom Footer colors"
+msgstr "رنگ های فوتر پایین"
+
+#: us-core/config/theme-options.php:1549
+msgid ""
+"This is how your site will show the <strong>text by default</strong>, while "
+"you can change the typography settings for most elements separately. Note "
+"the font size will affect all elements in \"rem\" units, that is, almost all "
+"areas of your site."
+msgstr ""
+"این است که چگونه سایت شما به <strong>طور پیش فرض متن</strong> را نشان می "
+"دهد، در حالی که شما می توانید تنظیمات تایپوگرافی را برای اکثر عناصر به طور "
+"جداگانه تغییر دهید. توجه داشته باشید که اندازه فونت بر روی تمام عناصر در "
+"واحد \"rem\" تأثیر می گذارد، یعنی تقریبا در تمام مناطق سایت شما."
+
+#: us-core/config/theme-options.php:1622
+msgid "Additional Google Fonts"
+msgstr "فونت های اضافی گوگل"
+
+#: us-core/config/theme-options.php:1623
+msgid "In case when you need more Google Fonts in theme elements."
+msgstr ""
+"در حالتی که به فونت های گوگل بیشتری در المان های پوسته نیاز داشته باشید."
+
+#: us-core/config/theme-options.php:1633
+msgid "Google Font Preview"
+msgstr "پیش نمایش فونت های گوگل"
+
+#: us-core/config/theme-options.php:1642
+msgid "Google Fonts Display"
+msgstr "نمایش فونت های گوگل"
+
+#: us-core/config/theme-options.php:1643
+msgid "Sets behavior of fonts rendering."
+msgstr "رفتار رندر شدن فونت ها را تنظیم می کند."
+
+#: us-core/config/theme-options.php:1643
+#, php-format
+msgid "Read about %s property"
+msgstr "در مورد ویژگی %s بیشتر بخوانید"
+
+#: us-core/config/theme-options.php:1660 us-core/functions/helpers.php:1322
+#: us-core/usof/templates/fields/font.php:35
+msgid "Uploaded Fonts"
+msgstr "فونت‌های بارگزاری شده"
+
+#: us-core/config/theme-options.php:1661
+#, php-format
+msgid "Add custom fonts via uploading %s files."
+msgstr "اضافه کردن فونت های دلخواه از طریق آپلود %s فایل."
+
+#: us-core/config/theme-options.php:1661
+msgid "Read about usage of uploaded fonts"
+msgstr "اطلاعات بیشتر در مورد استفاده از فونت های آپلود شده"
+
+#: us-core/config/theme-options.php:1672
+msgid "Font Name"
+msgstr "نام فونت"
+
+#: us-core/config/theme-options.php:1699
+msgid "Font Files"
+msgstr "فایل های فونت"
+
+#: us-core/config/theme-options.php:1715
+msgid "Button Styles"
+msgstr "استایل دکمه"
+
+#: us-core/config/theme-options.php:1731
+msgid "Button Style Name"
+msgstr "نام استایل دکمه"
+
+#: us-core/config/theme-options.php:1738
+msgid ""
+"\"Slide background from the top\" may not work with buttons of 3rd-party "
+"plugins."
+msgstr ""
+"\"اسلاید زدن پس زمینه از بالا\" ممکن است با دکمه های افزونه های واسطه (3rd-"
+"party) کار نکند."
+
+#: us-core/config/theme-options.php:1741
+msgid "Simple color change"
+msgstr "تغییر رنگ ساده"
+
+#: us-core/config/theme-options.php:1742
+msgid "Slide background from the top"
+msgstr "اسلاید زدن پس زمینه از بالا"
+
+#: us-core/config/theme-options.php:1757
+msgid "Colors on hover"
+msgstr "رنگ ها در زمان شناوری (hover)"
+
+#: us-core/config/theme-options.php:1823
+msgid "Relative Height"
+msgstr "ارتفاع نسبی (Relative)"
+
+#: us-core/config/theme-options.php:1858
+msgid "Relative Width"
+msgstr "عرض نسبی (Relative)"
+
+#: us-core/config/theme-options.php:1914
+msgid "Border Width"
+msgstr "عرض خط کادر"
+
+#: us-core/config/theme-options.php:1939
+msgid "Text Styles"
+msgstr "استایل های متن"
+
+#: us-core/config/theme-options.php:1952
+msgid "Default Button"
+msgstr "دکمه پیش فرض"
+
+# ترجمه به محل به کارگیری این عبارت بستگی داره
+#: us-core/config/theme-options.php:2008
+msgid "Intermediate Breadcrumbs Page"
+msgstr "موقعیت مسیر  سایت"
+
+#: us-core/config/theme-options.php:2016
+msgid "Portfolio Page Slug"
+msgstr "نامک برگه نمونه کارها"
+
+#: us-core/config/theme-options.php:2021
+msgid "Portfolio Category Slug"
+msgstr "نامک دسته نمونه کارها"
+
+#: us-core/config/theme-options.php:2026
+msgid "Portfolio Tag Slug"
+msgstr "نامک برچسب نمونه کارها"
+
+#: us-core/config/theme-options.php:2047
+msgid "Catalog Mode"
+msgstr "حالت کاتالوگ"
+
+#: us-core/config/theme-options.php:2049
+#, php-format
+msgid "Remove \"%s\" buttons"
+msgstr "حدف دکمه های %s"
+
+#: us-core/config/theme-options.php:2053
+msgid "Primary Buttons Style"
+msgstr "استایل دکمه های اصلی"
+
+#: us-core/config/theme-options.php:2054 us-core/config/theme-options.php:2061
+msgid "Edit Button Styles"
+msgstr "ویرایش استایل های دکمه"
+
+#: us-core/config/theme-options.php:2060
+msgid "Secondary Buttons Style"
+msgstr "استایل دکمه های ثانویه"
+
+#: us-core/config/theme-options.php:2070
+msgid "Display as slider"
+msgstr "نمایش اسلایدر"
+
+#: us-core/config/theme-options.php:2071
+msgid "Zoom images on hover"
+msgstr "بزرگنمایی در حالت شناوری (hover)"
+
+#: us-core/config/theme-options.php:2268
+msgid "Standard"
+msgstr "استاندارد"
+
+#: us-core/config/theme-options.php:2293
+msgid "Image Sizes"
+msgstr "سایز تصاویر"
+
+#: us-core/config/theme-options.php:2332
+msgid "Crop to exact dimensions"
+msgstr "برش به ابعاد دقیق"
+
+#: us-core/config/theme-options.php:2345
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: us-core/config/theme-options.php:2348
+msgid "Theme Modules"
+msgstr "ماژول های پوسته"
+
+#: us-core/config/theme-options.php:2366 us-core/functions/post-types.php:137
+msgid "Media Categories"
+msgstr "دسته های مدیا"
+
+#: us-core/config/theme-options.php:2372
+msgid "Open Graph meta tags"
+msgstr "باز کردن نمودارهای متا تگ ها"
+
+#: us-core/config/theme-options.php:2378
+msgid "Schema.org markup"
+msgstr "استفاده از مارک Schema.org"
+
+#: us-core/config/theme-options.php:2384
+msgid "Titlebars & Sidebars"
+msgstr "نوارهای عنوان و سایدبارها"
+
+#: us-core/config/theme-options.php:2390
+#: us-core/plugins-support/js_composer/js_composer.php:1216
+#: us-core/plugins-support/js_composer/js_composer.php:1260
+msgid "Paste from demo"
+msgstr "چسباندن از نسخه ی نمایشی"
+
+#: us-core/config/theme-options.php:2396
+msgid "Website Performance"
+msgstr "کارایی وبسایت"
+
+#: us-core/config/theme-options.php:2402
+msgid "Lazy Load"
+msgstr "بارگذاری آهسته"
+
+#: us-core/config/theme-options.php:2403
+msgid ""
+"When this option is ON, your site will load images when they're in the "
+"viewport only."
+msgstr ""
+"هنگامی که این گزینه فعال باشد، تصاویر در زمان در دید قرار گرفتن بارگذاری "
+"خواهند شد."
+
+#: us-core/config/theme-options.php:2403 us-core/config/theme-options.php:2417
+#: us-core/config/theme-options.php:2424 us-core/config/theme-options.php:2431
+#: us-core/config/theme-options.php:2438 us-core/config/theme-options.php:2446
+#: us-core/config/theme-options.php:2453 us-core/config/theme-options.php:2478
+msgid "This will improve pages loading speed."
+msgstr "افزایش سرعت بارگذاری صفحات."
+
+#: us-core/config/theme-options.php:2409
+msgid "Remove \"http/https\" from paths to files"
+msgstr "حذف کردن http/https از مسیر فایل ها"
+
+#: us-core/config/theme-options.php:2410
+msgid "For better compatibility with caching plugins."
+msgstr "برای سازگاری بهتر با افزونه های ذخیره سازی."
+
+#: us-core/config/theme-options.php:2410
+msgid "If your site uses both HTTP and HTTPS, turn OFF this option."
+msgstr ""
+"اگر سایت شما از HTTP و HTTPS به صورت همزمان استفاده می کند، این گزینه را "
+"خاموش کنید."
+
+#: us-core/config/theme-options.php:2416
+msgid "Disable jQuery migrate script"
+msgstr "غیرفعال کردن انتقال اسکریپت های jQuery"
+
+#: us-core/config/theme-options.php:2417
+msgid ""
+"When this option is ON, \"jquery-migrate.min.js\" file won't be loaded in "
+"front-end."
+msgstr ""
+"هنگامی که این گزینه روشن است, \"jquery migrate.min.js\" فایل در جلو لود "
+"نخواهد شد."
+
+#: us-core/config/theme-options.php:2423
+msgid "Move jQuery scripts to the footer"
+msgstr "انتقال اسکریپت های jQuery به فوتر"
+
+#: us-core/config/theme-options.php:2424
+msgid ""
+"When this option is ON, jQuery library files will be loaded after page "
+"content."
+msgstr ""
+"هنگامی که این گزینه روشن است، فایل های کتابخانه jQuery پس از محتوای صفحه "
+"بارگذاری می شوند."
+
+#: us-core/config/theme-options.php:2430
+msgid "Dynamically load theme JS components"
+msgstr "بارگذاری داینامیک اجزای جاوااسکریپت پوسته"
+
+#: us-core/config/theme-options.php:2431
+msgid ""
+"When this option is ON, theme components JS files will be loaded dynamically "
+"without additional external requests."
+msgstr ""
+"با فعال بودن این گزینه، اجزای جاوااسکریپت پوسته به صورت پویا و بدون نیاز به "
+"درخواست های اضافی از سرور بارگذاری می شوند. (سرعت بارگذاری صفحه را بهبود می "
+"بخشد)."
+
+#: us-core/config/theme-options.php:2437
+msgid "Disable extra features of WPBakery Page Builder"
+msgstr "غیرفعال کردن ویژگی های اضافی WPBakery Page Builder"
+
+#: us-core/config/theme-options.php:2438
+msgid ""
+"When this option is ON, original CSS and JS files of WPBakery Page Builder "
+"won't be loaded in front-end."
+msgstr ""
+"هنگامی که این گزینه ON است، فایلهای اصلی CSS و JS از WPBakery Page Builder "
+"در بخش front-end آن بارگذاری نخواهند شد."
+
+#: us-core/config/theme-options.php:2445
+msgid "Disable Gutenberg (block editor) CSS files"
+msgstr "غیرفعال کردن پرونده های CSS گوتنبرگ (ویرایشگر بلوک)"
+
+#: us-core/config/theme-options.php:2446
+msgid ""
+"When this option is ON, original CSS files of Gutenberg won't be loaded in "
+"front-end."
+msgstr ""
+"هنگامی که این گزینه ON است، فایلهای اصلی CSS و JS از WPBakery Page Builder "
+"در بخش front-end آن بارگذاری نخواهند شد."
+
+#: us-core/config/theme-options.php:2452
+msgid "Optimize JS and CSS size"
+msgstr "بهینه سازی حجم CSS و جاوااسکریپت"
+
+#: us-core/config/theme-options.php:2453
+msgid ""
+"When this option is ON, your site will load single JS file and single CSS "
+"file. You can disable unused components to reduce its sizes."
+msgstr ""
+"هنگامی که این گزینه روشن است, سایت شما فقط یک فایل جاوااسکریپت و یک فایل CSS "
+"را بارگذاری خواهد کرد. شما می توانید اجزای استفاده نشده را به منظور کاهش حجم "
+"فایل، غیر فعال نمایید."
+
+#: us-core/config/theme-options.php:2458
+msgid ""
+"Your uploads folder is not writable. Change your server permissions to use "
+"this option."
+msgstr "پوشه قابل نوشتن نیست. لطفاً سطوح دسترسی سرور را تغییر دهید."
+
+#: us-core/config/theme-options.php:2477
+msgid "Merge Google Fonts styles into single CSS file"
+msgstr ""
+
+#: us-core/config/theme-options.php:2478
+#, fuzzy
+#| msgid ""
+#| "When this option is ON, Google Fonts files will be loaded after page "
+#| "content."
+msgid ""
+"When this option is ON, Google Fonts CSS file won't be loaded separately."
+msgstr ""
+"هنگامی که این گزینه فعال است، فونت های گوگل بعد از محتوای صفحه بارگذاری "
+"خواهند شد."
+
+#: us-core/config/theme-options.php:2489
+msgid "Custom Code"
+msgstr "کد دلخواه"
+
+#: us-core/config/theme-options.php:2492
+msgid "Custom CSS"
+msgstr "CSS دلخواه"
+
+#: us-core/config/theme-options.php:2493
+#, php-format
+msgid ""
+"CSS code from this field will overwrite theme styles. It will be located "
+"inside the %s tags just before the %s tag of every site page."
+msgstr ""
+"کدهای CSS از این فیلد جایگزین استایل های پوسته خواهد شد و درون تگ های %s و "
+"درست قبل از تگ %s در هر صفحه قرار خواهند گرفت."
+
+#: us-core/config/theme-options.php:2498 us-core/config/theme-options.php:2504
+#, php-format
+msgid "Code before %s"
+msgstr "کد قبل از %s"
+
+#: us-core/config/theme-options.php:2499 us-core/config/theme-options.php:2505
+#, php-format
+msgid ""
+"Use this field for Google Analytics code or other tracking code. If you "
+"paste custom JavaScript, use it inside the %s tags."
+msgstr ""
+"از این فیلد برای تجزیه و تحلیل های گوگل (Google Analytics) استفاده کنید. اگر "
+"از کدهای جاوااسکریپت استفاده می کنید، آنها را بین تگ های %s قرار دهید."
+
+#: us-core/config/theme-options.php:2499 us-core/config/theme-options.php:2505
+#, php-format
+msgid ""
+"Content from this field will be located just before the %s tag of every site "
+"page."
+msgstr "محتوای این فیلد دقیقا قبل از تگ %s در هر صفحه از سایت قرار می گیرد."
+
+#: us-core/config/theme-options.php:2512
+msgid "Manage Options"
+msgstr "مدیریت تنظیمات"
+
+#: us-core/config/theme-options.php:2515
+msgid "Reset Theme Options"
+msgstr "ریست کردن تنظیمات پوسته"
+
+#: us-core/config/theme-options.php:2519
+msgid "Backup Theme Options"
+msgstr "بکاپ تنظیمات پوسته"
+
+#: us-core/config/theme-options.php:2523
+msgid "Transfer Theme Options"
+msgstr "انتقال تنظیمات پوسته"
+
+#: us-core/config/theme-options.php:2525
+msgid ""
+"You can transfer the saved options data between different installations by "
+"copying the text inside the text box. To import data from another "
+"installation, replace the data in the text box with the one from another "
+"installation and click \"Import Options\"."
+msgstr ""
+"شما می توانید به وسیله کپی کردن متن داخل این باکس، تنظیمات ذخیره شده را بین "
+"نصب های مختلف انتقال دهید. برای وارد نمودن تنظیمات از یک نصب دیگر، باید "
+"اطلاعات موجود در باکس را با اطلاعاتی که از نصب دیگر آورده اید، جایگزین کرده "
+"و دکمه \"وارد نمودن تنظیمات\" را کلیک کنید."
+
+#: us-core/config/widgets.php:117
+msgid "Login"
+msgstr "ورود"
+
+#: us-core/config/widgets.php:118
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: us-core/config/widgets.php:127
+msgid "Register URL"
+msgstr "آدرس صفحه ثبت نام"
+
+#: us-core/config/widgets.php:132
+msgid "Lost Password URL"
+msgstr "لینک فراموشی رمز عبور"
+
+#: us-core/config/widgets.php:137
+msgid "Login Redirect URL"
+msgstr "آدرس ریدایرکت صفحه ورود"
+
+#: us-core/config/widgets.php:142
+msgid "Logout Redirect URL"
+msgstr "آدرس ریدایرکت صفحه خروج"
+
+#: us-core/config/widgets.php:170 us-core/config/widgets.php:220
+msgid "By date of creation (older first)"
+msgstr "به وسیله تاریخ به ایجاد (اول قدیمی تر)"
+
+#: us-core/config/widgets.php:172 us-core/config/widgets.php:222
+msgid "By date of update (older first)"
+msgstr "به وسیله تاریخ به روزرسانی (اول قدیمی تر)"
+
+#: us-core/config/widgets.php:310
+msgid "Custom Link Title"
+msgstr "عنوان لینک دلخواه"
+
+#: us-core/config/widgets.php:320
+msgid "Custom Link Color"
+msgstr "رنگ لینک دلخواه"
+
+#: us-core/functions/ajax/cform.php:134
+msgid "The sender has given his consent."
+msgstr "فرستنده رضایت خود را اعلام نموده است."
+
+#: us-core/functions/ajax/cform.php:135
+msgid "Agreement text"
+msgstr "متن توافقنامه"
+
+#: us-core/functions/ajax/cform.php:136
+msgid "Agreement date and time"
+msgstr "تاریخ و زمان توافقنامه"
+
+#: us-core/functions/ajax/cform.php:137
+msgid "IP address"
+msgstr "نشانیIP"
+
+#: us-core/functions/ajax/cform.php:176
+msgid "You received a message from"
+msgstr "شما یک پیام دریافت کردید از"
+
+#: us-core/functions/ajax/cform.php:183
+#, php-format
+msgid "Message from %s"
+msgstr "پیام جدید از %s"
+
+#: us-core/functions/ajax/cform.php:186
+msgid "Cannot send empty message. Please fill any of the fields."
+msgstr "پیام خالی ارسال نخواهد شد. لطفا فیلد ها را پر کنید."
+
+#: us-core/functions/ajax/cform.php:209
+msgid "Cannot send the message. Please contact the website administrator."
+msgstr "پیام نمیتواند ارسال شود. لطفا از طریق دیگری با مدیر سایت تماس بگیرید."
+
+#: us-core/functions/helpers.php:1303
+msgid "used as default font"
+msgstr "به عنوان فونت پیش فرض"
+
+#: us-core/functions/helpers.php:1305 us-core/usof/templates/fields/font.php:96
+msgid "No font specified"
+msgstr "فونت مشخص نشده است"
+
+#: us-core/functions/helpers.php:1312
+#, php-format
+msgid "used in Heading %s"
+msgstr "به کاررفته در عنوان %s"
+
+#: us-core/functions/helpers.php:1342
+#: us-core/usof/templates/fields/font.php:117
+msgid "Google Fonts (loaded from Google servers)"
+msgstr "فونت های گوگل (بارگذاری شده از سرورهای گوگل)"
+
+#: us-core/functions/helpers.php:1355
+#: us-core/usof/templates/fields/font.php:106
+msgid "Web safe font combinations (do not need to be loaded)"
+msgstr "ترکیب های فونتی مطمئن برای وب (بی نیاز از بارگذاری)"
+
+#: us-core/functions/helpers.php:1843 us-core/functions/helpers.php:1845
+#: us-core/functions/helpers.php:1863 us-core/functions/helpers.php:1865
+msgid "any"
+msgstr "همه"
+
+#: us-core/functions/helpers.php:1847 us-core/functions/helpers.php:1867
+msgid "cropped"
+msgstr "بریده شده"
+
+#: us-core/functions/media.php:309
+msgid "Without categories"
+msgstr "بدون دسته ها"
+
+#: us-core/functions/media.php:315
+msgid "Filter by Categories"
+msgstr "فیلتر کردن بر اساس دسته ها"
+
+#: us-core/functions/post-types.php:24
+msgid "Portfolio Page"
+msgstr "برگه نمونه کارها"
+
+#: us-core/functions/post-types.php:26 us-core/functions/post-types.php:27
+msgid "Add Portfolio Page"
+msgstr "افزودن برگه نمونه کارها"
+
+#: us-core/functions/post-types.php:28
+msgid "Edit Portfolio Page"
+msgstr "ویرایش برگه نمونه کارها"
+
+#: us-core/functions/post-types.php:47
+msgid "Portfolio Categories"
+msgstr "دسته های نمونه کارها"
+
+#: us-core/functions/post-types.php:60
+msgid "Portfolio Tags"
+msgstr "برچسب های نمونه کارها"
+
+#: us-core/functions/post-types.php:98 us-core/functions/post-types.php:99
+msgid "Add Testimonial"
+msgstr "افزودن نظرات مشتریان"
+
+#: us-core/functions/post-types.php:100
+msgid "Edit Testimonial"
+msgstr "ویرایش نظرات مشتریان"
+
+#: us-core/functions/post-types.php:101
+msgid "Author Photo"
+msgstr "تصویر نویسنده"
+
+#: us-core/functions/post-types.php:118
+msgid "Testimonial Categories"
+msgstr "دسته های نظرات مشتریان"
+
+#: us-core/functions/post-types.php:158 us-core/functions/post-types.php:159
+msgid "Add Header"
+msgstr "افزودن هدر"
+
+#: us-core/functions/post-types.php:195
+#, php-format
+msgid "Site Header %d"
+msgstr "سربرگ سایت %d"
+
+#: us-core/functions/post-types.php:260 us-core/functions/post-types.php:261
+msgid "Add Page Block"
+msgstr "اضافه کردن بلوک صفحه"
+
+#: us-core/functions/post-types.php:262 us-core/functions/post-types.php:659
+msgid "Edit Page Block"
+msgstr "ویرایش بلوک صفحه"
+
+#: us-core/functions/post-types.php:564 us-core/functions/post-types.php:584
+#: us-core/functions/post-types.php:604
+#: us-core/plugins-support/js_composer/map/vc_row.php:81
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:76
+msgid "edit in Theme Options"
+msgstr "ویرایش در تنظیمات پوسته"
+
+#: us-core/functions/shortcodes.php:254
+msgid "Add indents between items"
+msgstr "اضافه کردن تو رفتگی بین آیتم ها"
+
+#: us-core/functions/widget_areas.php:34
+msgid "Sidebar Name"
+msgstr "نام سایدبار"
+
+#: us-core/functions/widget_areas.php:35
+msgid "Add Sidebar"
+msgstr "اضافه کردن سایدبار"
+
+#: us-core/functions/widget_areas.php:38
+msgid "Do you really want to delete this sidebar?"
+msgstr "آیا واقعاً می خواهید این سایدبار را پاک کنید؟"
+
+#: us-core/functions/widget_areas.php:115
+msgid "Custom Sidebar"
+msgstr "سایدبار دلخواه"
+
+#: us-core/functions/widget_areas.php:176
+msgid "Default Sidebar"
+msgstr "سایدبار پیش فرض"
+
+#: us-core/migrations/Impreza/us_migration_5_7.php:72
+#: us-core/migrations/Impreza/us_migration_5_7.php:79
+#: us-core/migrations/Zephyr/us_migration_5_4.php:72
+#: us-core/migrations/Zephyr/us_migration_5_4.php:79
+msgid "Phone Number"
+msgstr "شماره تماس"
+
+#: us-core/migrations/Impreza/us_migration_5_7.php:88
+#: us-core/migrations/Impreza/us_migration_5_7.php:95
+#: us-core/migrations/Zephyr/us_migration_5_4.php:88
+#: us-core/migrations/Zephyr/us_migration_5_4.php:95
+msgid "Message"
+msgstr "پیام"
+
+#: us-core/migrations/Impreza/us_migration_5_7.php:104
+#: us-core/migrations/Zephyr/us_migration_5_4.php:104
+msgid "Just to prove you are a human, please solve the equation: "
+msgstr "برای اثبات اینکه ربات نیستید، لطفا معادله را حل کنید: "
+
+#: us-core/migrations/Impreza/us_migration_5_7.php:120
+#: us-core/migrations/Zephyr/us_migration_5_4.php:120
+msgid "Send Message"
+msgstr "ارسال پیام"
+
+#: us-core/migrations/Zephyr/us_migration_4_0.php:168
+msgid "Default Footer"
+msgstr "فوتر پیش فرض"
+
+#: us-core/migrations/Zephyr/us_migration_5_0.php:1035
+msgid "Blog Home Page"
+msgstr "برگه اصلی وبلاگ"
+
+#: us-core/migrations/Zephyr/us_migration_5_0.php:1210
+msgid "Archive Pages"
+msgstr "صفحات بایگانی"
+
+#: us-core/plugins-support/js_composer/js_composer.php:696
+#: us-core/usof/templates/fields/design_options.php:53
+msgid "Absolute Positioning"
+msgstr "موقعیت مطلق"
+
+#: us-core/plugins-support/js_composer/js_composer.php:813
+#: us-core/usof/templates/fields/icon.php:55
+msgid "Enter icon name from the list"
+msgstr "نام آیکون را از لیست وارد کنید"
+
+#: us-core/plugins-support/js_composer/js_composer.php:940
+#: us-core/usof/templates/fields/grid_layout_select.php:48
+#, php-format
+msgid "%sEdit selected%s or %screate a new one%s."
+msgstr "%s ویرایش انتخاب شده %s یا %s ایجاد یکی دیگر %s"
+
+#: us-core/plugins-support/js_composer/js_composer.php:943
+#, php-format
+msgid "See %s"
+msgstr "%s را ببینید"
+
+#: us-core/plugins-support/js_composer/js_composer.php:943
+#: us-core/usof/templates/window_templates.php:37
+msgid "Grid Layout Templates"
+msgstr "قالب های طرح شبکه ای"
+
+#: us-core/plugins-support/js_composer/js_composer.php:1267
+#, php-format
+msgid "Copy needed section on any %sdemo site%s and paste it here:"
+msgstr "Copy needed section on any %sdemo site%s and paste it here:"
+
+#: us-core/plugins-support/js_composer/js_composer.php:1275
+msgid "Append Section"
+msgstr "بخش پیوست"
+
+#: us-core/plugins-support/js_composer/map/vc_column.php:114
+msgid "Sticky Column"
+msgstr "ستون چسبان"
+
+#: us-core/plugins-support/js_composer/map/vc_column.php:116
+msgid "Fix this column at the top of a page during scroll"
+msgstr "در طول اسکرو این ستون را در بالای صفحه ثابت کنید"
+
+#: us-core/plugins-support/js_composer/map/vc_column.php:122
+msgid "Sticky Column Top Position"
+msgstr "موقعیت بالا ستون چسبنده"
+
+#: us-core/plugins-support/js_composer/map/vc_column.php:123
+msgid "Set the distance from the top of a page where the column will stick."
+msgstr "فاصله را از بالای صفحه که ستون آن را می پوشاند تنظیم کنید."
+
+#: us-core/plugins-support/js_composer/map/vc_column.php:123
+msgid "Leave blank to use the default."
+msgstr "برای استفاده از پیش فرض، خالی بگذارید"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:27
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:13
+msgid "Additional gap"
+msgstr "فاصله اضافی"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:58
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:53
+msgid "Columns Content Position"
+msgstr "پوزیشن محتوای ستون ها"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:72
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:67
+msgid "Improves apperance of columns with background"
+msgstr "بهبود ظاهر ستون ها با پس زمینه"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:74
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:69
+msgid "Add extra padding around columns content"
+msgstr "اضافه کردن فاصله داخلی بیشتر در اطراف محتوای ستون ها"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:81
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:76
+msgid "The last column will be shown on the top."
+msgstr "آخرین ستون در بالا نمایش داده خواهد شد."
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:81
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:76
+#, php-format
+msgid "Applied when the screen width is less than %s"
+msgstr "اعمال می شود هنگامی که عرض صفحه نمایش کمتر است از %s"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:83
+#: us-core/plugins-support/js_composer/map/vc_row_inner.php:78
+msgid "Reverse order for columns stacking"
+msgstr "برعکس کردن ترتیب ستون ها در جابجایی"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:90
+msgid "Row Height"
+msgstr "ارتفاع ردیف"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:93
+msgid "Default from Theme Options"
+msgstr "پیش فرض از تنظیمات پوسته"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:106
+msgid "Row Content Position"
+msgstr "موقعیت محتوای ردیف"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:121
+msgid "Stretch content of this row to the screen width"
+msgstr "محتوای این ردیف را به پهنای صفحه نمایش بکشید"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:127
+msgid "Row Color Style"
+msgstr "استایل رنگ ردیف"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:214
+msgid "Parallax Effect"
+msgstr "افکت پارالاکس"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:244
+msgid "Parallax Background Width"
+msgstr "عرض پس زمینه پارالاکس"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:260
+msgid "Reverse Vertical Parallax Effect"
+msgstr "برعکس کردن افکت پارالاکس عمودی"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:267
+msgid "Background Video"
+msgstr "ویدئو پس زمینه"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:268
+msgid "Link to YouTube, Vimeo or video file (mp4, webm, ogg)"
+msgstr "لینک به فایل ویدئویی (mp4, webm, ogg)"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:283
+msgid "Sticky Row"
+msgstr "ردیف چسبان"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:285
+msgid "Fix this row at the top of a page during scroll"
+msgstr "ثابت کردن این ردیف در بالای صفحه در هنگام اسکرول"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:291
+msgid "Disable Sticky Row at width"
+msgstr "عیرفعال کردن ردیف چسبان در عرض"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:292
+msgid ""
+"When screen width is less than this value, sticky row becomes not sticky."
+msgstr ""
+"وقتی که پهنای صفحه کمتر از این مقدار باشد، ردیف چسبان، دیگر چسبان نخواهد شد."
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:306
+msgid "Tilt"
+msgstr "Tilt"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:307
+msgid "Curve"
+msgstr "منحنی"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:308
+msgid "Curve (inv)"
+msgstr "منحنی (inv)"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:309
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:100
+msgid "Triangle"
+msgstr "مثلث"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:310
+msgid "Triangle (inv)"
+msgstr "مثلث (inv)"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:311
+msgid "Triangle 2"
+msgstr "مثلث 2"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:312
+msgid "Triangle 2 (inv)"
+msgstr "مثلث 2 (inv)"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:313
+msgid "Wave"
+msgstr "موجی"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:314
+msgid "Zigzag"
+msgstr "زیگزاگ"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:318
+#: us-core/plugins-support/js_composer/map/vc_row.php:340
+#: us-core/plugins-support/js_composer/map/vc_row.php:366
+#: us-core/plugins-support/js_composer/map/vc_row.php:387
+#: us-core/plugins-support/js_composer/map/vc_row.php:408
+#: us-core/plugins-support/js_composer/map/vc_row.php:425
+msgid "Shape Divider"
+msgstr "تقسیم شکل"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:392
+msgid "Overlap the content of this Row"
+msgstr "محتوای این Row را با هم همپوشانی کنید"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:413
+msgid "Flip horizontally"
+msgstr "Flip Horizontally From Left"
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:436
+msgid ""
+"Background Image, Background Video, Background Overlay settings located "
+"below will override the settings located at \"Background\" and \"Effect\" "
+"tabs."
+msgstr ""
+"تصویر پس زمینه، ویدوئو پس زمینه و تنظیمات هم پوشانی پس زمینه که در زیر قرار "
+"دارند، تمام تنظیماتی را که در تب \"پس زمینه\" و \"افکت\" قرار دارند را "
+"بازنویسی می کنند. (خودشان جایگزین می شوند)."
+
+#: us-core/plugins-support/js_composer/map/vc_row.php:456
+msgid "Background Slider"
+msgstr "اسلایدر پس زمینه"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:57
+msgid "Act as Toggles"
+msgstr "عمل به صورت باشونده (Toggles)"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:59
+msgid "Allow several sections to be opened at the same time"
+msgstr "اجازه دهید چندین بخش همزمان باز باشند"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:65
+msgid "Title Alignment"
+msgstr "ترازبندی عنوان"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:94
+msgid "Select accordion navigation icon."
+msgstr "انتخاب آیکون ناوبری آکاردئون."
+
+# یک علامت شبیه به 2تا فلش رو به بالا یا پایینه! به نظرم بهترین حالت همینه که اسم خودش رو بذاریم!
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:98
+msgid "Chevron"
+msgstr "Chevron"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:99
+msgid "Plus"
+msgstr "مثبت"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_accordion.php:109
+msgid "Select accordion navigation icon position."
+msgstr "انتخاب موقعیت آیکون ناوبری آکاردئون."
+
+#: us-core/plugins-support/js_composer/map/vc_tta_section.php:53
+msgid "Show this section open"
+msgstr "نمایش این بخش باز شود"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_section.php:60
+msgid "Stretch this section content to the full available area"
+msgstr "کشیده شدن محتوای این بخش تا عرض موجود کامل"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_section.php:76
+msgid "Before title"
+msgstr "قبل از عنوان"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_section.php:77
+msgid "After title"
+msgstr "بعد از عنوان"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:57
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:58
+msgid "Switch sections"
+msgstr "تعویض بخش ها"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:68
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:69
+msgid "Sections Title HTML tag"
+msgstr "تگ HTML عنوان بخش"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:82
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:83
+msgid "Timeline"
+msgstr "گاهشمار"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_tabs.php:92
+msgid "Stretch tabs to the full available width"
+msgstr "کشیدن تب ها تا عرض کامل موجود"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:90
+msgid "Position"
+msgstr "جایگاه"
+
+#: us-core/plugins-support/js_composer/map/vc_tta_tour.php:205
+msgid "Vertical Tabs"
+msgstr "تب های عمودی"
+
+#: us-core/plugins-support/js_composer/map/vc_video.php:41
+msgid "Video link"
+msgstr "لینک ویدئو"
+
+#: us-core/plugins-support/js_composer/map/vc_video.php:42
+#, php-format
+msgid "Check supported formats on %s"
+msgstr "فرمت های مورد پشتیبانی را چک کنید %s"
+
+#: us-core/plugins-support/js_composer/map/vc_video.php:51
+msgid "Hide YouTube controls while watching"
+msgstr "پنهان سازی کلیدهای کنترل یوتیوب در زمان مشاهده"
+
+#: us-core/plugins-support/js_composer/map/vc_video.php:58
+msgid "Hide Vimeo video title (only if the owner allows)"
+msgstr "پنهان سازی عنوان ویدئوی Vimeo (فقط اگر مالک آن اجازه می دهد)"
+
+#: us-core/plugins-support/js_composer/map/vc_video.php:78
+msgid "Max Width in pixels"
+msgstr "حداکثر عرض (px)"
+
+#: us-core/plugins-support/js_composer/map/vc_video.php:87
+msgid "Video Alignment"
+msgstr "تراز بندی ویدئو"
+
+#: us-core/templates/comments.php:25
+msgid "Leave new"
+msgstr "ارسال دیدگاه جدید"
+
+#: us-core/templates/comments.php:94 us-core/templates/comments.php:95
+#: us-core/templates/form/password.php:83 us-core/templates/form/text.php:86
+#: us-core/templates/form/textarea.php:85
+msgid "Fill out this field"
+msgstr "این فیلد را پر کنید"
+
+#: us-core/templates/elements/cart.php:42
+msgid "was added to your cart"
+msgstr "به سبد شما اضافه شد"
+
+#: us-core/templates/elements/post_author.php:110
+#, php-format
+msgid "%s post"
+msgstr "%s  نوشته"
+
+#: us-core/templates/elements/sharing.php:43
+msgid "Email this"
+msgstr "ایمیل کردن"
+
+#: us-core/templates/elements/sharing.php:46
+#: us-core/templates/elements/sharing.php:52
+#: us-core/templates/elements/sharing.php:58
+#: us-core/templates/elements/sharing.php:61
+#: us-core/templates/elements/sharing.php:64
+#: us-core/templates/elements/sharing.php:67
+msgid "Share this"
+msgstr "اشتراک‌گذاری"
+
+#: us-core/templates/elements/sharing.php:49
+msgid "Tweet this"
+msgstr "توییت کردن"
+
+#: us-core/templates/elements/sharing.php:55
+msgid "Pin this"
+msgstr "سنجاق کردن"
+
+#: us-core/templates/footer.php:80
+msgid "Previous (Left arrow key)"
+msgstr "قبلی (کلید جهت چپ)"
+
+#: us-core/templates/footer.php:81
+msgid "Next (Right arrow key)"
+msgstr "بعدی (کلید جهت راست)"
+
+#: us-core/templates/form/agreement.php:55
+msgid "You need to agree with the terms to proceed"
+msgstr "برای ادامه، شما باید با قوانین موافقت کنید"
+
+#: us-core/templates/form/captcha.php:84
+msgid "Enter the equation result to proceed"
+msgstr "برای ادامه، نتیجه معادله را وارد کنید"
+
+#: us-core/templates/form/checkboxes.php:75 us-core/templates/form/radio.php:83
+#: us-core/templates/form/select.php:84
+msgid "Select an option"
+msgstr "انتخاب تنظیمات"
+
+#: us-core/templates/us_grid/listing.php:184
+msgid "All"
+msgstr "همه"
+
+#: us-core/usof/functions/ajax-menu-dropdown.php:57
+#: us-core/usof/functions/menu-dropdown.php:34
+msgid "Dropdown Settings"
+msgstr "تنظیمات کشویی"
+
+#: us-core/usof/functions/ajax.php:34
+msgid "There's no options to save"
+msgstr "تنظیمی برای ذخیره سازی نیست"
+
+#: us-core/usof/functions/ajax.php:71
+#: us-core/usof/templates/fields/reset.php:25
+msgid "Options were reset"
+msgstr "تنظیمات ریست شد"
+
+#: us-core/usof/functions/ajax.php:101
+#: us-core/usof/templates/fields/backup.php:24
+msgid "Last Backup"
+msgstr "آخرین بک آپ"
+
+#: us-core/usof/functions/ajax.php:123
+msgid "There's no backup to restore"
+msgstr "بکاپی برای بازگردانی نیست"
+
+#: us-core/usof/functions/ajax.php:133
+msgid "Backup was restored"
+msgstr "بکاپ بازگردانده شد"
+
+#: us-core/usof/functions/ajax.php:273 us-core/usof/functions/ajax.php:290
+#: us-core/usof/templates/fields/color.php:63
+msgid "Add the current color to the palette"
+msgstr "افزودن رنگ فعلی به پالت رنگ"
+
+#: us-core/usof/functions/interface.php:58
+#: us-core/usof/templates/fields/style_scheme.php:33
+msgid "Color Schemes"
+msgstr "طرح های رنگی"
+
+#: us-core/usof/functions/interface.php:119
+msgid "New"
+msgstr "جدید"
+
+#: us-core/usof/templates/field.php:95
+#: us-core/usof/templates/fields/grid_builder.php:202
+#: us-core/usof/templates/fields/header_builder.php:265
+#: us-core/usof/templates/fields/style_scheme.php:77
+msgid "Are you sure want to delete the element?"
+msgstr "شما مطمئن به حذف این المان هستید؟"
+
+#: us-core/usof/templates/field.php:170
+msgid "Edit selected"
+msgstr "ویرایش انتخاب شده"
+
+#: us-core/usof/templates/fields/backup.php:26
+msgid "No backups yet"
+msgstr "هنوز بکاپی گرفته نشده است"
+
+#: us-core/usof/templates/fields/backup.php:29
+msgid "Backup Options"
+msgstr "بکاپ تنظیمات"
+
+#: us-core/usof/templates/fields/backup.php:36
+msgid "Restore Options"
+msgstr "بازيابي تنظيمات"
+
+#: us-core/usof/templates/fields/backup.php:40
+msgid "Are you sure want to restore options from the backup?"
+msgstr "برای بازگردانی تنظیمات از بکاپ مطمئن هستید؟"
+
+#: us-core/usof/templates/fields/check_table.php:62
+msgid "All sizes in kilobytes"
+msgstr "همه سایزها به کیلوبایت"
+
+#: us-core/usof/templates/fields/design_options.php:25
+#: us-core/usof/templates/fields/header_builder.php:25
+msgid "Tablets"
+msgstr "تبلت"
+
+#: us-core/usof/templates/fields/design_options.php:26
+#: us-core/usof/templates/fields/header_builder.php:26
+msgid "Mobiles"
+msgstr "موبایل"
+
+#: us-core/usof/templates/fields/font.php:99
+msgid "As in Heading 1"
+msgstr "این فونت برای عنوان ها ، المان های H و ... استفاده می شود"
+
+#: us-core/usof/templates/fields/grid_builder.php:69
+#: us-core/usof/templates/fields/grid_builder.php:203
+#: us-core/usof/templates/fields/header_builder.php:59
+#: us-core/usof/templates/fields/header_builder.php:266
+msgid "Add element into wrapper"
+msgstr "افزودن المان به نگهدارنده"
+
+#: us-core/usof/templates/fields/grid_builder.php:70
+#: us-core/usof/templates/fields/grid_builder.php:207
+#: us-core/usof/templates/fields/header_builder.php:60
+#: us-core/usof/templates/fields/header_builder.php:270
+msgid "Edit wrapper"
+msgstr "ویرایش نگهدارنده"
+
+#: us-core/usof/templates/fields/grid_builder.php:71
+#: us-core/usof/templates/fields/grid_builder.php:208
+#: us-core/usof/templates/fields/header_builder.php:61
+#: us-core/usof/templates/fields/header_builder.php:271
+msgid "Delete wrapper"
+msgstr "حذف نگهدارنده"
+
+#: us-core/usof/templates/fields/grid_builder.php:121
+#: us-core/usof/templates/fields/grid_builder.php:204
+#: us-core/usof/templates/fields/header_builder.php:162
+#: us-core/usof/templates/fields/header_builder.php:267
+msgid "Edit element"
+msgstr "ویرایش المان"
+
+#: us-core/usof/templates/fields/grid_builder.php:122
+#: us-core/usof/templates/fields/grid_builder.php:205
+#: us-core/usof/templates/fields/header_builder.php:163
+#: us-core/usof/templates/fields/header_builder.php:268
+msgid "Duplicate element"
+msgstr "کپی سازی المان"
+
+#: us-core/usof/templates/fields/grid_builder.php:123
+#: us-core/usof/templates/fields/grid_builder.php:206
+#: us-core/usof/templates/fields/header_builder.php:164
+#: us-core/usof/templates/fields/header_builder.php:269
+msgid "Delete element"
+msgstr "حذف المان"
+
+#: us-core/usof/templates/fields/grid_builder.php:139
+#: us-core/usof/templates/fields/header_builder.php:188
+#: us-core/usof/templates/window_add.php:11
+msgid "Add element"
+msgstr "افزودن المان"
+
+#: us-core/usof/templates/fields/grid_builder.php:148
+msgid "Grid Layout Settings"
+msgstr "تنظیمات طرح شبکه ای"
+
+#: us-core/usof/templates/fields/grid_builder.php:200
+#: us-core/usof/templates/fields/header_builder.php:263
+msgid ""
+"Selected template will overwrite all your current elements and settings! Are "
+"you sure want to apply it?"
+msgstr ""
+"قالب انتخاب شده بر روی المان ها و تنظیمات فعلی بازنویسی می شود! آیا شما از "
+"این کار مطمئن هستید؟"
+
+#: us-core/usof/templates/fields/grid_builder.php:201
+#: us-core/usof/templates/fields/header_builder.php:264
+msgid ""
+"Are you sure want to change the header orientation? Some of your elements' "
+"positions may be changed"
+msgstr ""
+"آیا شما مطمئن هستید که میخواهید جهت قرارگیری سربرگ را تغییر دهید؟ موقعیت "
+"برخی از المان ها ممکن است تغییر کند"
+
+#: us-core/usof/templates/fields/grid_builder.php:245
+msgid ""
+"To import another Grid Layout replace the text in this field and click "
+"\"Import\" button."
+msgstr ""
+"برای وارد کردن یک طرح شبکه ای دیگر، متن را در این قسمت جایگزین کرده و روی "
+"دکمه «وارد کردن» کلیک کنید."
+
+#: us-core/usof/templates/fields/grid_builder.php:246
+msgid "Import Grid Layout"
+msgstr "وارد کردن طرح شبکه ای"
+
+#: us-core/usof/templates/fields/header_builder.php:197
+msgid "Hidden Elements"
+msgstr "المان های سربرگ"
+
+#: us-core/usof/templates/fields/header_builder.php:207
+msgid "General Header Settings"
+msgstr "تنظیمات عمومی سربرگ"
+
+#: us-core/usof/templates/fields/header_builder.php:300
+msgid "Header Export / Import"
+msgstr "درون‌ریزی و برون‌ریزی سربرگ"
+
+#: us-core/usof/templates/fields/header_builder.php:301
+msgid ""
+"You can export the saved Header by copying the text inside this field. To "
+"import another Header replace the text in this field and click \"Import "
+"Header\" button."
+msgstr ""
+"می توانید سربرگ را به وسیله کپی کردن متن داخل این فیلد، ذخیره کنید. برای "
+"وارد کردن یک سربرگ دیگر، متن را در این قسمت جایگزین کنید و روی دکمه «وارد "
+"کردن سربرگ» کلیک کنید."
+
+#: us-core/usof/templates/fields/header_builder.php:302
+msgid "Import Header"
+msgstr "درون ریزی سربرگ"
+
+#: us-core/usof/templates/fields/reset.php:19
+msgid "Reset Options"
+msgstr "ریست تنظیمات"
+
+#: us-core/usof/templates/fields/reset.php:24
+msgid "Are you sure want to reset all the options to default values?"
+msgstr "مطمئن هستید که می خواهید تنظیمات را به حالت پیش فرض برگردانید؟"
+
+#: us-core/usof/templates/fields/slider.php:81
+msgid "No units"
+msgstr "بدون واحد"
+
+#: us-core/usof/templates/fields/style_scheme.php:40
+msgid "Save current colors as"
+msgstr "ذخیره رنگ های جاری به عنوان"
+
+#: us-core/usof/templates/fields/style_scheme.php:41
+msgid "Color Scheme Name"
+msgstr "نام طرح رنگی"
+
+#: us-core/usof/templates/fields/style_scheme.php:43
+msgid "Save as new"
+msgstr "ذخیره به عنوان جدید"
+
+#: us-core/usof/templates/fields/transfer.php:20
+msgid "Import Options"
+msgstr "درون ریزی تنظیمات"
+
+#: us-core/usof/templates/fields/transfer.php:24
+msgid "Wrong import data format"
+msgstr "فرمت اشتباه"
+
+#: us-core/usof/templates/fields/transfer.php:25
+msgid "Options imported"
+msgstr "تنظیمات دورن ریزی شدند"
+
+#: us-core/usof/templates/window_header_templates.php:29
+msgid "Header Templates"
+msgstr "قالب های سربرگ"
+
+#: us-core/widgets/us_blog.php:137 us-core/widgets/us_portfolio.php:144
+msgid "Display Items of selected categories"
+msgstr "نمایش آیتم ها از دسته های انتخاب شده"
+
+#~ msgid "\"Back to top\" Button"
+#~ msgstr "دکمه بازگشت به بالا"
+
+#~ msgid "Duplicate"
+#~ msgstr "کپی سازی"
+
+#~ msgid "Buttons"
+#~ msgstr "دکمه ها"
+
+#~ msgid "Alphabetically"
+#~ msgstr "بر اساس الفبا"
+
+#~ msgid "Dropdown Behavior"
+#~ msgstr "رفتار منوی بازشو"
+
+#~ msgid ""
+#~ "When this option is OFF, mobile menu dropdown will be shown by click on "
+#~ "an arrow only."
+#~ msgstr ""
+#~ "هنگامی که این گزینه خاموش است, منوی کرکره ای موبایل، فقط با کلیک بر روی "
+#~ "فلش نمایش داده می شود."
+
+#~ msgid "Full Width"
+#~ msgstr "تمام عرض"
+
+#~ msgid "Classic"
+#~ msgstr "کلاسیک"
+
+#~ msgid "Tiles"
+#~ msgstr "موزاییکی (تایل)"
+
+#~ msgid "Side Image"
+#~ msgstr "تصویر اسلاید"
+
+#~ msgid "Invert dropdown direction"
+#~ msgstr "معکوس نمودن جهت لیست کشویی"
+
+#~ msgid "Dropdown Columns"
+#~ msgstr "ستون های کشویی"
+
+#~ msgid "Dropdown Padding"
+#~ msgstr "فاصله داخلی کشویی"
+
+#~ msgid "Defer Google Fonts loading"
+#~ msgstr "تاخیر در بارگذاری فونت های گوگل"
+
+#~ msgctxt "Example: 3 of 12"
+#~ msgid "%curr% of %total%"
+#~ msgstr "%curr% از %total%"
+
+#~ msgid "Purple White"
+#~ msgstr "بنفش سفیذ"
+
+#~ msgid "Teal Serenity"
+#~ msgstr "آرامیش تیله"
+
+#~ msgid "Widgets & Sidebars"
+#~ msgstr "ویجت ها وسایدبار ها"
+
+#~ msgid "Create custom website headers layouts with any elements."
+#~ msgstr "طرح بندی هدرهای سفارشی را با هر عنصر ایجاد کنید."
+
+#~ msgid "Specific items"
+#~ msgstr "موارد خاص"
+
+#~ msgid "On click action"
+#~ msgstr "رویداد هنگام کلیک کردن"
+
+#~ msgid "Open custom link"
+#~ msgstr "باز کردن لینک سفارشی"
+
+#~ msgid "3:2 (landscape)"
+#~ msgstr "3:2 (landscape)"
+
+#~ msgid "1:1 (square)"
+#~ msgstr "1:1 (square)"
+
+#~ msgid "3:4 (portrait)"
+#~ msgstr "3:4 (portrait)"
+
+#~ msgid ""
+#~ "To add more elements into your website header, install %sHeader Builder "
+#~ "addon%s."
+#~ msgstr ""
+#~ "برای افزودن المان های بیشتر در هدر وبسایت ، افزونه %s هدر بیلدر %s را نصب "
+#~ "نمایید."
+
+#~ msgid "Top Area Height"
+#~ msgstr "ارتفاع ناحیه بالایی"
+
+#~ msgid "Top Sticky Area Height"
+#~ msgstr "ارتفاع ناحیه چسبان بالایی"
+
+#~ msgid "Main Area Height"
+#~ msgstr "ارتفاع ناحیه اصلی"
+
+#~ msgid "Main Sticky Area Height"
+#~ msgstr "ارتفاع ناحیه اصلی چسبان"
+
+#~ msgid "Bottom Area Height"
+#~ msgstr "ارتفاع ناحیه فوتر پایین"
+
+#~ msgid "Bottom Sticky Area Height"
+#~ msgstr "ارتفاع ناحیه فوتر پایین چسبان"
+
+#~ msgid "Inverted Logo Position"
+#~ msgstr "برعکس کردن جایگاه آیکون"
+
+#~ msgid "Place Logo to the right side of the Header"
+#~ msgstr "لوگو را به سمت راست منتقل کن"
+
+#~ msgid "Logo"
+#~ msgstr "لوگو "
+
+#~ msgid "Height in the Sticky Header"
+#~ msgstr "ارتفاع در هدر چسبان"
+
+#~ msgid "Stretch menu items to the full height of the header"
+#~ msgstr "آیتم منو های کشیده برای پرکردن ارتفاع هدر"
+
+#~ msgid "Enable mobile layout when screen width is less than"
+#~ msgstr "قالب موبایل را وقتی فعال می کند که عرض صفحه نمایش کمتر از این شود."
+
+#~ msgid ""
+#~ "To display different website headers based on page type, install %sHeader "
+#~ "Builder addon%s."
+#~ msgstr ""
+#~ "To display different website headers based on page type, install %sHeader "
+#~ "Builder addon%s."
+
+#, fuzzy
+#~ msgid "Check available languages for needed fonts on %s website."
+#~ msgstr "Check available languages for needed fonts on %s website"
+
+#~ msgid "Sidebars"
+#~ msgstr "سایدبارها"
+
+#~ msgid "Just type and press 'enter'"
+#~ msgstr "واژه مورد نظر را وارد کرده و اینتر را بزنید"

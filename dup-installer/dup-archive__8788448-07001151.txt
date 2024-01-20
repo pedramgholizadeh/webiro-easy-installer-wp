@@ -1,0 +1,725 @@
+{
+    "dup_type": "lite",
+    "created": "2023-03-07 00:11:51",
+    "version_dup": "1.5.2.1",
+    "version_wp": "6.0",
+    "version_db": "5.7.39",
+    "version_php": "7.4.33",
+    "version_os": "Darwin",
+    "blogname": "\u0648\u0628\u06cc\u0631\u0648",
+    "exportOnlyDB": 0,
+    "secure_on": true,
+    "secure_pass": "$2a$08$fk49sWW5md2dIsbq5udg6.Zl08MVr1yENLr.ANatzxX\/b6iPXMODe",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "localhost",
+            "path": "\/easy\/",
+            "blogname": "\u0648\u0628\u06cc\u0631\u0648",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "2",
+                    "user_login": "pedralizad",
+                    "id": "2"
+                }
+            ],
+            "fullHomeUrl": "http:\/\/localhost:8888\/easy",
+            "fullSiteUrl": "http:\/\/localhost:8888\/easy",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/uploads",
+            "fullUploadSafePath": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/uploads",
+            "fullUploadUrl": "http:\/\/localhost:8888\/easy\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4",
+            "latin1",
+            "utf8"
+        ],
+        "collationList": [
+            "latin1_swedish_ci",
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB",
+            "MyISAM"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "easy",
+        "tablesBaseCount": 53,
+        "tablesFinalCount": 53,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 1234,
+        "tablesSizeOnDisk": 2594818,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 17,
+                "insertedRows": 17,
+                "size": 131072
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 49,
+                "insertedRows": 49,
+                "size": 49152
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 9184
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_options": {
+                "inaccurateRows": 605,
+                "insertedRows": 605,
+                "size": 776200
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 162,
+                "insertedRows": 162,
+                "size": 31588
+            },
+            "wp_posts": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 48744
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 59,
+                "insertedRows": 59,
+                "size": 12736
+            },
+            "wp_terms": {
+                "inaccurateRows": 34,
+                "insertedRows": 34,
+                "size": 14924
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 3219
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 34,
+                "insertedRows": 34,
+                "size": 5424
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 42,
+                "insertedRows": 42,
+                "size": 36160
+            },
+            "wp_users": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 8488
+            },
+            "wp_wc_admin_notes": {
+                "inaccurateRows": 36,
+                "insertedRows": 36,
+                "size": 49152
+            },
+            "wp_wc_admin_note_actions": {
+                "inaccurateRows": 44,
+                "insertedRows": 44,
+                "size": 32768
+            },
+            "wp_wc_category_lookup": {
+                "inaccurateRows": 33,
+                "insertedRows": 33,
+                "size": 16384
+            },
+            "wp_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_product_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_wc_order_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_product_meta_lookup": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 114688
+            },
+            "wp_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_yoast_indexable": {
+                "inaccurateRows": 40,
+                "insertedRows": 40,
+                "size": 23928
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "inaccurateRows": 12,
+                "insertedRows": 12,
+                "size": 5519
+            },
+            "wp_yoast_migrations": {
+                "inaccurateRows": 25,
+                "insertedRows": 25,
+                "size": 9816
+            },
+            "wp_yoast_primary_term": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 4152
+            },
+            "wp_yoast_prominent_words": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_yoast_seo_links": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 5248
+            }
+        },
+        "varLowerCaseTables": "2",
+        "dbEngine": "MySQL",
+        "version": "5.7.39",
+        "versionComment": "MySQL Community Server (GPL)",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 6,
+        "packageName": "Webiro_Theme_Easy",
+        "packageHash": "8788448-07001151",
+        "secondaryHash": "9ba4a93-07001151"
+    },
+    "fileInfo": {
+        "dirCount": 1337,
+        "fileCount": 9321,
+        "size": 45090404
+    },
+    "wpInfo": {
+        "version": "6.0",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/Applications\/MAMP\/htdocs\/easy",
+        "targetPaths": [
+            "\/Applications\/MAMP\/htdocs\/easy"
+        ],
+        "adminUsers": [
+            {
+                "ID": "2",
+                "user_login": "pedralizad",
+                "id": "2"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/Applications\/MAMP\/htdocs\/easy\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "um=x2g!ojOtQQFPi\/wTq*qki9Z}go+.jO|]x%y8k9Z Df0 kn\/K|szP\/@D;np>bL",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "0o=7\/JED<T-clI*Whzs+U07v&,P-*U;!JweLzA!9K|Z+%;%|GKc\/WL.EEK35A1r1",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "EQSWR-N|ub4s;ti>q\/M #8`;*p8Ni<A*(s7FLZM3LozjGDC2M[R;\/.N>~H8 nnv#",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "Iw]I!6e4;45`raZ-hi>hrB%]Bg)`H7dCJ#h!$g;-bTos6 qd44&D>&@O9NJejy?!",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "4ZM:y&f6Ljo<~~U`RW&*rZ7^{nwy^b|ZeQmKHg{9}u.dT4wzIx;~z=j97cg&o},o",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "w!(X.Xk2%l2mEKE|mR#!vnI>sZ)*oOSz.(<{;UG(UddA.l+HgtOpe>d98}9i*q,h",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "h4$)l[z\/v.13xYn?;l0#\/hp@ x<kAw<(Gip73x,S{,Fu7\/FOHCvo|_r=>&o6}P\/f",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "C:UK,!o@@qIv=28?US8+ZG.rMpZA{p;3W\/yL&v?X]<^0v%c^!?n.$pp4QH2}@+@T",
+                    "inWpConfig": true
+                },
+                "WP_SITEURL": {
+                    "value": "http:\/\/localhost:8888\/easy\/",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/Applications\/MAMP\/htdocs\/easy\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "http:\/\/localhost:8888\/easy\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "http:\/\/localhost:8888\/easy\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/easy\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/easy\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/easy\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/easy\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/themes\/Webiro",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/themes\/Webiro",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_AUTO_UPDATE_CORE": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "http:\/\/localhost:8888\/easy\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "http:\/\/localhost:8888\/easy",
+                "homeUrl": "http:\/\/localhost:8888\/easy",
+                "loginUrl": "http:\/\/localhost:8888\/easy\/wp-login.php",
+                "contentUrl": "http:\/\/localhost:8888\/easy\/wp-content",
+                "uploadBaseUrl": "http:\/\/localhost:8888\/easy\/wp-content\/uploads",
+                "pluginsUrl": "http:\/\/localhost:8888\/easy\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/localhost:8888\/easy\/wp-content\/mu-plugins",
+                "themesUrl": "http:\/\/localhost:8888\/easy\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/Applications\/MAMP\/htdocs\/easy",
+                    "abs": "\/Applications\/MAMP\/htdocs\/easy",
+                    "wpconfig": "\/Applications\/MAMP\/htdocs\/easy",
+                    "wpcontent": "\/Applications\/MAMP\/htdocs\/easy\/wp-content",
+                    "uploads": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/uploads",
+                    "plugins": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/plugins",
+                    "muplugins": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/mu-plugins",
+                    "themes": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/Applications\/MAMP\/htdocs\/easy",
+                    "abs": "\/Applications\/MAMP\/htdocs\/easy",
+                    "wpconfig": "\/Applications\/MAMP\/htdocs\/easy",
+                    "wpcontent": "\/Applications\/MAMP\/htdocs\/easy\/wp-content",
+                    "uploads": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/uploads",
+                    "plugins": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/plugins",
+                    "muplugins": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/mu-plugins",
+                    "themes": "\/Applications\/MAMP\/htdocs\/easy\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.2.1",
+                "pluginURI": "https:\/\/snapcreek.com\/duplicator\/duplicator-free\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/www.snapcreek.com\/duplicator\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "Ultimate_VC_Addons\/Ultimate_VC_Addons.php": {
+                "slug": "Ultimate_VC_Addons\/Ultimate_VC_Addons.php",
+                "name": "Ultimate Addons for WPBakery Page Builder",
+                "version": "3.19.11",
+                "pluginURI": "https:\/\/brainstormforce.com\/demos\/ultimate\/",
+                "author": "Brainstorm Force",
+                "authorURI": "https:\/\/www.brainstormforce.com",
+                "description": "Includes WPBakery Page Builder premium addon elements like Icon, Info Box, Interactive Banner, Flip Box, * Info List & Counter. Best of all - provides A Font Icon Manager allowing users to upload \/ delete custom icon fonts.",
+                "title": "Ultimate Addons for WPBakery Page Builder",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "us-core\/us-core.php": {
+                "slug": "us-core\/us-core.php",
+                "name": "UpSolution Core",
+                "version": "8.6.1",
+                "pluginURI": "https:\/\/help.us-themes.com\/impreza\/us-core\/",
+                "author": "UpSolution",
+                "authorURI": "https:\/\/us-themes.com\/",
+                "description": "Adds plenty of features for Impreza and Zephyr themes.",
+                "title": "UpSolution Core",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-parsidate\/wp-parsidate.php": {
+                "slug": "wp-parsidate\/wp-parsidate.php",
+                "name": "WP-Parsidate",
+                "version": "4.0.2",
+                "pluginURI": "https:\/\/wp-parsi.com\/support\/",
+                "author": "WP-Parsi Team",
+                "authorURI": "https:\/\/wp-parsi.com\/",
+                "description": "Persian package for WordPress, Adds full RTL and Shamsi (Jalali) support for: posts, comments, pages, archives, search, categories, permalinks and all admin sections and TinyMce editor, lists, quick editor. This package has Jalali archive widget.",
+                "title": "WP-Parsidate",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "js_composer\/js_composer.php": {
+                "slug": "js_composer\/js_composer.php",
+                "name": "WPBakery Page Builder",
+                "version": "6.8.0",
+                "pluginURI": "http:\/\/wpbakery.com",
+                "author": "Michael M - WPBakery.com",
+                "authorURI": "http:\/\/wpbakery.com",
+                "description": "Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine \u2013 no programming knowledge required.",
+                "title": "WPBakery Page Builder",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo\/wp-seo.php": {
+                "slug": "wordpress-seo\/wp-seo.php",
+                "name": "Yoast SEO",
+                "version": "19.4",
+                "pluginURI": "https:\/\/yoa.st\/1uj",
+                "author": "Team Yoast",
+                "authorURI": "https:\/\/yoa.st\/1uk",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo-premium\/wp-seo-premium.php": {
+                "slug": "wordpress-seo-premium\/wp-seo-premium.php",
+                "name": "Yoast SEO Premium",
+                "version": "19.0.1",
+                "pluginURI": "https:\/\/yoa.st\/2jc",
+                "author": "20script",
+                "authorURI": "https:\/\/tehransite.com",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO Premium",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "Webiro": {
+                "slug": "Webiro",
+                "themeName": "WEBIRO",
+                "version": "2.0",
+                "themeURI": "https:\/\/webiro.ir",
+                "parentTheme": false,
+                "template": "Webiro",
+                "stylesheet": "Webiro",
+                "description": "WEBIRO Own Theme",
+                "author": "Webiro Team by P3D",
+                "authorURI": "https:\/\/webiro.ir",
+                "tags": [
+                    "responsive-layout",
+                    "custom-colors",
+                    "theme-options",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "\u0648\u0628\u06cc\u0631\u0648"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "Webiro_Theme_Easy_8788448b1a4b4ed09002_20230307001151_installer-backup.php",
+    "package_name": "Webiro_Theme_Easy_8788448b1a4b4ed09002_20230307001151_archive.zip",
+    "package_hash": "8788448-07001151",
+    "package_notes": ""
+}
