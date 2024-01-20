@@ -1,0 +1,1886 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 04:22:04
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Darwin                                |Darwin
+PHP VERSION_________: 7.4.33                                |8.2.0
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.2.0 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: nginx/1.19.2
+DOC ROOT____________: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+REQUEST URL_________: "http://localhost:8888/webiro-easy-installer-wp"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+URL_NEW_____________: "http://localhost:8888/webiro-easy-installer-wp"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/Webiro_Theme_Easy_[HASH]_20230307001151_archive.zip"
+ARCHIVE SIZE________: 0B
+CREATED_____________: 2023-03-07 00:11:51
+WP VERSION__________: 6.0
+DUP VERSION_________: 1.5.2.1
+LICENSE_____________: Free version
+DB VERSION__________: 5.7.39
+DB FILE SIZE________: 2.47MB
+DB TABLES___________: 53
+DB ROWS_____________: 1234
+URL HOME____________: http://localhost:8888/easy
+URL CORE____________: http://localhost:8888/easy
+URL CONTENT_________: http://localhost:8888/easy/wp-content
+URL UPLOAD__________: http://localhost:8888/easy/wp-content/uploads
+URL PLUGINS_________: http://localhost:8888/easy/wp-content/plugins
+URL MU PLUGINS______: http://localhost:8888/easy/wp-content/mu-plugins
+URL THEMES__________: http://localhost:8888/easy/wp-content/themes
+PATH HOME___________: /Applications/MAMP/htdocs/easy
+PATH ABS____________: /Applications/MAMP/htdocs/easy
+PATH WPCONFIG_______: /Applications/MAMP/htdocs/easy
+PATH WPCONTENT______: /Applications/MAMP/htdocs/easy/wp-content
+PATH UPLOADS________: /Applications/MAMP/htdocs/easy/wp-content/uploads
+PATH PLUGINS________: /Applications/MAMP/htdocs/easy/wp-content/plugins
+PATH MUPLUGINS______: /Applications/MAMP/htdocs/easy/wp-content/mu-plugins
+PATH THEMES_________: /Applications/MAMP/htdocs/easy/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "localhost/easy/"
+
+PLUGINS
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:Ultimate_VC_Addons/Ultimate_VC_Addons.php         ][ON:true ]  Ultimate Addons for WPBakery Page Builder
+PLUGIN [SLUG:us-core/us-core.php                               ][ON:true ]  UpSolution Core
+PLUGIN [SLUG:wp-parsidate/wp-parsidate.php                     ][ON:false]  WP-Parsidate
+PLUGIN [SLUG:js_composer/js_composer.php                       ][ON:true ]  WPBakery Page Builder
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ]  Yoast SEO
+PLUGIN [SLUG:wordpress-seo-premium/wp-seo-premium.php          ][ON:true ]  Yoast SEO Premium
+
+********************************************************************************
+SECURE CHECK -> GO TO SECURE PAGE
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.06350]  MESSAGE:END RENDER PAGE
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "initialized"
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.02235]  MESSAGE:END RENDER PAGE
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.02260]  MESSAGE:END RENDER PAGE
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Archive Check" RESULT: soft warning
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual extraction detected" RESULT: soft warning
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00017]  MESSAGE:TEST "Package Age" RESULT: soft warning
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00067]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+--------------------------------------
+LOG-TIME[DELTA:   0.21843]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00046]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01417]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.03842]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_DB_Functions::$timeStart is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/database/class.db.functions.php|LINE:61]
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_Validation_database_service::$supportedCharsetList is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/validation/class.validation.database.service.php|LINE:84]
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_Validation_database_service::$supportedCollates is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/validation/class.validation.database.service.php|LINE:85]
+LOG-TIME[DELTA:   0.00275]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00175]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00039]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00052]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.01507]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00095]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_Validation_test_db_supported_default_charset::$usedCharset is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/validation/database-tests/class.validation.test.db.supported.default.charset.php|LINE:42]
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_Validation_test_db_supported_default_charset::$usedCollate is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/validation/database-tests/class.validation.test.db.supported.default.charset.php|LINE:43]
+LOG-TIME[DELTA:   0.00088]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00061]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00020]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00022]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_DB_Functions::$timeStart is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/database/class.db.functions.php|LINE:61]
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_Validation_database_service::$supportedCharsetList is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/validation/class.validation.database.service.php|LINE:84]
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_Validation_database_service::$supportedCollates is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/validation/class.validation.database.service.php|LINE:85]
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 04:22:42
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "وبیرو"
+HOME URL NEW________: "http://localhost:8888/webiro-easy-installer-wp"
+SITE URL NEW________: "http://localhost:8888/webiro-easy-installer-wp/"
+CONTENT URL NEW_____: "http://localhost:8888/webiro-easy-installer-wp/wp-content"
+UPLOAD URL NEW______: "http://localhost:8888/webiro-easy-installer-wp/wp-content/uploads"
+PLUGINS URL NEW_____: "http://localhost:8888/webiro-easy-installer-wp/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://localhost:8888/webiro-easy-installer-wp/wp-content/mu-plugins"
+HOME PATH NEW_______: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+SITE PATH NEW_______: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/"
+CONTENT PATH NEW____: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content"
+UPLOAD PATH NEW_____: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/uploads"
+PLUGINS PATH NEW____: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "manual"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer"
+	FILE: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/Webiro_Theme_Easy_[HASH]_20230307001151_installer-backup.php"
+	FILE: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/Webiro_Theme_Easy_[HASH]_20230307001151_archive.zip"
+	FILE: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/installer.php"
+	FILE: "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer-bootlog__734aa6d-07001151.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "Webiro_Theme_Easy_[HASH]_20230307001151_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: MANUAL MODE >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+
+EXTRACTION: MANUAL MODE >>> DONE
+
+EXTRACTION COMPLETE @ 04:22:42 - RUNTIME: 0.1014 sec. - 
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 04:22:42
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_actionscheduler_actions"______________________[ROWS:      17] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_actions]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_claims]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_groups]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:      49] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_logs]
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_packages"__________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_packages]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_options"______________________________________[ROWS:     605] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:     162] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_termmeta"_____________________________________[ROWS:      59] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:      34] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:      34] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_usermeta"_____________________________________[ROWS:      42] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wc_admin_notes"_______________________________[ROWS:      36] [EXTRACT|REPLACE] [INST NAME: wp_wc_admin_notes]
+TABLE "wp_wc_admin_note_actions"________________________[ROWS:      44] [EXTRACT|REPLACE] [INST NAME: wp_wc_admin_note_actions]
+TABLE "wp_wc_category_lookup"___________________________[ROWS:      33] [EXTRACT|REPLACE] [INST NAME: wp_wc_category_lookup]
+TABLE "wp_wc_customer_lookup"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_customer_lookup]
+TABLE "wp_wc_download_log"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_download_log]
+TABLE "wp_wc_order_coupon_lookup"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_coupon_lookup]
+TABLE "wp_wc_order_product_lookup"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_product_lookup]
+TABLE "wp_wc_order_stats"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_stats]
+TABLE "wp_wc_order_tax_lookup"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_tax_lookup]
+TABLE "wp_wc_product_attributes_lookup"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_attributes_lookup]
+TABLE "wp_wc_product_download_directories"______________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_download_directories]
+TABLE "wp_wc_product_meta_lookup"_______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_meta_lookup]
+TABLE "wp_wc_rate_limits"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_rate_limits]
+TABLE "wp_wc_reserved_stock"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_reserved_stock]
+TABLE "wp_wc_tax_rate_classes"__________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_wc_tax_rate_classes]
+TABLE "wp_wc_webhooks"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_webhooks]
+TABLE "wp_woocommerce_api_keys"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_api_keys]
+TABLE "wp_woocommerce_attribute_taxonomies"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_attribute_taxonomies]
+TABLE "wp_woocommerce_downloadable_product_permissions"_[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_downloadable_product_permissions]
+TABLE "wp_woocommerce_log"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_log]
+TABLE "wp_woocommerce_order_itemmeta"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_order_itemmeta]
+TABLE "wp_woocommerce_order_items"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_order_items]
+TABLE "wp_woocommerce_payment_tokenmeta"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_payment_tokenmeta]
+TABLE "wp_woocommerce_payment_tokens"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_payment_tokens]
+TABLE "wp_woocommerce_sessions"_________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_sessions]
+TABLE "wp_woocommerce_shipping_zones"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zones]
+TABLE "wp_woocommerce_shipping_zone_locations"__________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zone_locations]
+TABLE "wp_woocommerce_shipping_zone_methods"____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zone_methods]
+TABLE "wp_woocommerce_tax_rates"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_tax_rates]
+TABLE "wp_woocommerce_tax_rate_locations"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_tax_rate_locations]
+TABLE "wp_yoast_indexable"______________________________[ROWS:      40] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:      12] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable_hierarchy]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:      25] [EXTRACT|REPLACE] [INST NAME: wp_yoast_migrations]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_yoast_primary_term]
+TABLE "wp_yoast_prominent_words"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_yoast_prominent_words]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_yoast_seo_links]
+********************************************************************************
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_DB_Functions::$timeStart is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/database/class.db.functions.php|LINE:61]
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.39 -- Build Server: 5.7.39
+FILE SIZE:	dup-database__[HASH].sql (672.44KB)
+TIMEOUT:	5000
+MAXPACK:	4194304
+SQLMODE-GLOBAL:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_DBInstall::$thread_start_time is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/ctrls/classes/class.ctrl.dbinstall.php|LINE:667]
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	1290
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_actionscheduler_actions"______________________[ROWS:    17]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:     0]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:     3]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:    49]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:     0]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     1]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   605]
+TABLE "wp_postmeta"_____________________________________[ROWS:   162]
+TABLE "wp_posts"________________________________________[ROWS:    24]
+TABLE "wp_term_relationships"___________________________[ROWS:     5]
+TABLE "wp_term_taxonomy"________________________________[ROWS:    34]
+TABLE "wp_termmeta"_____________________________________[ROWS:    59]
+TABLE "wp_terms"________________________________________[ROWS:    34]
+TABLE "wp_usermeta"_____________________________________[ROWS:    42]
+TABLE "wp_users"________________________________________[ROWS:     1]
+TABLE "wp_wc_admin_note_actions"________________________[ROWS:    44]
+TABLE "wp_wc_admin_notes"_______________________________[ROWS:    36]
+TABLE "wp_wc_category_lookup"___________________________[ROWS:    33]
+TABLE "wp_wc_customer_lookup"___________________________[ROWS:     0]
+TABLE "wp_wc_download_log"______________________________[ROWS:     0]
+TABLE "wp_wc_order_coupon_lookup"_______________________[ROWS:     0]
+TABLE "wp_wc_order_product_lookup"______________________[ROWS:     0]
+TABLE "wp_wc_order_stats"_______________________________[ROWS:     0]
+TABLE "wp_wc_order_tax_lookup"__________________________[ROWS:     0]
+TABLE "wp_wc_product_attributes_lookup"_________________[ROWS:     0]
+TABLE "wp_wc_product_download_directories"______________[ROWS:     2]
+TABLE "wp_wc_product_meta_lookup"_______________________[ROWS:     1]
+TABLE "wp_wc_rate_limits"_______________________________[ROWS:     0]
+TABLE "wp_wc_reserved_stock"____________________________[ROWS:     0]
+TABLE "wp_wc_tax_rate_classes"__________________________[ROWS:     2]
+TABLE "wp_wc_webhooks"__________________________________[ROWS:     0]
+TABLE "wp_woocommerce_api_keys"_________________________[ROWS:     0]
+TABLE "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0]
+TABLE "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0]
+TABLE "wp_woocommerce_log"______________________________[ROWS:     0]
+TABLE "wp_woocommerce_order_itemmeta"___________________[ROWS:     0]
+TABLE "wp_woocommerce_order_items"______________________[ROWS:     0]
+TABLE "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0]
+TABLE "wp_woocommerce_payment_tokens"___________________[ROWS:     0]
+TABLE "wp_woocommerce_sessions"_________________________[ROWS:     1]
+TABLE "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zones"___________________[ROWS:     0]
+TABLE "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0]
+TABLE "wp_woocommerce_tax_rates"________________________[ROWS:     0]
+TABLE "wp_yoast_indexable"______________________________[ROWS:    40]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:    12]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:    25]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:     1]
+TABLE "wp_yoast_prominent_words"________________________[ROWS:     0]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:     1]
+
+INSERT DATA RUNTIME: 0.7654 sec.
+STEP-2 COMPLETE @ 04:22:43 - RUNTIME: 0.7654 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /Applications/MAMP/htdocs/easy REPLACE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/ [SCOPE: ALL]
+SEARCH ITEM[T:path |P:12] SEARCH: /Applications/MAMP/htdocs/easy REPLACE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: http://localhost:8888/easy REPLACE: http://localhost:8888/webiro-easy-installer-wp/ [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: http://localhost:8888/easy REPLACE: http://localhost:8888/webiro-easy-installer-wp [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_DB_Functions::$timeStart is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/database/class.db.functions.php|LINE:61]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 04:22:43
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = ], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = 1]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 256M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wp_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_ui_view_state","duplicator_package_active","duplicator_settings","duplicator_is_pro_enable_notice_dismissed")
+DATABASE OPTIONS DELETED [ROWS:    52]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    17][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:    49][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   553][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:   162][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:    59][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_termmeta][0]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    34][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:     5][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    34][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    42][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:    36][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_admin_notes][0]
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:    44][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:    33][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_attributes_lookup"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_download_directories"______________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_product_download_directories][0]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "wp_wc_rate_limits"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_reserved_stock"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_woocommerce_sessions][0]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_indexable"______________________________[ROWS:    40][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_indexable][0]
+
+EVALUATE TABLE: "wp_yoast_indexable_hierarchy"____________________[ROWS:    12][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_migrations"_____________________________[ROWS:    25][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_migrations][0]
+
+EVALUATE TABLE: "wp_yoast_primary_term"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_primary_term][0]
+
+EVALUATE TABLE: "wp_yoast_prominent_words"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_seo_links"______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/Applications/MAMP/htdocs/easy" ==================> "/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp"
+	SEARCH[urlnd]  2:"http://localhost:8888/easy" ======================> "http://localhost:8888/webiro-easy-installer-wp"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_seo_links][0]
+--------------------------------------
+SCANNED:	Tables:53 	|	 Rows:1131 	|	 Cells:7825 
+UPDATED:	Tables:9 	|	 Rows:75 	|	 Cells:79 
+ERRORS:		0 
+RUNTIME:	0.241100 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php
+New htaccess file created:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_SITEURL "http://localhost:8888/webiro-easy-installer-wp/"
+	UPDATE DB_NAME ""WebiroEasyGit""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_DEBUG "false"
+	WP CONFIG UPDATE WP_AUTO_UPDATE_CORE "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 04:22:44 - RUNTIME: 0.4143 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/src/Core/Bootstrap.php:72] RESET TIME
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[NOTICE] Plugin WPBakery Page Builder disabled by default
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated by default automatically. You must reactivate from the WordPress admin panel after completing the installation or from the plugins tab. Your site's frontend will render properly after reactivating the plugin.
+
+====================================
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] WPBakery Page Builder has been deactivated
+	SECTIONS: plugins
+
+-----------------------
+[NOTICE] Activate WPBakery Page Builder after you login.
+	SECTIONS: plugins
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php
+E_DEPRECATED Creation of dynamic property wpdb::$categories is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[760]
+	--- TRACE ---
+	CLASS___: wpdb->__set                   FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[1013]
+	CLASS___: wpdb->set_prefix              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/load.php[620]
+	FUNCTION: wp_set_wpdb_vars              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[128]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property wpdb::$post2cat is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[760]
+	--- TRACE ---
+	CLASS___: wpdb->__set                   FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[1013]
+	CLASS___: wpdb->set_prefix              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/load.php[620]
+	FUNCTION: wp_set_wpdb_vars              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[128]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property wpdb::$link2cat is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[760]
+	--- TRACE ---
+	CLASS___: wpdb->__set                   FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[1013]
+	CLASS___: wpdb->set_prefix              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/load.php[620]
+	FUNCTION: wp_set_wpdb_vars              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[128]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$is_overloaded is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[26]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[315]
+	FUNCTION: wpseo_load_textdomain         FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_pos is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[29]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[315]
+	FUNCTION: wpseo_load_textdomain         FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_f is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[160]
+	--- TRACE ---
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[315]
+	FUNCTION: wpseo_load_textdomain         FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property MO::$_gettext_select_plural_form is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[292]
+	--- TRACE ---
+	CLASS___: Gettext_Translations->set_headerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[75]
+	CLASS___: Translations->set_headers     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[294]
+	CLASS___: MO->import_from_reader        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[49]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[315]
+	FUNCTION: wpseo_load_textdomain         FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Main::$helpers is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	--- TRACE ---
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/admin/watchers/class-slug-change-watcher.php[20]
+	CLASS___: WPSEO_Slug_Change_Watcher->register_hooksFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[362]
+	FUNCTION: wpseo_init                    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Surfaces\Classes_Surface::$container is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/src/surfaces/classes-surface.php[20]
+	--- TRACE ---
+	CLASS___: Yoast\WP\SEO\Surfaces\Classes_Surface->__constructFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/generated/container.php[1679]
+	CLASS___: Yoast\WP\SEO\Premium\Generated\Cached_Container->getClassesSurfaceServiceFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Container.php[271]
+	CLASS___: YoastSEO_Vendor\Symfony\Component\DependencyInjection\Container->getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[88]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Premium\Main::$classes is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	--- TRACE ---
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[88]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Surfaces\Classes_Surface::$container is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/src/surfaces/classes-surface.php[20]
+	--- TRACE ---
+	CLASS___: Yoast\WP\SEO\Surfaces\Classes_Surface->__constructFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/src/generated/container.php[4920]
+	CLASS___: Yoast\WP\SEO\Generated\Cached_Container->getClassesSurfaceServiceFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Container.php[271]
+	CLASS___: YoastSEO_Vendor\Symfony\Component\DependencyInjection\Container->getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[99]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Main::$classes is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	--- TRACE ---
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[99]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$is_overloaded is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[26]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[418]
+	CLASS___: WPSEO_Premium->load_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[116]
+	CLASS___: WPSEO_Premium->setup          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[107]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_pos is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[29]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[418]
+	CLASS___: WPSEO_Premium->load_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[116]
+	CLASS___: WPSEO_Premium->setup          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[107]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_f is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[160]
+	--- TRACE ---
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[418]
+	CLASS___: WPSEO_Premium->load_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[116]
+	CLASS___: WPSEO_Premium->setup          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[107]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property MO::$_gettext_select_plural_form is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[292]
+	--- TRACE ---
+	CLASS___: Gettext_Translations->set_headerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[75]
+	CLASS___: Translations->set_headers     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[294]
+	CLASS___: MO->import_from_reader        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[49]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[418]
+	CLASS___: WPSEO_Premium->load_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[116]
+	CLASS___: WPSEO_Premium->setup          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[107]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$is_overloaded is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[26]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[841]
+	FUNCTION: load_default_textdomain       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[536]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_pos is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[29]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[841]
+	FUNCTION: load_default_textdomain       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[536]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_f is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[160]
+	--- TRACE ---
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[841]
+	FUNCTION: load_default_textdomain       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[536]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property MO::$_gettext_select_plural_form is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[292]
+	--- TRACE ---
+	CLASS___: Gettext_Translations->set_headerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[75]
+	CLASS___: Translations->set_headers     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[294]
+	CLASS___: MO->import_from_reader        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[49]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[841]
+	FUNCTION: load_default_textdomain       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[536]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$is_overloaded is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[26]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/functions/helpers.php[295]
+	FUNCTION: us_maybe_load_theme_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/framework.php[291]
+	FUNCTION: us_theme_setup                FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[576]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_pos is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[29]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/functions/helpers.php[295]
+	FUNCTION: us_maybe_load_theme_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/framework.php[291]
+	FUNCTION: us_theme_setup                FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[576]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_f is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[160]
+	--- TRACE ---
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/functions/helpers.php[295]
+	FUNCTION: us_maybe_load_theme_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/framework.php[291]
+	FUNCTION: us_theme_setup                FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[576]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property MO::$_gettext_select_plural_form is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[292]
+	--- TRACE ---
+	CLASS___: Gettext_Translations->set_headerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[75]
+	CLASS___: Translations->set_headers     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[294]
+	CLASS___: MO->import_from_reader        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[49]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/functions/helpers.php[295]
+	FUNCTION: us_maybe_load_theme_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/framework.php[291]
+	FUNCTION: us_theme_setup                FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[576]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/index.php[17]
+	FUNCTION: require_once              -----------------------
+[NOTICE] Warnings or notices on WordPress backend tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp//wp-login.php
+E_DEPRECATED Creation of dynamic property wpdb::$categories is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[760]
+	--- TRACE ---
+	CLASS___: wpdb->__set                   FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[1013]
+	CLASS___: wpdb->set_prefix              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/load.php[620]
+	FUNCTION: wp_set_wpdb_vars              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[128]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property wpdb::$post2cat is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[760]
+	--- TRACE ---
+	CLASS___: wpdb->__set                   FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[1013]
+	CLASS___: wpdb->set_prefix              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/load.php[620]
+	FUNCTION: wp_set_wpdb_vars              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[128]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property wpdb::$link2cat is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[760]
+	--- TRACE ---
+	CLASS___: wpdb->__set                   FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/wp-db.php[1013]
+	CLASS___: wpdb->set_prefix              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/load.php[620]
+	FUNCTION: wp_set_wpdb_vars              FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[128]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$is_overloaded is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[26]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[315]
+	FUNCTION: wpseo_load_textdomain         FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_pos is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[29]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[315]
+	FUNCTION: wpseo_load_textdomain         FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_f is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[160]
+	--- TRACE ---
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[315]
+	FUNCTION: wpseo_load_textdomain         FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property MO::$_gettext_select_plural_form is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[292]
+	--- TRACE ---
+	CLASS___: Gettext_Translations->set_headerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[75]
+	CLASS___: Translations->set_headers     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[294]
+	CLASS___: MO->import_from_reader        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[49]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[315]
+	FUNCTION: wpseo_load_textdomain         FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Main::$helpers is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	--- TRACE ---
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/admin/watchers/class-slug-change-watcher.php[20]
+	CLASS___: WPSEO_Slug_Change_Watcher->register_hooksFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/wp-seo-main.php[362]
+	FUNCTION: wpseo_init                    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Surfaces\Classes_Surface::$container is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/src/surfaces/classes-surface.php[20]
+	--- TRACE ---
+	CLASS___: Yoast\WP\SEO\Surfaces\Classes_Surface->__constructFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/generated/container.php[1679]
+	CLASS___: Yoast\WP\SEO\Premium\Generated\Cached_Container->getClassesSurfaceServiceFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Container.php[271]
+	CLASS___: YoastSEO_Vendor\Symfony\Component\DependencyInjection\Container->getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[88]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Premium\Main::$classes is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	--- TRACE ---
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[88]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Surfaces\Classes_Surface::$container is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/src/surfaces/classes-surface.php[20]
+	--- TRACE ---
+	CLASS___: Yoast\WP\SEO\Surfaces\Classes_Surface->__constructFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/src/generated/container.php[4920]
+	CLASS___: Yoast\WP\SEO\Generated\Cached_Container->getClassesSurfaceServiceFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Container.php[271]
+	CLASS___: YoastSEO_Vendor\Symfony\Component\DependencyInjection\Container->getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[99]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property Yoast\WP\SEO\Main::$classes is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo/lib/abstract-main.php[65]
+	--- TRACE ---
+	CLASS___: Yoast\WP\Lib\Abstract_Main->__getFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[99]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$is_overloaded is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[26]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[418]
+	CLASS___: WPSEO_Premium->load_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[116]
+	CLASS___: WPSEO_Premium->setup          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[107]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_pos is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[29]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[418]
+	CLASS___: WPSEO_Premium->load_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[116]
+	CLASS___: WPSEO_Premium->setup          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[107]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_f is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[160]
+	--- TRACE ---
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[418]
+	CLASS___: WPSEO_Premium->load_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[116]
+	CLASS___: WPSEO_Premium->setup          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[107]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property MO::$_gettext_select_plural_form is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[292]
+	--- TRACE ---
+	CLASS___: Gettext_Translations->set_headerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[75]
+	CLASS___: Translations->set_headers     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[294]
+	CLASS___: MO->import_from_reader        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[49]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[890]
+	FUNCTION: load_plugin_textdomain        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[418]
+	CLASS___: WPSEO_Premium->load_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[116]
+	CLASS___: WPSEO_Premium->setup          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/premium.php[107]
+	CLASS___: WPSEO_Premium->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/plugins/wordpress-seo-premium/src/initializers/plugin.php[53]
+	CLASS___: Yoast\WP\SEO\Premium\Initializers\Plugin->loadFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[461]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$is_overloaded is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[26]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[841]
+	FUNCTION: load_default_textdomain       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[536]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_pos is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[29]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[841]
+	FUNCTION: load_default_textdomain       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[536]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_f is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[160]
+	--- TRACE ---
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[841]
+	FUNCTION: load_default_textdomain       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[536]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property MO::$_gettext_select_plural_form is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[292]
+	--- TRACE ---
+	CLASS___: Gettext_Translations->set_headerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[75]
+	CLASS___: Translations->set_headers     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[294]
+	CLASS___: MO->import_from_reader        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[49]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[841]
+	FUNCTION: load_default_textdomain       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[536]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$is_overloaded is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[26]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/functions/helpers.php[295]
+	FUNCTION: us_maybe_load_theme_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/framework.php[291]
+	FUNCTION: us_theme_setup                FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[576]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_pos is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[29]
+	--- TRACE ---
+	CLASS___: POMO_Reader->__construct      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[159]
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/functions/helpers.php[295]
+	FUNCTION: us_maybe_load_theme_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/framework.php[291]
+	FUNCTION: us_theme_setup                FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[576]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property POMO_FileReader::$_f is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/streams.php[160]
+	--- TRACE ---
+	CLASS___: POMO_FileReader->__construct  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[41]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/functions/helpers.php[295]
+	FUNCTION: us_maybe_load_theme_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/framework.php[291]
+	FUNCTION: us_theme_setup                FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[576]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property MO::$_gettext_select_plural_form is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[292]
+	--- TRACE ---
+	CLASS___: Gettext_Translations->set_headerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/translations.php[75]
+	CLASS___: Translations->set_headers     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[294]
+	CLASS___: MO->import_from_reader        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/pomo/mo.php[49]
+	CLASS___: MO->import_from_file          FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/l10n.php[753]
+	FUNCTION: load_textdomain               FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/functions/helpers.php[295]
+	FUNCTION: us_maybe_load_theme_textdomainFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/themes/Webiro/common/framework.php[291]
+	FUNCTION: us_theme_setup                FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[576]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property WP_Block_Type::$skip_inner_blocks is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-block-type.php[391]
+	--- TRACE ---
+	CLASS___: WP_Block_Type->set_props      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-block-type.php[269]
+	CLASS___: WP_Block_Type->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-block-type-registry.php[93]
+	CLASS___: WP_Block_Type_Registry->registerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/blocks.php[364]
+	FUNCTION: register_block_type_from_metadataFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/blocks/comment-template.php[115]
+	FUNCTION: register_block_core_comment_templateFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[307]
+	CLASS___: WP_Hook->apply_filters        FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-hook.php[331]
+	CLASS___: WP_Hook->do_action            FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/plugin.php[476]
+	FUNCTION: do_action                     FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-settings.php[598]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-config.php[178]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-load.php[50]
+	FUNCTION: require                       FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-content/wp_test_script_734aa6d-07001151.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Creation of dynamic property WP_Block_Type::$skip_inner_blocks is deprecated
+	FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-block-type.php[391]
+	--- TRACE ---
+	CLASS___: WP_Block_Type->set_props      FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-block-type.php[269]
+	CLASS___: WP_Block_Type->__construct    FILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/class-wp-block-type-registry.php[93]
+	CLASS___: WP_Block_Type_Registry->registerFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/blocks.php[364]
+	FUNCTION: register_block_type_from_metadataFILE: /Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/wp-includes/blocks/post-template.php[111]
+	FUNCTION: register_block_core_p====================================
+LOG-TIME[/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.02924]  MESSAGE:END RENDER PAGE
+[PHP ERR][E_DEPRECATED] MSG:Creation of dynamic property DUPX_ArchiveConfig::$brand is deprecated [CODE:8192|FILE:/Users/p3d/Station/00.Projects/www/webiro-easy-installer-wp/dup-installer/classes/config/class.archive.config.php|LINE:102]

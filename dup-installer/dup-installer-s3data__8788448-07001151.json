@@ -1,0 +1,73 @@
+{
+    "report": {
+        "pass": 0,
+        "chunk": 1,
+        "chunkPos": {
+            "l0": "final_report",
+            "l1": null,
+            "l2": null
+        },
+        "progress_perc": 100,
+        "scan_tables": 53,
+        "scan_rows": 1131,
+        "scan_cells": 7825,
+        "updt_tables": 9,
+        "updt_rows": 75,
+        "updt_cells": 79,
+        "errsql": [],
+        "errser": [],
+        "errkey": [],
+        "errsql_sum": 0,
+        "errser_sum": 0,
+        "errkey_sum": 0,
+        "profile_start": 1705767763.87101,
+        "profile_end": 1705767764.112085,
+        "time": "0.2411 sec.",
+        "err_all": 0,
+        "warn_all": 0,
+        "warnlist": []
+    },
+    "cTableParams": null,
+    "replaceData": [
+        {
+            "id": 0,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "\/Applications\/MAMP\/htdocs\/easy",
+            "replace": "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp"
+        },
+        {
+            "id": 1,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "\/Applications\/MAMP\/htdocs\/easy",
+            "replace": "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp"
+        },
+        {
+            "id": 2,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "http:\/\/localhost:8888\/easy",
+            "replace": "http:\/\/localhost:8888\/webiro-easy-installer-wp"
+        },
+        {
+            "id": 3,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "http:\/\/localhost:8888\/easy",
+            "replace": "http:\/\/localhost:8888\/webiro-easy-installer-wp"
+        }
+    ]
+}

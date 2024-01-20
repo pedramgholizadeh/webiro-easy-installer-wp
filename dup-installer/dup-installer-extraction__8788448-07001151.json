@@ -1,0 +1,45 @@
+{
+    "CL_-=_-=": "DUP_Extraction",
+    "zip_filetime": "current",
+    "archive_action": "donothing",
+    "archive_engine": "manual",
+    "extractonStart": 1705767762.828843,
+    "chunkStart": 0,
+    "root_path": "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp\/",
+    "archive_path": "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp\/Webiro_Theme_Easy_8788448b1a4b4ed09002_20230307001151_archive.zip",
+    "ajax1_error_level": 32767,
+    "dawn_status": null,
+    "archive_offset": 0,
+    "do_chunking": false,
+    "chunkedExtractionCompleted": false,
+    "num_files": 0,
+    "sub_folder_archive": "",
+    "max_size_extract_at_a_time": 2097152,
+    "zip_arc_chunk_notice_no": -1,
+    "zip_arc_chunk_notice_change_last_time": 0,
+    "zip_arc_chunks_extract_rates": [],
+    "archive_items_count": 10658,
+    "filters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "Webiro_Theme_Easy_8788448b1a4b4ed09002_20230307001151_installer-backup.php"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "dup-installer"
+        ]
+    },
+    "removeFilters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp\/Webiro_Theme_Easy_8788448b1a4b4ed09002_20230307001151_installer-backup.php",
+            "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp\/Webiro_Theme_Easy_8788448b1a4b4ed09002_20230307001151_archive.zip",
+            "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp\/installer.php",
+            "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp\/dup-installer-bootlog__734aa6d-07001151.txt"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "\/Users\/p3d\/Station\/00.Projects\/www\/webiro-easy-installer-wp\/dup-installer"
+        ]
+    }
+}
