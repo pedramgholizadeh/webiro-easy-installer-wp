@@ -186,6 +186,5 @@ define('ALLOW_UNFILTERED_UPLOADS', true);
 // define( 'DISALLOW_FILE_MODS', true ); 
 
 
-define( 'WP_AUTO_UPDATE_CORE', false );
 
 
